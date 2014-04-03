@@ -1,0 +1,1095 @@
+<!DOCTYPE html>
+<!-- saved from url=(0067)http://localhost:63342/c4-mob-app/app/web/mobile-web-app/index.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta charset="utf-8">
+	<title>4oD - Recommends</title>
+	<meta name="description" content="">
+	<meta name="author" content="">
+	<meta name="HandheldFriendly" content="True">
+
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<!--
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="img/h/apple-touch-icon.png">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="img/m/apple-touch-icon.png">
+	<link rel="apple-touch-icon-precomposed" href="img/l/apple-touch-icon-precomposed.png">
+	<link rel="shortcut icon" href="img/l/apple-touch-icon.png">
+-->
+	<!--<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black">
+	<link rel="apple-touch-startup-image" href="img/l/splash.png">-->
+	<meta http-equiv="cleartype" content="on">
+	<link rel="stylesheet" href="http://localhost:63342/c4-mob-app/app/web/mobile-web-app/css/style.css?v=1">
+	<!--<script src="js/libs/modernizr-custom.js"></script>-->
+<style type="text/css"></style><script>(function bootstrap(window) {
+
+      var angular = window.angular;
+
+      // Helper to determine if the root 'ng' module has been loaded
+      // window.angular may be available if the app is bootstrapped asynchronously, but 'ng' might
+      // finish loading later.
+      var ngLoaded = function () {
+        if (!window.angular) {
+          return false;
+        }
+        try {
+          window.angular.module('ng');
+        }
+        catch (e) {
+          return false;
+        }
+        return true;
+      };
+
+      if (!ngLoaded()) {
+        (function () {
+          // TODO: var name
+          var areWeThereYet = function (ev) {
+            if (ev.srcElement.tagName === 'SCRIPT') {
+              var oldOnload = ev.srcElement.onload;
+              ev.srcElement.onload = function () {
+                if (ngLoaded()) {
+
+                  document.removeEventListener('DOMNodeInserted', areWeThereYet);
+                  bootstrap(window);
+                }
+                if (oldOnload) {
+                  oldOnload.apply(this, arguments);
+                }
+              };
+            }
+          };
+          document.addEventListener('DOMNodeInserted', areWeThereYet);
+        }());
+        return;
+      }
+
+      // do not patch twice
+      if (window.__ngDebug) {
+        return;
+      }
+
+      // Helpers
+      // =======
+
+      // polyfill for performance.now on older webkit
+      if (!performance.now) {
+        performance.now = performance.webkitNow;
+      }
+
+      // Based on cycle.js
+      // https://github.com/douglascrockford/JSON-js/blob/master/cycle.js
+
+      // Make a deep copy of an object or array, assuring that there is at most
+      // one instance of each object or array in the resulting structure. The
+      // duplicate references (which might be forming cycles) are replaced with
+      // an object of the form
+      //      {$ref: PATH}
+      // where the PATH is a JSONPath string that locates the first occurrence.
+      var decycle = function (object) {
+        var objects = [],   // Keep a reference to each unique object or array
+            paths = [];     // Keep the path to each unique object or array
+
+        return (function derez(value, path) {
+          var i,          // The loop counter
+              name,       // Property name
+              nu;         // The new object or array
+          switch (typeof value) {
+          case 'object':
+            if (value instanceof HTMLElement) {
+              return value.innerHTML.toString().trim();
+            }
+            if (!value) {
+              return null;
+            }
+            for (i = 0; i < objects.length; i += 1) {
+              if (objects[i] === value) {
+                return {$ref: paths[i]};
+              }
+            }
+            objects.push(value);
+            paths.push(path);
+            if (value instanceof Array) {
+              nu = [];
+              for (i = 0; i < value.length; i += 1) {
+                nu[i] = derez(value[i], path + '[' + i + ']');
+              }
+            } else {
+              nu = {};
+              for (name in value) {
+                if (name[0] !== '$' && Object.prototype.hasOwnProperty.call(value, name)) {
+                  nu[name] = derez(value[name],
+                    path + '[' + JSON.stringify(name) + ']');
+                }
+              }
+            }
+            return nu;
+          case 'number':
+          case 'string':
+          case 'boolean':
+            return value;
+          }
+        }(object, '$'));
+      };
+      // End
+      // ===
+
+      // given a scope object, return an object with deep clones
+      // of the models exposed on that scope
+      var getScopeLocals = function (scope) {
+        var scopeLocals = {}, prop;
+        for (prop in scope) {
+          if (scope.hasOwnProperty(prop) && prop !== 'this' && prop[0] !== '$') {
+            scopeLocals[prop] = decycle(scope[prop]);
+          }
+        }
+        return scopeLocals;
+      };
+
+      // helper to extract dependencies from function arguments
+      // not all versions of AngularJS expose annotate
+      var annotate = angular.injector().annotate;
+      if (!annotate) {
+        annotate = (function () {
+
+          var FN_ARGS = /^function\s*[^\(]*\(\s*([^\)]*)\)/m;
+          var FN_ARG_SPLIT = /,/;
+          var FN_ARG = /^\s*(_?)(.+?)\1\s*$/;
+          var STRIP_COMMENTS = /((\/\/.*$)|(\/\*[\s\S]*?\*\/))/mg;
+
+          // TODO: should I keep these assertions?
+          function assertArg(arg, name, reason) {
+            if (!arg) {
+              throw new Error("Argument '" + (name || '?') + "' is " + (reason || "required"));
+            }
+            return arg;
+          }
+          function assertArgFn(arg, name, acceptArrayAnnotation) {
+            if (acceptArrayAnnotation && angular.isArray(arg)) {
+              arg = arg[arg.length - 1];
+            }
+
+            assertArg(angular.isFunction(arg), name, 'not a function, got ' +
+                (arg && typeof arg == 'object' ? arg.constructor.name || 'Object' : typeof arg));
+            return arg;
+          }
+
+          return function (fn) {
+            var $inject,
+                fnText,
+                argDecl,
+                last;
+
+            if (typeof fn == 'function') {
+              if (!($inject = fn.$inject)) {
+                $inject = [];
+                fnText = fn.toString().replace(STRIP_COMMENTS, '');
+                argDecl = fnText.match(FN_ARGS);
+                argDecl[1].split(FN_ARG_SPLIT).forEach(function(arg) {
+                  arg.replace(FN_ARG, function(all, underscore, name) {
+                    $inject.push(name);
+                  });
+                });
+                fn.$inject = $inject;
+              }
+            } else if (angular.isArray(fn)) {
+              last = fn.length - 1;
+              assertArgFn(fn[last], 'fn');
+              $inject = fn.slice(0, last);
+            } else {
+              assertArgFn(fn, 'fn', true);
+            }
+            return $inject;
+          };
+        }());
+      }
+
+      // throttle based on _.throttle from Lo-Dash
+      // https://github.com/bestiejs/lodash/blob/master/lodash.js#L4625
+      var throttle = function (func, wait) {
+        var args,
+            result,
+            thisArg,
+            timeoutId,
+            lastCalled = 0;
+
+        function trailingCall() {
+          lastCalled = new Date();
+          timeoutId = null;
+          result = func.apply(thisArg, args);
+        }
+        return function() {
+          var now = new Date(),
+            remaining = wait - (now - lastCalled);
+
+          args = arguments;
+          thisArg = this;
+
+          if (remaining <= 0) {
+            clearTimeout(timeoutId);
+            timeoutId = null;
+            lastCalled = now;
+            result = func.apply(thisArg, args);
+          }
+          else if (!timeoutId) {
+            timeoutId = setTimeout(trailingCall, remaining);
+          }
+          return result;
+        };
+      };
+
+      var debounce = function (func, wait, immediate) {
+        var args,
+          result,
+          thisArg,
+          timeoutId;
+
+        function delayed() {
+          timeoutId = null;
+          if (!immediate) {
+            result = func.apply(thisArg, args);
+          }
+        }
+        return function() {
+          var isImmediate = immediate && !timeoutId;
+          args = arguments;
+          thisArg = this;
+
+          clearTimeout(timeoutId);
+          timeoutId = setTimeout(delayed, wait);
+
+          if (isImmediate) {
+            result = func.apply(thisArg, args);
+          }
+          return result;
+        };
+      };
+
+      var updateScopeModelCache = function (scope) {
+        debug.models[scope.$id] = getScopeLocals(scope);
+        debug.scopeDirty[scope.$id] = false;
+      };
+
+      var popover = null;
+
+      // Public API
+      // ==========
+
+      var api = window.__ngDebug = {
+
+        getDeps: function () {
+          return debug.deps;
+        },
+
+        getRootScopeIds: function () {
+          var ids = [];
+          angular.forEach(debug.rootScopes, function (elt, id) {
+            ids.push(id);
+          });
+          return ids;
+        },
+
+        // returns null or cached scope
+        getModel: function (id) {
+          if (debug.scopeDirty[id]) {
+            updateScopeModelCache(debug.scopes[id]);
+            return debug.models[id];
+          }
+        },
+
+        getScopeTree: function (id) {
+          if (debug.scopeTreeDirty[id] === false) {
+            return;
+          }
+          var traverse = function (sc) {
+            var tree = {
+              id: sc.$id,
+              children: []
+            };
+
+            var child = sc.$$childHead;
+            if (child) {
+              do {
+                tree.children.push(traverse(child));
+              } while (child !== sc.$$childTail && (child = child.$$nextSibling));
+            }
+
+            return tree;
+          };
+
+          var root = debug.rootScopes[id];
+          var tree = traverse(root);
+
+          if (tree) {
+            debug.scopeTreeDirty[id] = false;
+          }
+
+
+          return tree;
+        },
+
+        getWatchPerf: function () {
+          var changes = [];
+          angular.forEach(debug.watchPerf, function (info, name) {
+            if (info.time > 0) {
+              changes.push({
+                name: name,
+                time: info.time
+              });
+              info.time = 0;
+            }
+          });
+          return changes;
+        },
+
+        getWatchTree: function (id) {
+          var traverse = function (sc) {
+            var tree = {
+              id: sc.$id,
+              watchers: debug.watchers[sc.$id],
+              children: []
+            };
+
+            var child = sc.$$childHead;
+            if (child) {
+              do {
+                tree.children.push(traverse(child));
+              } while (child !== sc.$$childTail && (child = child.$$nextSibling));
+            }
+
+            return tree;
+          };
+
+          var root = debug.rootScopes[id];
+          var tree = traverse(root);
+
+          return tree;
+        },
+
+        enable: function () {
+          if (popover) {
+            return;
+          }
+          var angular = window.angular;
+          popover = angular.element(
+            '<div style="position: fixed; left: 50px; top: 50px; z-index: 9999; background-color: #f1f1f1; box-shadow: 0 15px 10px -10px rgba(0, 0, 0, 0.5), 0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;">' +
+              '<div style="position: relative" style="min-width: 300px; min-height: 100px;">' +
+                '<div style="min-width: 100px; min-height: 50px; padding: 5px;"><pre>{ Please select a scope }</pre></div>' +
+                '<button style="position: absolute; top: -15px; left: -15px; cursor: move;">⇱</button>' +
+                '<button style="position: absolute; top: -15px; left: 10px;">+</button>' +
+                '<button style="position: absolute; top: -15px; right: -15px;">x</button>' +
+                '<style>' +
+                  '.ng-scope.bat-selected { border: 1px solid red; } ' +
+                  '.bat-indent { margin-left: 20px; }' +
+                '</style>' +
+              '</div>' +
+            '</div>');
+          angular.element(window.document.body).append(popover);
+          var popoverContent = angular.element(angular.element(popover.children('div')[0]).children()[0]);
+          var dragElt = angular.element(angular.element(popover.children('div')[0]).children()[1]);
+          var selectElt = angular.element(angular.element(popover.children('div')[0]).children()[2]);
+          var closeElt = angular.element(angular.element(popover.children('div')[0]).children()[3]);
+
+          var currentScope = null,
+            currentElt = null;
+
+          function onMove (ev) {
+            var x = ev.clientX,
+              y = ev.clientY;
+
+            if (x > window.outerWidth - 100) {
+              x = window.outerWidth - 100;
+            } else if (x < 0) {
+              x = 0;
+            }
+            if (y > window.outerHeight - 100) {
+              y = window.outerHeight - 100;
+            } else if (y < 0) {
+              y = 0;
+            }
+
+            x += 5;
+            y += 5;
+
+            popover.css('left', x + 'px');
+            popover.css('top', y + 'px');
+          }
+
+          closeElt.bind('click', function () {
+            popover.remove();
+            popover = null;
+          });
+
+          selectElt.bind('click', bindSelectScope);
+
+          var selecting = false;
+          function bindSelectScope () {
+            if (selecting) {
+              return;
+            }
+            setTimeout(function () {
+              selecting = true;
+              selectElt.attr('disabled', true);
+              angular.element(document.body).css('cursor', 'crosshair');
+              angular.element(document.getElementsByClassName('ng-scope'))
+                .bind('click', onSelectScope)
+                .bind('mouseover', onHoverScope);
+            }, 30);
+          }
+
+          var hoverScopeElt = null;
+
+          function markHoverElt () {
+            if (hoverScopeElt) {
+              hoverScopeElt.addClass('bat-selected');
+            }
+          }
+          function unmarkHoverElt () {
+            if (hoverScopeElt) {
+              hoverScopeElt.removeClass('bat-selected');
+            }
+          }
+
+          function onSelectScope (ev) {
+            render(this);
+            angular.element(document.getElementsByClassName('ng-scope'))
+              .unbind('click', onSelectScope)
+              .unbind('mouseover', onHoverScope);
+            unmarkHoverElt();
+            selecting = false;
+            selectElt.attr('disabled', false);
+            angular.element(document.body).css('cursor', '');
+            hovering = false;
+          }
+
+          var hovering = false;
+          function onHoverScope (ev) {
+            if (hovering) {
+              return;
+            }
+            hovering = true;
+            var that = this;
+            setTimeout(function () {
+              unmarkHoverElt();
+              hoverScopeElt = angular.element(that);
+              markHoverElt();
+              hovering = false;
+              render(that);
+            }, 100);
+          }
+
+          function onUnhoverScope (ev) {
+            angular.element(this).css('border', '');
+          }
+
+          dragElt.bind('mousedown', function (ev) {
+            ev.preventDefault();
+            rendering = true;
+            angular.element(document).bind('mousemove', onMove);
+          });
+          angular.element(document).bind('mouseup', function () {
+            angular.element(document).unbind('mousemove', onMove);
+            setTimeout(function () {
+              rendering = false;
+            }, 120);
+          });
+
+          function renderTree (data) {
+            var tree = angular.element('<div class="bat-indent"></div>');
+            angular.forEach(data, function (val, key) {
+              var toAppend;
+              if (val === undefined) {
+                toAppend = '<i>undefined</i>';
+              } else if (val === null) {
+                toAppend = '<i>null</i>';
+              } else if (val instanceof Array) {
+                toAppend = '[ ... ]';
+              } else if (val instanceof Object) {
+                toAppend = '{ ... }';
+              } else {
+                toAppend = val.toString();
+              }
+              if (data instanceof Array) {
+                toAppend = '<div>' +
+                  toAppend +
+                  ((key===data.length-1)?'':',') +
+                  '</div>';
+              } else {
+                toAppend = '<div>' +
+                  key +
+                  ': ' +
+                  toAppend +
+                  (key!==0?'':',') +
+                  '</div>';
+              }
+              toAppend = angular.element(toAppend);
+              if (val instanceof Array || val instanceof Object) {
+                function recur () {
+                  toAppend.unbind('click', recur);
+                  toAppend.html('');
+                  toAppend
+                    .append(angular.element('<span>' +
+                      key + ': ' +
+                      ((val instanceof Array)?'[':'{') +
+                      '<span>').bind('click', collapse))
+                    .append(renderTree(val))
+                    .append('<span>' + ((val instanceof Array)?']':'}') + '<span>');
+                }
+                function collapse () {
+                  toAppend.html('');
+                  toAppend.append(angular.element('<div>' +
+                    key +
+                    ': ' +
+                    ((val instanceof Array)?'[ ... ]':'{ ... }') +
+                    '</div>').bind('click', recur));
+                }
+                toAppend.bind('click', recur);
+              }
+              tree.append(toAppend);
+            });
+
+            return tree;
+          }
+
+          var isEmpty = function (object) {
+            var prop;
+            for (prop in object) {
+              if (object.hasOwnProperty(prop)) {
+                return false;
+              }
+            }
+            return true;
+          };
+
+          var objLength = function (object) {
+            var prop, len = 0;
+            for (prop in object) {
+              if (object.hasOwnProperty(prop)) {
+                len += 1;
+              }
+            }
+            return len;
+          };
+
+          var rendering = false;
+          var render = function (elt) {
+            if (rendering) {
+              return;
+            }
+            rendering = true;
+            setTimeout(function () {
+              var scope = angular.element(elt).scope();
+              rendering = false;
+              if (scope === currentScope) {
+                return;
+              }
+              currentScope = scope;
+              currentElt = elt;
+
+              var models = getScopeLocals(scope);
+              popoverContent.children().remove();
+              if (isEmpty(models)) {
+                popoverContent.append(angular.element('<i>This scope has no models</i>'));
+              } else {
+                popoverContent.append(renderTree(models));
+              }
+
+            }, 100);
+          };
+
+        }
+      };
+
+
+      // Private state
+      // =============
+
+      //var bootstrap = window.angular.bootstrap;
+      var debug = {
+        // map of scopes --> watcher function name strings
+        watchers: {},
+
+        // maps of watch/apply exp/fns to perf data
+        watchPerf: {},
+        applyPerf: {},
+
+        // map of scope.$ids --> $scope objects
+        scopes: {},
+        // map of scope.$ids --> model objects
+        models: {},
+        // map of $ids --> bools
+        scopeDirty: {},
+
+        // map of $ids --> refs to $rootScope objects
+        rootScopes: {},
+        scopeTreeDirty: {},
+
+        deps: []
+      };
+
+
+      // Instrumentation
+      // ===============
+
+      var ng = angular.module('ng');
+      ng.config(function ($provide) {
+        // methods to patch
+
+        // $provide.provider
+        var temp = $provide.provider;
+        $provide.provider = function (name, definition) {
+          if (!definition) {
+            angular.forEach(name, function (definition, name) {
+              var tempGet = definition.$get;
+              definition.$get = function () {
+                debug.deps.push({
+                  name: name,
+                  imports: annotate(tempGet)
+                });
+                return tempGet.apply(this, arguments);
+              };
+            });
+          } else if (definition instanceof Array) {
+            // it is a constructoctor with array syntax
+            var tempConstructor = definition[definition.length - 1];
+
+            definition[definition.length - 1] = function () {
+              debug.deps.push({
+                name: name,
+                imports: annotate(tempConstructor)
+              });
+              return tempConstructor.apply(this, arguments);
+            };
+          } else if (definition.$get instanceof Array) {
+            // it should have a $get
+            var tempGet = definition.$get[definition.$get.length - 1];
+
+            definition.$get[definition.$get.length - 1] = function () {
+              debug.deps.push({
+                name: name,
+                imports: annotate(tempGet)
+              });
+              return tempGet.apply(this, arguments);
+            };
+          } else if (typeof definition === 'object') {
+            // it should have a $get
+            var tempGet = definition.$get;
+
+            // preserve original annotations
+            definition.$get = annotate(definition.$get);
+            definition.$get.push(function () {
+              debug.deps.push({
+                name: name,
+                imports: annotate(tempGet)
+              });
+              return tempGet.apply(this, arguments);
+            });
+          } else {
+            debug.deps.push({
+              name: name,
+              imports: annotate(definition)
+            });
+          }
+          return temp.apply(this, arguments);
+        };
+
+        // $provide.(factory|service)
+        [
+          'factory',
+          'service'
+        ].forEach(function (met) {
+          var temp = $provide[met];
+          $provide[met] = function (name, definition) {
+            if (typeof name === 'object') {
+              angular.forEach(name, function (value, key) {
+                name[key] = function () {
+                  debug.deps.push({
+                    name: key,
+                    imports: annotate(value)
+                  });
+                  return value.apply(this, arguments);
+                };
+              });
+            } else {
+              debug.deps.push({
+                name: name,
+                imports: annotate(definition)
+              });
+            }
+            return temp.apply(this, arguments);
+          };
+        });
+
+        $provide.decorator('$rootScope', function ($delegate) {
+
+          var watchFnToHumanReadableString = function (fn) {
+            if (fn.exp) {
+              return fn.exp.trim();
+            } else if (fn.name) {
+              return fn.name.trim();
+            } else {
+              return fn.toString();
+            }
+          };
+
+          var applyFnToLogString = function (fn) {
+            var str;
+            if (fn) {
+              if (fn.name) {
+                str = fn.name;
+              } else if (fn.toString().split('\n').length > 1) {
+                str = 'fn () { ' + fn.toString().split('\n')[1].trim() + ' /* ... */ }';
+              } else {
+                str = fn.toString().trim().substr(0, 30) + '...';
+              }
+            } else {
+              str = '$apply';
+            }
+            return str;
+          };
+
+
+          // patch registering watchers
+          // ==========================
+
+          var _watch = $delegate.__proto__.$watch;
+          $delegate.__proto__.$watch = function (watchExpression, applyFunction) {
+            var thatScope = this;
+            var watchStr = watchFnToHumanReadableString(watchExpression);
+
+            if (!debug.watchPerf[watchStr]) {
+              debug.watchPerf[watchStr] = {
+                time: 0,
+                calls: 0
+              };
+            }
+            if (!debug.watchers[thatScope.$id]) {
+              debug.watchers[thatScope.$id] = [];
+            }
+            debug.watchers[thatScope.$id].push(watchStr);
+
+            // patch watchExpression
+            // ---------------------
+            var w = watchExpression;
+            if (typeof w === 'function') {
+              watchExpression = function () {
+                var start = performance.now();
+                var ret = w.apply(this, arguments);
+                var end = performance.now();
+                debug.watchPerf[watchStr].time += (end - start);
+                debug.watchPerf[watchStr].calls += 1;
+                return ret;
+              };
+            } else {
+              watchExpression = function () {
+                var start = performance.now();
+                var ret = thatScope.$eval(w);
+                var end = performance.now();
+                debug.watchPerf[watchStr].time += (end - start);
+                debug.watchPerf[watchStr].calls += 1;
+                return ret;
+              };
+            }
+
+            // patch applyFunction
+            // -------------------
+            if (typeof applyFunction === 'function') {
+              var applyStr = applyFunction.toString();
+              var unpatchedApplyFunction = applyFunction;
+              applyFunction = function () {
+                var start = performance.now();
+                var ret = unpatchedApplyFunction.apply(this, arguments);
+                var end = performance.now();
+                debug.scopeDirty[this.$id] = true;
+
+                //TODO: move these checks out of here and into registering the watcher
+                if (!debug.applyPerf[applyStr]) {
+                  debug.applyPerf[applyStr] = {
+                    time: 0,
+                    calls: 0
+                  };
+                }
+                debug.applyPerf[applyStr].time += (end - start);
+                debug.applyPerf[applyStr].calls += 1;
+                return ret;
+              };
+            }
+
+            return _watch.apply(this, arguments);
+          };
+
+
+          // patch $destroy
+          // --------------
+          var _destroy = $delegate.__proto__.$destroy;
+          $delegate.__proto__.$destroy = function () {
+            if (debug.watchers[this.$id]) {
+              delete debug.watchers[this.$id];
+            }
+            if (debug.models[this.$id]) {
+              delete debug.models[this.$id];
+            }
+            if (debug.scopes[this.$id]) {
+              delete debug.scopes[this.$id];
+            }
+            return _destroy.apply(this, arguments);
+          };
+
+
+          // patch $new
+          // ----------
+          var _new = $delegate.__proto__.$new;
+          $delegate.__proto__.$new = function () {
+
+            var ret = _new.apply(this, arguments);
+            if (ret.$root) {
+              debug.rootScopes[ret.$root.$id] = ret.$root;
+              debug.scopeTreeDirty[ret.$root.$id] = true;
+            }
+
+            // create empty watchers array for this scope
+            if (!debug.watchers[ret.$id]) {
+              debug.watchers[ret.$id] = [];
+            }
+
+            debug.scopes[ret.$id] = ret;
+            debug.scopes[this.$id] = this;
+            debug.scopeDirty[ret.$id] = true;
+
+            return ret;
+          };
+
+
+          // patch $digest
+          // -------------
+          var _digest = $delegate.__proto__.$digest;
+          $delegate.__proto__.$digest = function (fn) {
+            var ret = _digest.apply(this, arguments);
+            debug.scopeDirty[this.$id] = true;
+            return ret;
+          };
+
+
+          // patch $apply
+          // ------------
+          var _apply = $delegate.__proto__.$apply;
+          $delegate.__proto__.$apply = function (fn) {
+            var start = performance.now();
+            var ret = _apply.apply(this, arguments);
+            var end = performance.now();
+            debug.scopeDirty[this.$id] = true;
+
+            // If the debugging option is enabled, log to console
+            // --------------------------------------------------
+            if (debug.log) {
+              console.log(applyFnToLogString(fn) + '\t\t' + (end - start).toPrecision(4) + 'ms');
+            }
+
+            return ret;
+          };
+
+
+          return $delegate;
+        });
+      });
+    }(window))</script></head>
+
+<body class="home">
+<div id="container">
+		
+
+		
+<!-- <div id="container" style="width: 800px;"> -->
+		<header id="header" class="clearfix">
+			<div class="highlight clearfix">
+			
+				<a class="logo" href="http://localhost:63342/c4-mob-app/app/web/mobile-web-app/index.html#">4oD</a>
+			
+				<div id="searchRegion" class="search clearfix">
+
+						<!--<img src="img/resources/smlLoader.png" width="38" height="37" alt="SmlLoader" />-->
+						<div class="searchLoaderImage"></div>
+						
+						<div class="searchBox">
+							<label for="search">Search</label>
+							<input type="text" id="search" value="Search">
+							<button id="clearSearch" value="Clear search">
+						</button></div>
+				</div>
+				
+			</div>
+		</header>
+		
+	<nav class="primary clearfix">
+		<ul class="clearfix">
+			<li class="recommends active"><a href="http://localhost:63342/c4-mob-app/app/web/mobile-web-app/index.html#">4oD Recommends</a></li>
+			<li class="catchUp"><a href="http://localhost:63342/c4-mob-app/app/web/mobile-web-app/catch-up.html">Catch Up</a></li>
+			<li class="categories"><a href="http://localhost:63342/c4-mob-app/app/web/mobile-web-app/categories.html">Categories</a></li>
+			<li class="a-z"><a href="http://localhost:63342/c4-mob-app/app/web/mobile-web-app/a-z.html">A - Z</a></li>
+		</ul>
+	</nav>
+		<div id="main" role="main">
+				
+		<section id="carousel" class="clearfix ready">
+			
+			<div class="holder">
+				<div class="spinner">
+					<!--<img src="img/resources/img_whiteLoader.png" width="50" height="50" alt="Img WhiteLoader"> -->
+				</div>	
+			</div>
+			<ul class="stage clearfix stageReady" data-title="4oD Recommends">
+	                <li class="slide clearfix" style="width: 183px; height: 439px; position: relative; left: auto;">
+					    <img src="./4oD - Recommends_files/a08191d9-a1cd-4067-9881-73ace5a9ea1e_625x352.jpg" alt="Fresh Meat" style="height: 439px; width: 779px; right: -292px; position: absolute;"><div class="imagePlaceholder" data-src="http://www.channel4.com/assets/programmes/images/fresh-meat/a08191d9-a1cd-4067-9881-73ace5a9ea1e_496x279.jpg" data-alt="Fresh Meat"></div>
+					    <a data-title="Collection title1" href="http://localhost:63342/programmes/fresh-meat/">Fresh Meat</a>
+				    <div class="imgOverlay" style="height: 439px; width:779px"></div><div class="texts"><h2>Collection title1</h2><h3>Fresh Meat</h3></div></li>
+
+	                <li class="slide clearfix active" style="height: 439px; position: relative; width: 779px; left: auto;">
+					    <img src="./4oD - Recommends_files/b53da963-fd2d-4bea-aec6-fa7fa3e777d6_625x352.jpg" alt="Grand Designs" style="height: 439px; width: 779px; right: 0px; position: absolute;"><div class="imagePlaceholder" data-src="http://www.channel4.com/assets/programmes/images/grand-designs/b53da963-fd2d-4bea-aec6-fa7fa3e777d6_496x279.jpg" data-alt="Grand Designs"></div>
+					    <a data-title="Collection title2" href="http://localhost:63342/programmes/grand-designs/">Grand Designs</a>
+				    <div class="imgOverlay" style="height: 439px; width:779px"></div><div class="texts"><h2>Collection title2</h2><h3>Grand Designs</h3></div></li>
+
+	                <li class="slide clearfix" style="height: 439px; position: relative; width: 183px; left: auto;">
+					    <img src="./4oD - Recommends_files/cea49940-73fa-496d-b6f5-408390bfa610_625x352.jpg" alt="Made in Chelsea" style="height: 439px; width: 779px; right: -292px; position: absolute;"><div class="imagePlaceholder" data-src="http://www.channel4.com/assets/programmes/images/made-in-chelsea/cea49940-73fa-496d-b6f5-408390bfa610_496x279.jpg" data-alt="Made in Chelsea"></div>
+					    <a data-title="Collection title3" href="http://localhost:63342/programmes/made-in-chelsea/">Made in Chelsea</a>
+				    <div class="imgOverlay" style="height: 439px; width:779px"></div><div class="texts"><h2>Collection title3</h2><h3>Made in Chelsea</h3></div></li>
+
+	                <li class="slide clearfix" style="height: 439px; position: relative; width: 183px; left: auto;">
+					    <img src="./4oD - Recommends_files/6fc8925b-08c0-4ebe-9553-a96649610fe1_625x352.jpg" alt="Shameless" style="height: 439px; width: 779px; right: -292px; position: absolute;"><div class="imagePlaceholder" data-src="http://www.channel4.com/assets/programmes/images/shameless/6fc8925b-08c0-4ebe-9553-a96649610fe1_496x279.jpg" data-alt="Shameless"></div>
+					    <a data-title="Collection title4" href="http://localhost:63342/programmes/shameless/">Shameless</a>
+				    <div class="imgOverlay" style="height: 439px; width:779px"></div><div class="texts"><h2>Collection title4</h2><h3>Shameless</h3></div></li>
+
+	                <li class="slide clearfix" style="height: 439px; position: relative; width: 183px; left: auto;">
+					    <img src="./4oD - Recommends_files/6e40fdd7-52c3-4853-8245-07a2fe0cceee_625x352.jpg" alt="Rude Tube" style="height: 439px; width: 779px; right: -292px; position: absolute;"><div class="imagePlaceholder" data-src="http://www.channel4.com/assets/programmes/images/rude-tube/6e40fdd7-52c3-4853-8245-07a2fe0cceee_496x279.jpg" data-alt="Rude Tube"></div>
+					    <a data-title="Collection title5" href="http://localhost:63342/programmes/rude-tube/">Rude Tube</a>
+				    <div class="imgOverlay" style="height: 439px; width:779px"></div><div class="texts"><h2>Collection title5</h2><h3>Rude Tube</h3></div></li>
+			</ul>
+
+			
+		</section>
+		
+		<section id="episodeList">
+			<h2 class="subHeading">Recently added</h2>
+			
+			<div class="episodeGroup clearfix">
+				
+				<article class="episode clearfix">
+					
+					<div class="screenshotCont">
+						<img class="screenShot" src="./4oD - Recommends_files/episode_1.jpg" width="160" height="91" alt="Episode 1">
+					</div>
+					
+					<div class="details">
+						<h1>One Born Every Minute sakjdh ksajdhf ksjahd </h1>
+						<p>Channel 4 (27min) <span class="guidance"><span>This episode contains parental guidance</span></span></p>
+						<p><strong>26 days left more long text</strong></p>
+					</div>
+					<div class="rightLinks">
+						<a class="seeAll" href="http://localhost:63342/c4-mob-app/app/web/mobile-web-app/catch-up.html"><span>See all</span></a>
+					</div>	
+					
+				</article>
+			
+				<article class="episode clearfix">
+					
+					<div class="screenshotCont">
+						<img class="screenShot" src="./4oD - Recommends_files/episode_2.jpg" width="160" height="91" alt="Episode 2">
+					</div>
+					
+					<div class="details">
+						<h1>Dispatches</h1>
+						<p>More 4 (27min)</p>
+						<p> <strong>5 days left</strong></p>
+					</div>
+					<div class="rightLinks">
+						<a class="seeAll" href="http://localhost:63342/c4-mob-app/app/web/mobile-web-app/index.html#"><span>See all</span></a>
+					</div>	
+				</article>
+
+				<article class="episode clearfix">
+					
+					<div class="screenshotCont">
+						<img class="screenShot" src="./4oD - Recommends_files/episode_2.jpg" width="160" height="91" alt="Episode 2">
+					</div>
+					
+					<div class="details">
+						<h1>Glee</h1>
+						<p>More 4 (27min)</p>
+						<p> <strong>5 days left</strong></p>
+					</div>
+					<div class="rightLinks">
+						<a class="seeAll" href="http://localhost:63342/c4-mob-app/app/web/mobile-web-app/index.html#"><span>See all</span></a>
+					</div>	
+				</article>
+			
+				<article class="episode clearfix">
+					
+					<div class="screenshotCont">
+						<img class="screenShot" src="./4oD - Recommends_files/episode_4.jpg" width="160" height="91" alt="Episode 4">
+					</div>
+					
+					<div class="details">
+						<h1>The Best of the Word</h1>
+						<p>More 4 (27min)</p>
+						<p> <strong>5 days left</strong></p>
+					</div>
+					<div class="rightLinks">
+						<a class="seeAll" href="http://localhost:63342/c4-mob-app/app/web/mobile-web-app/index.html#"><span>See all</span></a>
+					</div>	
+				</article>
+								
+			</div>
+			
+			<hr class="dottedRule clearfix">
+			
+			<div class="backToTop clearfix">
+				<a id="topLink" href="http://localhost:63342/c4-mob-app/app/web/mobile-web-app/index.html#container"><span class="upChevron"></span>Back to top</a>
+			</div>
+			
+			
+		</section>
+		
+		</div>
+		
+		<footer>
+		<nav class="footer clearfix">
+			<ul class="clearfix">
+				<li><a href="http://localhost:63342/c4-mob-app/app/web/mobile-web-app/parental-control-enable">Parental Control</a></li>
+				<li><a href="http://localhost:63342/c4-mob-app/app/web/mobile-web-app/help%3EHelp%20&%20Info%3C/a%3E%3C/li%3E%3Cli%3E%3Ca%20href=" 404.html"="">channel4.com</a></li>
+			</ul>	
+		</nav>
+		</footer>
+		
+	</div> <!--! end of #container -->
+
+	<script>window.jQuery || document.write("<script src='js/libs/jquery-1.5.1.min.js'>\x3C/script>")</script><script src="./4oD - Recommends_files/jquery-1.5.1.min.js"></script>
+	
+	<script src="./4oD - Recommends_files/script.js" type="text/javascript" charset="utf-8"></script>
+
+	
+	<!-- scripts concatenated and minified via ant build script -->
+	<script src="./4oD - Recommends_files/helper.js"></script>
+	<!-- end concatenated and minified scripts-->
+	
+	<script>
+		MBP.scaleFix();
+/*
+yepnope({
+	test : Modernizr.mq('(min-width)'),
+	nope : ['js/libs/respond.min.js']
+});
+*/
+	</script>
+
+<!-- <script src="https://getfirebug.com/firebug-lite.js"></script> -->
+	
+<!--
+	<script>
+		var _gaq=[["_setAccount","UA-XXXXX-X"],["_trackPageview"]];
+		(function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];g.async=1;
+		g.src=("https:"==location.protocol?"//ssl":"//www")+".google-analytics.com/ga.js";
+		s.parentNode.insertBefore(g,s)}(document,"script"));
+	</script>
+-->
+
+
+</body></html>

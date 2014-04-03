@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <id>tag:ios.channel4.com,2009:/programmes/collections/hero-carousel/1/4od</id>
+  <title type="text">4oD Recommends</title>
+  <dc:relation.Synopsis>4oD Recommends</dc:relation.Synopsis>
+  <updated>2011-09-01T09:21:00.000Z</updated>
+  <author>
+    <name>Channel 4 Television</name>
+  </author>
+  <logo imageSource="own">http://www.channel4.com/assets/programmes/images/shameless/6fc8925b-08c0-4ebe-9553-a96649610fe1_200x113.jpg</logo>
+  <link href="http://ios.channel4.com/pmlsd/collections/hero-carousel/1/4od.atom?platform=ios" rel="self" type="application/atom+xml" />
+  <entry>
+    <id>tag:ios.channel4.com,2009:/brand/shameless</id>
+    <title type="text">Shameless is back!</title>
+    <summary type="html">Created by Paul Abbott, Shameless is a drama series about the dysfunctional Gallaghers who live on a housing estate in Manchester.</summary>
+    <updated>2011-09-01T09:21:00.000Z</updated>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/shameless/6fc8925b-08c0-4ebe-9553-a96649610fe1_200x113.jpg" height="113" width="200" imageSource="own" />
+    </media:content>
+    <link href="http://ios.channel4.com/pmlsd/shameless.atom?platform=ios" rel="self" type="application/atom+xml" />
+    <link href="http://ios.channel4.com/pmlsd/shameless/episode-guide.atom?platform=ios" rel="related" type="application/atom+xml" title="Episode Guide" />
+    <link href="http://ios.channel4.com/pmlsd/shameless/4od.atom?platform=ios" rel="related" type="application/atom+xml" title="4oD" />
+    <dc:relation.resourceType>BRAND</dc:relation.resourceType>
+  </entry>
+  <entry>
+    <id>tag:ios.channel4.com,2009:/brand/seven-dwarves</id>
+    <title type="text">Seven Dwarves</title>
+    <summary type="html">This new observational documentary series follows the lives of seven dwarf actors as they live together and perform in a production of Snow White at Woking's New Victoria Theatre.</summary>
+    <updated>2011-09-01T09:21:00.000Z</updated>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/seven-dwarves/0222669c-463a-427f-ba44-f75c863c46e4_200x113.jpg" height="113" width="200" imageSource="own" />
+    </media:content>
+    <link href="http://ios.channel4.com/pmlsd/seven-dwarves.atom?platform=ios" rel="self" type="application/atom+xml" />
+    <link href="http://ios.channel4.com/pmlsd/seven-dwarves/episode-guide.atom?platform=ios" rel="related" type="application/atom+xml" title="Episode Guide" />
+    <link href="http://ios.channel4.com/pmlsd/seven-dwarves/4od.atom?platform=ios" rel="related" type="application/atom+xml" title="4oD" />
+    <dc:relation.resourceType>BRAND</dc:relation.resourceType>
+  </entry>
+  <entry>
+    <id>tag:ios.channel4.com,2009:/brand/hollyoaks</id>
+    <title type="text">Hollyoaks</title>
+    <summary type="html">Compelling teenage soap based in Chester. Since 1995, a multitude of beautiful people have been learning the hard way how to deal with the ugly twists of adolescent life...</summary>
+    <updated>2011-09-01T09:21:00.000Z</updated>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/hollyoaks/hollyoaks_200x113.jpg" height="113" width="200" imageSource="own" />
+    </media:content>
+    <link href="http://ios.channel4.com/pmlsd/hollyoaks.atom?platform=ios" rel="self" type="application/atom+xml" />
+    <link href="http://ios.channel4.com/pmlsd/hollyoaks/episode-guide.atom?platform=ios" rel="related" type="application/atom+xml" title="Episode Guide" />
+    <link href="http://ios.channel4.com/pmlsd/hollyoaks/4od.atom?platform=ios" rel="related" type="application/atom+xml" title="4oD" />
+    <dc:relation.resourceType>BRAND</dc:relation.resourceType>
+  </entry>
+  <entry>
+    <id>tag:ios.channel4.com,2009:/brand/inside-natures-giants</id>
+    <title type="text">Inside Nature's Giants</title>
+    <summary type="html">This four-part science series uncovers the anatomical secrets of some of the animal kingdom's most extraordinary species.</summary>
+    <updated>2011-09-01T09:21:00.000Z</updated>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/inside-natures-giants/d067867c-3423-4f5c-8232-1afa4377efb7_200x113.jpg" height="113" width="200" imageSource="own" />
+    </media:content>
+    <link href="http://ios.channel4.com/pmlsd/inside-natures-giants.atom?platform=ios" rel="self" type="application/atom+xml" />
+    <link href="http://ios.channel4.com/pmlsd/inside-natures-giants/episode-guide.atom?platform=ios" rel="related" type="application/atom+xml" title="Episode Guide" />
+    <link href="http://ios.channel4.com/pmlsd/inside-natures-giants/4od.atom?platform=ios" rel="related" type="application/atom+xml" title="4oD" />
+    <dc:relation.resourceType>BRAND</dc:relation.resourceType>
+  </entry>
+  <entry>
+    <id>tag:ios.channel4.com,2009:/brand/location-location-location</id>
+    <title type="text">Location, Location, Location</title>
+    <summary type="html">No floorboard is left unturned as dynamic property experts Kirstie Allsopp and Phil Spencer help house hunters find the perfect home in the perfect location.</summary>
+    <updated>2011-09-01T09:21:00.000Z</updated>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/location-location-location/57451776-0bd3-4484-b814-7d32c2da48a5_200x113.jpg" height="113" width="200" imageSource="own" />
+    </media:content>
+    <link href="http://ios.channel4.com/pmlsd/location-location-location.atom?platform=ios" rel="self" type="application/atom+xml" />
+    <link href="http://ios.channel4.com/pmlsd/location-location-location/episode-guide.atom?platform=ios" rel="related" type="application/atom+xml" title="Episode Guide" />
+    <link href="http://ios.channel4.com/pmlsd/location-location-location/4od.atom?platform=ios" rel="related" type="application/atom+xml" title="4oD" />
+    <dc:relation.resourceType>BRAND</dc:relation.resourceType>
+  </entry>
+
+</feed>

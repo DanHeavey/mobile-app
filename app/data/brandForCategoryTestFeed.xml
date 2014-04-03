@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:fh="http://purl.org/syndication/history/1.0" xml:base="http://www.channel4.com">
+  <id>tag:www.channel4.com,2009:/programmes/tags/religion-and-belief/4od/title</id>
+  <title type="text">4oD Religion and Belief Programmes</title>
+  <updated>2011-09-02T17:24:47.681Z</updated>
+  <author>
+    <name>Channel 4 Television</name>
+  </author>
+  <logo imageSource="default">http://www.channel4.com/static/programmes/images/c4-atom-logo.gif</logo>
+  <link href="http://www.channel4.com/programmes/tags/religion-and-belief/4od/title" rel="alternate" type="text/html"/>
+  <link href="http://api.channel4.com/pmlsd/tags/religion-and-belief/4od/title.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml"/>
+  <link href="http://api.channel4.com/pmlsd/tags/religion-and-belief/title.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="up" type="application/atom+xml"/>
+  <fh:complete/>
+  <dc:relation.CategoryType>None</dc:relation.CategoryType>
+  <dc:relation.AllProgrammeCount>42</dc:relation.AllProgrammeCount>
+  <dc:relation.4oDProgrammeCount>19</dc:relation.4oDProgrammeCount>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/a-jihad-for-love</id>
+    <title type="text">A Jihad for Love</title>
+    <summary type="html">Parvez Sharma's compassionate and moving exploration of Islam and homosexuality talks to men and women of the Muslim faith who are courageous and defiant about their sexuality and choice of lifestyle</summary>
+    <updated>2010-11-03T04:53:53.399Z</updated>
+    <dc:relation.sortLetter>A</dc:relation.sortLetter>
+    <dc:date.TXDate>2009-03-03T22:00:00.000Z</dc:date.TXDate>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/a-jihad-for-love/0c356a1f-1405-4676-a8fe-b52897a5cfc3_200x113.jpg" height="113" width="200" imageSource="own"/>
+    </media:content>
+    <link href="http://www.channel4.com/programmes/a-jihad-for-love" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/a-jihad-for-love.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml"/>
+    <link href="http://api.channel4.com/pmlsd/a-jihad-for-love/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD"/>
+    <link href="http://api.channel4.com/pmlsd/a-jihad-for-love/episode-guide.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Episode Guide"/>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/amish-worlds-squarest-teenagers</id>
+    <title type="text">Amish: World's Squarest Teenagers</title>
+    <summary type="html">Five Amish teenagers leave their closed communities in the American mid-West for the very first time, to travel to Britain on an extraordinary cultural exchange</summary>
+    <updated>2010-11-03T04:53:53.399Z</updated>
+    <dc:relation.sortLetter>A</dc:relation.sortLetter>
+    <dc:date.TXDate>2010-08-15T19:00:00.000Z</dc:date.TXDate>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/meet-the-amish/3931f6b6-a9dd-4436-8ddf-6cf5ad6dfb6e_200x113.jpg" height="113" width="200" imageSource="own"/>
+    </media:content>
+    <link href="http://www.channel4.com/programmes/amish-worlds-squarest-teenagers" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/amish-worlds-squarest-teenagers.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml"/>
+    <link href="http://api.channel4.com/pmlsd/amish-worlds-squarest-teenagers/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD"/>
+    <link href="http://api.channel4.com/pmlsd/amish-worlds-squarest-teenagers/video.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Clips"/>
+    <link href="http://api.channel4.com/pmlsd/amish-worlds-squarest-teenagers/episode-guide.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Episode Guide"/>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/decoded-dan-browns-lost-symbol</id>
+    <title type="text">Decoded: Dan Brown's Lost Symbol</title>
+    <summary type="html">Tony Robinson sets out to find the truth behind Dan Brown's blockbuster, The Lost Symbol</summary>
+    <updated>2011-08-22T11:01:31.124Z</updated>
+    <dc:relation.sortLetter>D</dc:relation.sortLetter>
+    <dc:date.TXDate>2010-01-17T20:00:00.000Z</dc:date.TXDate>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/decoded-dan-browns-lost-symbol/0e6aca34-1354-40d1-bf32-37b6e20345d9_200x113.jpg" height="113" width="200" imageSource="own"/>
+    </media:content>
+    <link href="http://www.channel4.com/programmes/decoded-dan-browns-lost-symbol" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/decoded-dan-browns-lost-symbol.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml"/>
+    <link href="http://api.channel4.com/pmlsd/decoded-dan-browns-lost-symbol/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD"/>
+    <link href="http://api.channel4.com/pmlsd/decoded-dan-browns-lost-symbol/episode-guide.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Episode Guide"/>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/derren-brown-investigates</id>
+    <title type="text">Derren Brown Investigates</title>
+    <summary type="html">Derren Brown looks at some extraordinary claims from around the world, documenting a medium, a ghost hunter and a psychic expert who claims to make the blind see</summary>
+    <updated>2010-11-03T04:53:53.399Z</updated>
+    <dc:relation.sortLetter>D</dc:relation.sortLetter>
+    <dc:date.TXDate>2010-05-31T21:00:00.000Z</dc:date.TXDate>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/derren-brown-investigates/38a2cd51-52e5-44c3-8114-2cff40df963d_200x113.jpg" height="113" width="200" imageSource="own"/>
+    </media:content>
+    <link href="http://www.channel4.com/programmes/derren-brown-investigates" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/derren-brown-investigates.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml"/>
+    <link href="http://api.channel4.com/pmlsd/derren-brown-investigates/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD"/>
+    <link href="http://api.channel4.com/pmlsd/derren-brown-investigates/video.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Clips"/>
+    <link href="http://api.channel4.com/pmlsd/derren-brown-investigates/episode-guide.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Episode Guide"/>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/the-english-church</id>
+    <title type="text">The English Church</title>
+    <summary type="html">Journalist and author Simon Jenkins goes on a personal journey into the heart of English life and community, and tells a fascinating story of art, architecture and faith</summary>
+    <updated>2010-11-03T04:53:53.399Z</updated>
+    <dc:relation.sortLetter>E</dc:relation.sortLetter>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/the-english-church/c5e75829-1817-44e6-ae2e-babcc72572ad_200x113.jpg" height="113" width="200" imageSource="own"/>
+    </media:content>
+    <link href="http://www.channel4.com/programmes/the-english-church" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/the-english-church.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml"/>
+    <link href="http://api.channel4.com/pmlsd/the-english-church/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD"/>
+    <link href="http://api.channel4.com/pmlsd/the-english-church/episode-guide.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Episode Guide"/>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/faith-school-menace</id>
+    <title type="text">Faith School Menace?</title>
+    <summary type="html">Professor Richard Dawkins calls on us to reconsider the consequences of faith education, which, he believes, indoctrinates and divides children, and bamboozles parents</summary>
+    <updated>2011-04-08T14:25:07.002Z</updated>
+    <dc:relation.sortLetter>F</dc:relation.sortLetter>
+    <dc:date.TXDate>2010-08-18T23:40:00.000Z</dc:date.TXDate>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/faith-school-menace/d7bee9fe-3a96-48b9-a9e5-334143da217b_200x113.jpg" height="113" width="200" imageSource="own"/>
+    </media:content>
+    <link href="http://www.channel4.com/programmes/faith-school-menace" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/faith-school-menace.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml"/>
+    <link href="http://api.channel4.com/pmlsd/faith-school-menace/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD"/>
+    <link href="http://api.channel4.com/pmlsd/faith-school-menace/video.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Clips"/>
+    <link href="http://api.channel4.com/pmlsd/faith-school-menace/episode-guide.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Episode Guide"/>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/father-ray-comes-out</id>
+    <title type="text">Father Ray Comes Out</title>
+    <summary type="html">Anna Llewellyn's First Cut film follows an Anglican vicar as he shares a personal secret with his congregation: he is gay</summary>
+    <updated>2011-08-22T10:56:20.018Z</updated>
+    <dc:relation.sortLetter>F</dc:relation.sortLetter>
+    <dc:date.TXDate>2011-06-19T23:35:00.000Z</dc:date.TXDate>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/father-ray-comes-out/a62c124a-5daf-4027-8652-e22ec8679951_200x113.jpg" height="113" width="200" imageSource="own"/>
+    </media:content>
+    <link href="http://www.channel4.com/programmes/father-ray-comes-out" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/father-ray-comes-out.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml"/>
+    <link href="http://api.channel4.com/pmlsd/father-ray-comes-out/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD"/>
+    <link href="http://api.channel4.com/pmlsd/father-ray-comes-out/episode-guide.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Episode Guide"/>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/the-god-delusion</id>
+    <title type="text">The God Delusion</title>
+    <summary type="html">Professor Richard Dawkins' personal journey through the world's three great monotheistic religions - Christianity, Judaism and Islam</summary>
+    <updated>2010-11-03T04:53:53.399Z</updated>
+    <dc:relation.sortLetter>G</dc:relation.sortLetter>
+    <dc:date.TXDate>2010-08-25T23:05:00.000Z</dc:date.TXDate>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/the-root-of-all-evil/the-root-of-all-evil-20090610114733_200x113.jpg" height="113" width="200" imageSource="own"/>
+    </media:content>
+    <link href="http://www.channel4.com/programmes/the-god-delusion" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/the-god-delusion.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml"/>
+    <link href="http://api.channel4.com/pmlsd/the-god-delusion/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD"/>
+    <link href="http://api.channel4.com/pmlsd/the-god-delusion/episode-guide.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Episode Guide"/>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/the-hajj-the-greatest-trip-on-earth</id>
+    <title type="text">The Hajj: The Greatest Trip on Earth</title>
+    <summary type="html">Hajj - the great pilgrimage to Mecca - is a journey that every Muslim, with the means to, must make before they die. This series examines what this means to a variety of believers.</summary>
+    <updated>2010-11-03T04:53:53.399Z</updated>
+    <dc:relation.sortLetter>H</dc:relation.sortLetter>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/the-hajj-the-greatest-trip-on-earth/3ca8e97e-55b6-4048-a934-1ee6646334dc_200x113.jpg" height="113" width="200" imageSource="own"/>
+    </media:content>
+    <link href="http://www.channel4.com/programmes/the-hajj-the-greatest-trip-on-earth" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/the-hajj-the-greatest-trip-on-earth.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml"/>
+    <link href="http://api.channel4.com/pmlsd/the-hajj-the-greatest-trip-on-earth/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD"/>
+    <link href="http://api.channel4.com/pmlsd/the-hajj-the-greatest-trip-on-earth/episode-guide.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Episode Guide"/>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/the-man-who-killed-christ</id>
+    <title type="text">The Man Who Killed Christ</title>
+    <summary type="html">A controversial film that questions the gospel accounts of Christ's trial and crucifixion and the role of Pontius Pilate, with testimony from some of Britain's most eminent theological and Roman scholars</summary>
+    <updated>2010-11-03T04:53:53.399Z</updated>
+    <dc:relation.sortLetter>M</dc:relation.sortLetter>
+    <dc:date.TXDate>2008-12-23T04:15:00.000Z</dc:date.TXDate>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/the-man-who-killed-christ/81463d9b-2237-4f49-9fb7-5ad8af280008_200x113.jpg" height="113" width="200" imageSource="own"/>
+    </media:content>
+    <link href="http://www.channel4.com/programmes/the-man-who-killed-christ" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/the-man-who-killed-christ.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml"/>
+    <link href="http://api.channel4.com/pmlsd/the-man-who-killed-christ/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD"/>
+    <link href="http://api.channel4.com/pmlsd/the-man-who-killed-christ/episode-guide.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Episode Guide"/>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/mel-b-voodoo-princess</id>
+    <title type="text">Mel B Voodoo Princess</title>
+    <summary type="html">Mel B embarks on a personal journey of a lifetime to explore the traditional religions of West Africa. Her destination is Benin - the cradle of Voodoo.</summary>
+    <updated>2010-11-03T04:53:53.399Z</updated>
+    <dc:relation.sortLetter>M</dc:relation.sortLetter>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/mel-b-voodoo-princess/6cf8d2ae-48c2-4b83-b260-ae8495b94c48_200x113.jpg" height="113" width="200" imageSource="own"/>
+    </media:content>
+    <link href="http://www.channel4.com/programmes/mel-b-voodoo-princess" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/mel-b-voodoo-princess.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml"/>
+    <link href="http://api.channel4.com/pmlsd/mel-b-voodoo-princess/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD"/>
+    <link href="http://api.channel4.com/pmlsd/mel-b-voodoo-princess/episode-guide.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Episode Guide"/>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/the-nativity-decoded</id>
+    <title type="text">The Nativity Decoded</title>
+    <summary type="html">Theologian Robert Beckford finds parts of the Nativity story perplexing, and so embarks on a global quest to investigate what lies at the heart of Christianity; the miraculous virgin birth of Jesus</summary>
+    <updated>2010-11-03T04:53:53.399Z</updated>
+    <dc:relation.sortLetter>N</dc:relation.sortLetter>
+    <dc:date.TXDate>2008-12-25T19:30:00.000Z</dc:date.TXDate>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/decoding-the-nativity/decoding-the-nativity_200x113.jpg" height="113" width="200" imageSource="own"/>
+    </media:content>
+    <link href="http://www.channel4.com/programmes/the-nativity-decoded" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/the-nativity-decoded.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml"/>
+    <link href="http://api.channel4.com/pmlsd/the-nativity-decoded/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD"/>
+    <link href="http://api.channel4.com/pmlsd/the-nativity-decoded/episode-guide.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Episode Guide"/>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/pagans</id>
+    <title type="text">Pagans</title>
+    <summary type="html">Is paganism a living tradition with roots deep in prehistory or just a collection of superstitions, magic tricks and witches' spells? Pagans explores the origins, history and beliefs of Europe's ancient religions.</summary>
+    <updated>2010-11-03T04:53:53.399Z</updated>
+    <dc:relation.sortLetter>P</dc:relation.sortLetter>
+    <dc:date.TXDate>2008-12-25T02:25:00.000Z</dc:date.TXDate>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/pagans/adfd7267-5c3b-4c5d-bd2c-e75a41e50d72_200x113.jpg" height="113" width="200" imageSource="own"/>
+    </media:content>
+    <link href="http://www.channel4.com/programmes/pagans" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/pagans.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml"/>
+    <link href="http://api.channel4.com/pmlsd/pagans/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD"/>
+    <link href="http://api.channel4.com/pmlsd/pagans/episode-guide.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Episode Guide"/>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/philosophy-a-guide-to-happiness</id>
+    <title type="text">Philosophy: A Guide to Happiness</title>
+    <summary type="html">Written and presented by Alain de Botton, this series is an entertaining, practical and psychobabble-free self-help course for the philosophically minded</summary>
+    <updated>2011-08-22T13:30:02.026Z</updated>
+    <dc:relation.sortLetter>P</dc:relation.sortLetter>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/philosophy-a-guide-to-happiness/5d1a4e54-2f4b-4023-a1bc-d709a9d5bbae_200x113.jpg" height="113" width="200" imageSource="own"/>
+    </media:content>
+    <link href="http://www.channel4.com/programmes/philosophy-a-guide-to-happiness" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/philosophy-a-guide-to-happiness.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml"/>
+    <link href="http://api.channel4.com/pmlsd/philosophy-a-guide-to-happiness/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD"/>
+    <link href="http://api.channel4.com/pmlsd/philosophy-a-guide-to-happiness/episode-guide.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Episode Guide"/>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/revelations</id>
+    <title type="text">Revelations</title>
+    <summary type="html">A brand new strand of eight films explores the impact religion has on the lives of believers and non-believers in Britain today</summary>
+    <updated>2010-11-03T04:53:53.399Z</updated>
+    <dc:relation.sortLetter>R</dc:relation.sortLetter>
+    <dc:date.TXDate>2009-08-23T03:15:00.000Z</dc:date.TXDate>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/revelations/a41a405e-cbc2-49d1-8f2b-53689fca94b4_200x113.jpg" height="113" width="200" imageSource="own"/>
+    </media:content>
+    <link href="http://www.channel4.com/programmes/revelations" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/revelations.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml"/>
+    <link href="http://api.channel4.com/pmlsd/revelations/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD"/>
+    <link href="http://api.channel4.com/pmlsd/revelations/video.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Clips"/>
+    <link href="http://api.channel4.com/pmlsd/revelations/episode-guide.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Episode Guide"/>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/shroud-of-christ</id>
+    <title type="text">Shroud of Christ?</title>
+    <summary type="html">An investigation into the Turin Shroud.  Far from being a medieval relic, could the shroud indeed date from the time of Christ's death?</summary>
+    <updated>2010-11-03T04:53:53.399Z</updated>
+    <dc:relation.sortLetter>S</dc:relation.sortLetter>
+    <dc:date.TXDate>2010-04-04T01:25:00.000Z</dc:date.TXDate>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/shroud-of-christ/shroud-of-christ-20090408163226_200x113.jpg" height="113" width="200" imageSource="own"/>
+    </media:content>
+    <link href="http://www.channel4.com/programmes/shroud-of-christ" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/shroud-of-christ.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml"/>
+    <link href="http://api.channel4.com/pmlsd/shroud-of-christ/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD"/>
+    <link href="http://api.channel4.com/pmlsd/shroud-of-christ/episode-guide.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Episode Guide"/>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/stop-look-listen-animated-bible-stories</id>
+    <title type="text">Stop, Look, Listen: Animated Bible Stories</title>
+    <summary type="html">This animated five-part series provides an introduction to the story of Jesus and the key stories of the life of Christ</summary>
+    <updated>2010-11-03T04:53:53.399Z</updated>
+    <dc:relation.sortLetter>S</dc:relation.sortLetter>
+    <dc:date.TXDate>2009-10-07T04:25:00.000Z</dc:date.TXDate>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/stop-look-listen-animated-bible-stories/058b21c5-69cf-497a-8715-b34064f658d1_200x113.jpg" height="113" width="200" imageSource="own"/>
+    </media:content>
+    <link href="http://www.channel4.com/programmes/stop-look-listen-animated-bible-stories" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/stop-look-listen-animated-bible-stories.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml"/>
+    <link href="http://api.channel4.com/pmlsd/stop-look-listen-animated-bible-stories/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD"/>
+    <link href="http://api.channel4.com/pmlsd/stop-look-listen-animated-bible-stories/episode-guide.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Episode Guide"/>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/who-wrote-the-bible</id>
+    <title type="text">Who Wrote the Bible?</title>
+    <summary type="html">Who actually wrote the book that millions of people describe as the word of God? Theologian Robert Beckford sets off on a voyage of historical discovery through Genesis and beyond.</summary>
+    <updated>2010-11-03T04:53:53.399Z</updated>
+    <dc:relation.sortLetter>W</dc:relation.sortLetter>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/who-wrote-the-bible/who-wrote-the-bible-20090612150821_200x113.jpg" height="113" width="200" imageSource="own"/>
+    </media:content>
+    <link href="http://www.channel4.com/programmes/who-wrote-the-bible" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/who-wrote-the-bible.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml"/>
+    <link href="http://api.channel4.com/pmlsd/who-wrote-the-bible/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD"/>
+    <link href="http://api.channel4.com/pmlsd/who-wrote-the-bible/episode-guide.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Episode Guide"/>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/4thoughttv</id>
+    <title type="text">4thought.tv</title>
+    <summary type="html">A series of highly personal short films, broadcast daily, reflecting on a broad range of religious and ethical issues, and aspects of our spiritual lives. These 90-second films challenge some traditional views, providing a platform for both scepticism and devout religious beliefs.</summary>
+    <updated>2011-06-28T13:49:42.345Z</updated>
+    <dc:relation.sortLetter>0-9</dc:relation.sortLetter>
+    <dc:date.TXDate>2011-09-02T18:25:00.000Z</dc:date.TXDate>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/4thoughttv/753edba2-0490-4b14-840d-2b23f2e5e021_200x113.jpg" height="113" width="200" imageSource="own"/>
+    </media:content>
+    <link href="http://www.channel4.com/programmes/4thoughttv" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/4thoughttv.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml"/>
+    <link href="http://api.channel4.com/pmlsd/4thoughttv/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD"/>
+    <link href="http://api.channel4.com/pmlsd/4thoughttv/episode-guide.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Episode Guide"/>
+  </entry>
+
+</feed>

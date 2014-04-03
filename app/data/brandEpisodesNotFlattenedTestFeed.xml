@@ -1,0 +1,731 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms" xml:base="http://www.channel4.com">
+  <id>tag:www.channel4.com,2009:/programmes/the-it-crowd/4od</id>
+  <title type="text">The IT Crowd on 4oD</title>
+  <updated>2011-10-03T13:55:08.283Z</updated>
+  <author>
+    <name>Channel 4 Television</name>
+  </author>
+  <logo imageSource="own">http://www.channel4.com/assets/programmes/images/the-it-crowd/ac7edd25-9183-4fe1-b71f-e39238f9cfd7_200x113.jpg</logo>
+  <link href="http://api.channel4.com/pmlsd/the-it-crowd.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="up" type="application/atom+xml"/>
+  <link href="http://api.channel4.com/pmlsd/the-it-crowd/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml"/>
+  <link href="http://www.channel4.com/programmes/the-it-crowd/4od" rel="alternate" type="text/html"/>
+  <dc:relation.BrandFlattened>false</dc:relation.BrandFlattened>
+  <dc:relation.presentationBrand>C4</dc:relation.presentationBrand>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/the-it-crowd/4od%232921825</id>
+    <title type="text">Yesterday's Jam</title>
+    <updated>2011-01-12T12:03:00.821Z</updated>
+    <summary type="html">The unloved and socially-awkward Roy and Moss give computer-illiterate Jen a less than lukewarm welcome to the IT department. Soon, however, they realise a female presence in their team can have its benefits...</summary>
+    <link href="http://www.channel4.com/programmes/the-it-crowd/4od#2921825" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/the-it-crowd/episode-guide/series-1/episode-1.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml"/>
+    <media:group>
+      <media:player url="http://www.channel4.com/programmes/the-it-crowd/4od#2921825"/>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/the-it-crowd/series-1/episode-1/the-it-crowd-s1e1_200x113.jpg" height="113" width="200" imageSource="own"/>
+      <media:rating>adult</media:rating>
+      <media:copyright url="http://www.channel4.com/terms_and_conditions.html">Terms and Conditions</media:copyright>
+      <media:restriction relationship="allow" type="country">GB,GG,IE,IM,JE</media:restriction>
+      <media:rights status="official"/>
+    </media:group>
+    <dc:relation.BrandTitle>The IT Crowd</dc:relation.BrandTitle>
+    <dcterms:available>start=2009-06-24T22:00:00.000Z; end=2011-12-31T00:00:00.000Z; scheme=W3C-DTF</dcterms:available>
+    <dc:relation.SeriesNumber>1</dc:relation.SeriesNumber>
+    <dc:relation.EpisodeNumber>1</dc:relation.EpisodeNumber>
+    <dc:relation.RelatedEntryId feedId="tag:www.channel4.com,2009:/programmes/the-it-crowd/episode-guide/series-1">tag:www.channel4.com,2009:/programmes/the-it-crowd/episode-guide/series-1/episode-1</dc:relation.RelatedEntryId>
+    <dc:relation.AgeRating>16</dc:relation.AgeRating>
+    <dc:relation.Guidance>Adult humour</dc:relation.Guidance>
+    <dc:date.TXDate>2009-12-31T22:00:00.000Z</dc:date.TXDate>
+    <dc:relation.TXChannel>M4</dc:relation.TXChannel>
+    <dc:relation.Subtitles>true</dc:relation.Subtitles>
+    <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+    <dc:relation.Duration>23:20</dc:relation.Duration>
+      <dc:relation.complianceText>Test</dc:relation.complianceText>
+
+    <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/the-it-crowd/4od%232921826</id>
+    <title type="text">Calamity Jen</title>
+    <updated>2011-01-12T12:03:00.789Z</updated>
+    <summary type="html">The team face their first test during Reynholm Industries' so-called 'war on stress'. Roy has an attack of kleptomania, Jen's shoes don't fit, and Moss sends round a strongly-worded e-mail about an office fire.</summary>
+    <link href="http://www.channel4.com/programmes/the-it-crowd/4od#2921826" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/the-it-crowd/episode-guide/series-1/episode-2.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml"/>
+    <media:group>
+      <media:player url="http://www.channel4.com/programmes/the-it-crowd/4od#2921826"/>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/the-it-crowd/series-1/episode-2/the-it-crowd-s1e2_200x113.jpg" height="113" width="200" imageSource="own"/>
+      <media:rating>adult</media:rating>
+      <media:copyright url="http://www.channel4.com/terms_and_conditions.html">Terms and Conditions</media:copyright>
+      <media:restriction relationship="allow" type="country">GB,GG,IE,IM,JE</media:restriction>
+      <media:rights status="official"/>
+    </media:group>
+    <dc:relation.BrandTitle>The IT Crowd</dc:relation.BrandTitle>
+    <dcterms:available>start=2009-06-24T22:00:00.000Z; end=2011-12-31T00:00:00.000Z; scheme=W3C-DTF</dcterms:available>
+    <dc:relation.SeriesNumber>1</dc:relation.SeriesNumber>
+    <dc:relation.EpisodeNumber>2</dc:relation.EpisodeNumber>
+    <dc:relation.RelatedEntryId feedId="tag:www.channel4.com,2009:/programmes/the-it-crowd/episode-guide/series-1">tag:www.channel4.com,2009:/programmes/the-it-crowd/episode-guide/series-1/episode-2</dc:relation.RelatedEntryId>
+    <dc:relation.AgeRating>16</dc:relation.AgeRating>
+    <dc:relation.Guidance>Adult humour</dc:relation.Guidance>
+    <dc:date.TXDate>2009-12-31T23:35:00.000Z</dc:date.TXDate>
+    <dc:relation.TXChannel>M4</dc:relation.TXChannel>
+    <dc:relation.Subtitles>true</dc:relation.Subtitles>
+    <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+    <dc:relation.Duration>24:21</dc:relation.Duration>
+      <dc:relation.complianceText>Test</dc:relation.complianceText>
+
+    <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/the-it-crowd/4od%232921827</id>
+    <title type="text">50:50</title>
+    <updated>2011-01-12T12:03:00.660Z</updated>
+    <summary type="html">Jen has a new admirer, but her inability to tell the truth results in a very public humiliation. Meanwhile, Roy decides to improve his love life by adopting a sterner attitude to the fairer sex, and Moss is on hand to recommend a very romantic restaurant.</summary>
+    <link href="http://www.channel4.com/programmes/the-it-crowd/4od#2921827" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/the-it-crowd/episode-guide/series-1/episode-3.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml"/>
+    <media:group>
+      <media:player url="http://www.channel4.com/programmes/the-it-crowd/4od#2921827"/>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/the-it-crowd/series-1/episode-3/the-it-crowd-s1e3_200x113.jpg" height="113" width="200" imageSource="own"/>
+      <media:rating>adult</media:rating>
+      <media:copyright url="http://www.channel4.com/terms_and_conditions.html">Terms and Conditions</media:copyright>
+      <media:restriction relationship="allow" type="country">GB,GG,IE,IM,JE</media:restriction>
+      <media:rights status="official"/>
+    </media:group>
+    <dc:relation.BrandTitle>The IT Crowd</dc:relation.BrandTitle>
+    <dcterms:available>start=2009-06-24T22:00:00.000Z; end=2011-12-31T00:00:00.000Z; scheme=W3C-DTF</dcterms:available>
+    <dc:relation.SeriesNumber>1</dc:relation.SeriesNumber>
+    <dc:relation.EpisodeNumber>3</dc:relation.EpisodeNumber>
+    <dc:relation.RelatedEntryId feedId="tag:www.channel4.com,2009:/programmes/the-it-crowd/episode-guide/series-1">tag:www.channel4.com,2009:/programmes/the-it-crowd/episode-guide/series-1/episode-3</dc:relation.RelatedEntryId>
+    <dc:relation.AgeRating>16</dc:relation.AgeRating>
+    <dc:relation.Guidance>Adult humour</dc:relation.Guidance>
+    <dc:date.TXDate>2010-01-01T22:05:00.000Z</dc:date.TXDate>
+    <dc:relation.TXChannel>M4</dc:relation.TXChannel>
+    <dc:relation.Subtitles>true</dc:relation.Subtitles>
+    <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+    <dc:relation.Duration>24:37</dc:relation.Duration>
+    <dc:relation.complianceText>Test</dc:relation.complianceText>
+    <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/the-it-crowd/4od%232921828</id>
+    <title type="text">The Red Door</title>
+    <updated>2011-01-12T12:03:00.760Z</updated>
+    <summary type="html">What lies behind the mysterious red door in the IT department? What has happened to Moss's new mug? And why is Roy in danger of becoming known as a 'desk rabbit'?</summary>
+    <link href="http://www.channel4.com/programmes/the-it-crowd/4od#2921828" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/the-it-crowd/episode-guide/series-1/episode-4.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml"/>
+    <media:group>
+      <media:player url="http://www.channel4.com/programmes/the-it-crowd/4od#2921828"/>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/the-it-crowd/series-1/episode-4/the-it-crowd-s1e4_200x113.jpg" height="113" width="200" imageSource="own"/>
+      <media:rating>adult</media:rating>
+      <media:copyright url="http://www.channel4.com/terms_and_conditions.html">Terms and Conditions</media:copyright>
+      <media:restriction relationship="allow" type="country">GB,GG,IE,IM,JE</media:restriction>
+      <media:rights status="official"/>
+    </media:group>
+    <dc:relation.BrandTitle>The IT Crowd</dc:relation.BrandTitle>
+    <dcterms:available>start=2009-06-24T22:00:00.000Z; end=2011-12-31T00:00:00.000Z; scheme=W3C-DTF</dcterms:available>
+    <dc:relation.SeriesNumber>1</dc:relation.SeriesNumber>
+    <dc:relation.EpisodeNumber>4</dc:relation.EpisodeNumber>
+    <dc:relation.RelatedEntryId feedId="tag:www.channel4.com,2009:/programmes/the-it-crowd/episode-guide/series-1">tag:www.channel4.com,2009:/programmes/the-it-crowd/episode-guide/series-1/episode-4</dc:relation.RelatedEntryId>
+    <dc:relation.AgeRating>16</dc:relation.AgeRating>
+    <dc:relation.Guidance>Adult humour</dc:relation.Guidance>
+    <dc:date.TXDate>2009-01-25T23:40:00.000Z</dc:date.TXDate>
+    <dc:relation.TXChannel>M4</dc:relation.TXChannel>
+    <dc:relation.Subtitles>true</dc:relation.Subtitles>
+    <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+    <dc:relation.Duration>23:40</dc:relation.Duration>
+    <dc:relation.complianceText>Test</dc:relation.complianceText>
+    <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/the-it-crowd/4od%232921829</id>
+    <title type="text">The Haunting of Bill Crouse</title>
+    <updated>2011-01-12T12:03:00.732Z</updated>
+    <summary type="html">Moss goes to extraordinary lengths to help Jen escape the unwanted attention of potential suitor Bill Crouse. These lengths include Jen's untimely death...</summary>
+    <link href="http://www.channel4.com/programmes/the-it-crowd/4od#2921829" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/the-it-crowd/episode-guide/series-1/episode-5.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml"/>
+    <media:group>
+      <media:player url="http://www.channel4.com/programmes/the-it-crowd/4od#2921829"/>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/the-it-crowd/series-1/episode-5/the-it-crowd-s1e5_200x113.jpg" height="113" width="200" imageSource="own"/>
+      <media:rating>adult</media:rating>
+      <media:copyright url="http://www.channel4.com/terms_and_conditions.html">Terms and Conditions</media:copyright>
+      <media:restriction relationship="allow" type="country">GB,GG,IE,IM,JE</media:restriction>
+      <media:rights status="official"/>
+    </media:group>
+    <dc:relation.BrandTitle>The IT Crowd</dc:relation.BrandTitle>
+    <dcterms:available>start=2009-06-24T22:00:00.000Z; end=2011-12-31T00:00:00.000Z; scheme=W3C-DTF</dcterms:available>
+    <dc:relation.SeriesNumber>1</dc:relation.SeriesNumber>
+    <dc:relation.EpisodeNumber>5</dc:relation.EpisodeNumber>
+    <dc:relation.RelatedEntryId feedId="tag:www.channel4.com,2009:/programmes/the-it-crowd/episode-guide/series-1">tag:www.channel4.com,2009:/programmes/the-it-crowd/episode-guide/series-1/episode-5</dc:relation.RelatedEntryId>
+    <dc:relation.AgeRating>16</dc:relation.AgeRating>
+    <dc:relation.Guidance>Adult humour</dc:relation.Guidance>
+    <dc:date.TXDate>2009-02-01T23:40:00.000Z</dc:date.TXDate>
+    <dc:relation.TXChannel>M4</dc:relation.TXChannel>
+    <dc:relation.Subtitles>true</dc:relation.Subtitles>
+    <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+    <dc:relation.Duration>23:51</dc:relation.Duration>
+    <dc:relation.complianceText>Test</dc:relation.complianceText>
+    <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/the-it-crowd/4od%232921830</id>
+    <title type="text">Aunt Irma Visits</title>
+    <updated>2011-01-12T12:03:00.698Z</updated>
+    <summary type="html">Jen is subject to very powerful mood swings around a certain time every month, and Moss and Roy start to display similar symptoms. A big bar of chocolate, Dirty Dancing on DVD and a girly night out might be the cure...</summary>
+    <link href="http://www.channel4.com/programmes/the-it-crowd/4od#2921830" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/the-it-crowd/episode-guide/series-1/episode-6.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml"/>
+    <media:group>
+      <media:player url="http://www.channel4.com/programmes/the-it-crowd/4od#2921830"/>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/the-it-crowd/series-1/episode-6/the-it-crowd-s1e6_200x113.jpg" height="113" width="200" imageSource="own"/>
+      <media:rating>adult</media:rating>
+      <media:copyright url="http://www.channel4.com/terms_and_conditions.html">Terms and Conditions</media:copyright>
+      <media:restriction relationship="allow" type="country">GB,GG,IE,IM,JE</media:restriction>
+      <media:rights status="official"/>
+    </media:group>
+    <dc:relation.BrandTitle>The IT Crowd</dc:relation.BrandTitle>
+    <dcterms:available>start=2009-06-24T22:00:00.000Z; end=2011-12-31T00:00:00.000Z; scheme=W3C-DTF</dcterms:available>
+    <dc:relation.SeriesNumber>1</dc:relation.SeriesNumber>
+    <dc:relation.EpisodeNumber>6</dc:relation.EpisodeNumber>
+    <dc:relation.RelatedEntryId feedId="tag:www.channel4.com,2009:/programmes/the-it-crowd/episode-guide/series-1">tag:www.channel4.com,2009:/programmes/the-it-crowd/episode-guide/series-1/episode-6</dc:relation.RelatedEntryId>
+    <dc:relation.AgeRating>16</dc:relation.AgeRating>
+    <dc:relation.Guidance>Adult humour</dc:relation.Guidance>
+    <dc:date.TXDate>2009-02-08T23:40:00.000Z</dc:date.TXDate>
+    <dc:relation.TXChannel>M4</dc:relation.TXChannel>
+    <dc:relation.Subtitles>true</dc:relation.Subtitles>
+    <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+      <dc:relation.complianceText>Test</dc:relation.complianceText>
+    <dc:relation.Duration>25:12</dc:relation.Duration>
+    <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/the-it-crowd/4od%232922509</id>
+    <title type="text">The Work Outing</title>
+    <updated>2010-11-03T05:57:50.175Z</updated>
+    <summary type="html">Jen's heart soars when 'Philip from Six' descends to the basement to borrow her copy of Heat - and invites her to the theatre. Bur her hopes of finding true love are dashed when Roy and Moss invite themselves along, turning her hot date into a lukewarm work outing.</summary>
+    <link href="http://www.channel4.com/programmes/the-it-crowd/4od#2922509" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/the-it-crowd/episode-guide/series-2/episode-1.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml"/>
+    <media:group>
+      <media:player url="http://www.channel4.com/programmes/the-it-crowd/4od#2922509"/>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/the-it-crowd/series-2/episode-1/a684fc66-72df-4d52-ba47-08b5ae3f7eee_200x113.jpg" height="113" width="200" imageSource="own"/>
+      <media:rating>adult</media:rating>
+      <media:copyright url="http://www.channel4.com/terms_and_conditions.html">Terms and Conditions</media:copyright>
+      <media:restriction relationship="allow" type="country">GB,GG,IE,IM,JE</media:restriction>
+      <media:rights status="official"/>
+    </media:group>
+    <dc:relation.BrandTitle>The IT Crowd</dc:relation.BrandTitle>
+    <dcterms:available>start=2009-06-24T22:00:00.000Z; end=2011-12-31T00:00:00.000Z; scheme=W3C-DTF</dcterms:available>
+    <dc:relation.SeriesNumber>2</dc:relation.SeriesNumber>
+    <dc:relation.EpisodeNumber>1</dc:relation.EpisodeNumber>
+    <dc:relation.RelatedEntryId feedId="tag:www.channel4.com,2009:/programmes/the-it-crowd/episode-guide/series-2">tag:www.channel4.com,2009:/programmes/the-it-crowd/episode-guide/series-2/episode-1</dc:relation.RelatedEntryId>
+    <dc:relation.AgeRating>16</dc:relation.AgeRating>
+    <dc:relation.Guidance>Adult humour</dc:relation.Guidance>
+    <dc:date.TXDate>2009-01-02T01:05:00.000Z</dc:date.TXDate>
+    <dc:relation.TXChannel>M4</dc:relation.TXChannel>
+    <dc:relation.Subtitles>true</dc:relation.Subtitles>
+    <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+    <dc:relation.Duration>24:52</dc:relation.Duration>
+      <dc:relation.complianceText>Test</dc:relation.complianceText>
+    <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/the-it-crowd/4od%232922508</id>
+    <title type="text">Return of the Golden Child</title>
+    <updated>2010-11-03T05:57:50.175Z</updated>
+    <summary type="html">Denholm's death means trouble for Jen, Roy and Moss, until support appears in the form of a mysterious, albeit libidinous, stranger. Elsewhere, Moss finds a website that takes people's personal details and calculates when they will die. So he tries it out on Roy...</summary>
+    <link href="http://www.channel4.com/programmes/the-it-crowd/4od#2922508" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/the-it-crowd/episode-guide/series-2/episode-2.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml"/>
+    <media:group>
+      <media:player url="http://www.channel4.com/programmes/the-it-crowd/4od#2922508"/>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/the-it-crowd/series-2/episode-2/4f7ebacc-b888-4f58-9044-c412a431c533_200x113.jpg" height="113" width="200" imageSource="own"/>
+      <media:rating>adult</media:rating>
+      <media:copyright url="http://www.channel4.com/terms_and_conditions.html">Terms and Conditions</media:copyright>
+      <media:restriction relationship="allow" type="country">GB,GG,IE,IM,JE</media:restriction>
+      <media:rights status="official"/>
+    </media:group>
+    <dc:relation.BrandTitle>The IT Crowd</dc:relation.BrandTitle>
+    <dcterms:available>start=2009-06-24T22:00:00.000Z; end=2011-12-31T00:00:00.000Z; scheme=W3C-DTF</dcterms:available>
+    <dc:relation.SeriesNumber>2</dc:relation.SeriesNumber>
+    <dc:relation.EpisodeNumber>2</dc:relation.EpisodeNumber>
+    <dc:relation.RelatedEntryId feedId="tag:www.channel4.com,2009:/programmes/the-it-crowd/episode-guide/series-2">tag:www.channel4.com,2009:/programmes/the-it-crowd/episode-guide/series-2/episode-2</dc:relation.RelatedEntryId>
+    <dc:relation.AgeRating>16</dc:relation.AgeRating>
+    <dc:relation.Guidance>Adult humour</dc:relation.Guidance>
+    <dc:date.TXDate>2009-01-02T01:40:00.000Z</dc:date.TXDate>
+    <dc:relation.TXChannel>M4</dc:relation.TXChannel>
+    <dc:relation.Subtitles>true</dc:relation.Subtitles>
+    <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+    <dc:relation.Duration>23:15</dc:relation.Duration>
+    <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/the-it-crowd/4od%232922507</id>
+    <title type="text">Moss and the German</title>
+    <updated>2010-11-03T05:57:50.175Z</updated>
+    <summary type="html">Jen tries to escape the romantic attentions of Douglas, and Roy tries to watch a film. Elsewhere, Moss' attempt to meet new people backfires dramatically when he answers an online ad for a cookery course</summary>
+    <link href="http://www.channel4.com/programmes/the-it-crowd/4od#2922507" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/the-it-crowd/episode-guide/series-2/episode-3.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml"/>
+    <media:group>
+      <media:player url="http://www.channel4.com/programmes/the-it-crowd/4od#2922507"/>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/the-it-crowd/series-2/episode-3/5aed23da-1728-461b-b3ae-87dbdad81b59_200x113.jpg" height="113" width="200" imageSource="own"/>
+      <media:rating>adult</media:rating>
+      <media:copyright url="http://www.channel4.com/terms_and_conditions.html">Terms and Conditions</media:copyright>
+      <media:restriction relationship="allow" type="country">GB,GG,IE,IM,JE</media:restriction>
+      <media:rights status="official"/>
+    </media:group>
+    <dc:relation.BrandTitle>The IT Crowd</dc:relation.BrandTitle>
+    <dcterms:available>start=2009-06-24T22:00:00.000Z; end=2011-12-31T00:00:00.000Z; scheme=W3C-DTF</dcterms:available>
+    <dc:relation.SeriesNumber>2</dc:relation.SeriesNumber>
+    <dc:relation.EpisodeNumber>3</dc:relation.EpisodeNumber>
+    <dc:relation.RelatedEntryId feedId="tag:www.channel4.com,2009:/programmes/the-it-crowd/episode-guide/series-2">tag:www.channel4.com,2009:/programmes/the-it-crowd/episode-guide/series-2/episode-3</dc:relation.RelatedEntryId>
+    <dc:relation.AgeRating>16</dc:relation.AgeRating>
+    <dc:relation.Guidance>Adult humour with some strong language</dc:relation.Guidance>
+    <dc:date.TXDate>2009-01-02T02:10:00.000Z</dc:date.TXDate>
+    <dc:relation.TXChannel>M4</dc:relation.TXChannel>
+    <dc:relation.Subtitles>true</dc:relation.Subtitles>
+    <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+    <dc:relation.Duration>24:05</dc:relation.Duration><dc:relation.complianceText>Test</dc:relation.complianceText>
+
+    <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/the-it-crowd/4od%232922510</id>
+    <title type="text">The Dinner Party</title>
+    <updated>2010-11-03T05:57:50.175Z</updated>
+    <summary type="html">Jen's hopes for a sophisticated and classy dinner party are dashed when she has to invite Roy, Moss and Richmond. What already promises to be a shaky evening takes a turn for the worse when for some reason Roy finds something hilarious about the name of her new boyfriend - Peter File.</summary>
+    <link href="http://www.channel4.com/programmes/the-it-crowd/4od#2922510" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/the-it-crowd/episode-guide/series-2/episode-4.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml"/>
+    <media:group>
+      <media:player url="http://www.channel4.com/programmes/the-it-crowd/4od#2922510"/>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/the-it-crowd/series-2/episode-4/5c9127e3-546f-4b38-b465-83905109b0bc_200x113.jpg" height="113" width="200" imageSource="own"/>
+      <media:rating>adult</media:rating>
+      <media:copyright url="http://www.channel4.com/terms_and_conditions.html">Terms and Conditions</media:copyright>
+      <media:restriction relationship="allow" type="country">GB,GG,IE,IM,JE</media:restriction>
+      <media:rights status="official"/>
+    </media:group>
+    <dc:relation.BrandTitle>The IT Crowd</dc:relation.BrandTitle>
+    <dcterms:available>start=2009-06-24T22:00:00.000Z; end=2011-12-31T00:00:00.000Z; scheme=W3C-DTF</dcterms:available>
+    <dc:relation.SeriesNumber>2</dc:relation.SeriesNumber>
+    <dc:relation.EpisodeNumber>4</dc:relation.EpisodeNumber>
+    <dc:relation.RelatedEntryId feedId="tag:www.channel4.com,2009:/programmes/the-it-crowd/episode-guide/series-2">tag:www.channel4.com,2009:/programmes/the-it-crowd/episode-guide/series-2/episode-4</dc:relation.RelatedEntryId>
+    <dc:relation.AgeRating>16</dc:relation.AgeRating>
+    <dc:relation.Guidance>Adult humour</dc:relation.Guidance>
+    <dc:date.TXDate>2009-01-02T02:40:00.000Z</dc:date.TXDate>
+    <dc:relation.TXChannel>M4</dc:relation.TXChannel>
+    <dc:relation.Subtitles>true</dc:relation.Subtitles>
+    <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+    <dc:relation.Duration>21:36</dc:relation.Duration><dc:relation.complianceText>Test</dc:relation.complianceText>
+
+    <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/the-it-crowd/4od%232922506</id>
+    <title type="text">Smoke and Mirrors</title>
+    <updated>2010-11-03T05:57:50.175Z</updated>
+    <summary type="html">Sexual tension rears its saucy head in the basement this week, when Jen's ill-fitting bra starts an unfortunate chain of events that leads to Moss appearing on Newsnight and the gang entering The Dragon's Den.</summary>
+    <link href="http://www.channel4.com/programmes/the-it-crowd/4od#2922506" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/the-it-crowd/episode-guide/series-2/episode-5.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml"/>
+    <media:group>
+      <media:player url="http://www.channel4.com/programmes/the-it-crowd/4od#2922506"/>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/the-it-crowd/series-2/episode-5/af121a16-49ae-4335-aa19-02818132a5dc_200x113.jpg" height="113" width="200" imageSource="own"/>
+      <media:rating>adult</media:rating>
+      <media:copyright url="http://www.channel4.com/terms_and_conditions.html">Terms and Conditions</media:copyright>
+      <media:restriction relationship="allow" type="country">GB,GG,IE,IM,JE</media:restriction>
+      <media:rights status="official"/>
+    </media:group>
+    <dc:relation.BrandTitle>The IT Crowd</dc:relation.BrandTitle>
+    <dcterms:available>start=2009-06-24T22:00:00.000Z; end=2011-12-31T00:00:00.000Z; scheme=W3C-DTF</dcterms:available>
+    <dc:relation.SeriesNumber>2</dc:relation.SeriesNumber>
+    <dc:relation.EpisodeNumber>5</dc:relation.EpisodeNumber>
+    <dc:relation.RelatedEntryId feedId="tag:www.channel4.com,2009:/programmes/the-it-crowd/episode-guide/series-2">tag:www.channel4.com,2009:/programmes/the-it-crowd/episode-guide/series-2/episode-5</dc:relation.RelatedEntryId>
+    <dc:relation.AgeRating>16</dc:relation.AgeRating>
+    <dc:relation.Guidance>Adult humour</dc:relation.Guidance>
+    <dc:date.TXDate>2009-01-02T03:05:00.000Z</dc:date.TXDate>
+    <dc:relation.TXChannel>M4</dc:relation.TXChannel>
+    <dc:relation.Subtitles>true</dc:relation.Subtitles>
+    <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+    <dc:relation.Duration>24:03</dc:relation.Duration><dc:relation.complianceText>Test</dc:relation.complianceText>
+
+    <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/the-it-crowd/4od%232922511</id>
+    <title type="text">Men Without Women</title>
+    <updated>2010-11-03T05:57:50.175Z</updated>
+    <summary type="html">Despite his graveside promises to Denholm never again to become embroiled in a sexual harassment case, Jen's voice awakens a mighty tiger behind Douglas' fly and he can resist her no longer. He hires Jen as his new PA, giving Moss and Roy free rein in the office. How will they cope without her, and how will she cope with Douglas's unwelcome advances?</summary>
+    <link href="http://www.channel4.com/programmes/the-it-crowd/4od#2922511" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/the-it-crowd/episode-guide/series-2/episode-6.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml"/>
+    <media:group>
+      <media:player url="http://www.channel4.com/programmes/the-it-crowd/4od#2922511"/>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/the-it-crowd/series-2/episode-6/9846b557-dafc-4c04-bce4-2ef627253628_200x113.jpg" height="113" width="200" imageSource="own"/>
+      <media:rating>adult</media:rating>
+      <media:copyright url="http://www.channel4.com/terms_and_conditions.html">Terms and Conditions</media:copyright>
+      <media:restriction relationship="allow" type="country">GB,GG,IE,IM,JE</media:restriction>
+      <media:rights status="official"/>
+    </media:group>
+    <dc:relation.BrandTitle>The IT Crowd</dc:relation.BrandTitle>
+    <dcterms:available>start=2009-06-24T22:00:00.000Z; end=2011-12-31T00:00:00.000Z; scheme=W3C-DTF</dcterms:available>
+    <dc:relation.SeriesNumber>2</dc:relation.SeriesNumber>
+    <dc:relation.EpisodeNumber>6</dc:relation.EpisodeNumber>
+    <dc:relation.RelatedEntryId feedId="tag:www.channel4.com,2009:/programmes/the-it-crowd/episode-guide/series-2">tag:www.channel4.com,2009:/programmes/the-it-crowd/episode-guide/series-2/episode-6</dc:relation.RelatedEntryId>
+    <dc:relation.AgeRating>16</dc:relation.AgeRating>
+    <dc:relation.Guidance>Adult humour</dc:relation.Guidance>
+    <dc:date.TXDate>2009-01-01T23:45:00.000Z</dc:date.TXDate>
+    <dc:relation.TXChannel>M4</dc:relation.TXChannel>
+    <dc:relation.Subtitles>true</dc:relation.Subtitles>
+    <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+    <dc:relation.Duration>23:14</dc:relation.Duration><dc:relation.complianceText>Test</dc:relation.complianceText>
+
+    <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/the-it-crowd/4od%232919511</id>
+    <title type="text">From Hell</title>
+    <updated>2010-11-03T05:57:50.175Z</updated>
+    <summary type="html">While boss Douglas does his best to run Reynholm Industries into the ground, Jen has to deal with a builder from Hell, Roy loses 20 quid and Moss learns how to stand up to ruffians.</summary>
+    <link href="http://www.channel4.com/programmes/the-it-crowd/4od#2919511" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/the-it-crowd/episode-guide/series-3/episode-1.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml"/>
+    <media:group>
+      <media:player url="http://www.channel4.com/programmes/the-it-crowd/4od#2919511"/>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/the-it-crowd/series-3/episode-1/the-it-crowd-s3e1_200x113.jpg" height="113" width="200" imageSource="own"/>
+      <media:rating>adult</media:rating>
+      <media:copyright url="http://www.channel4.com/terms_and_conditions.html">Terms and Conditions</media:copyright>
+      <media:restriction relationship="allow" type="country">GB,GG,IE,IM,JE</media:restriction>
+      <media:rights status="official"/>
+    </media:group>
+    <dc:relation.BrandTitle>The IT Crowd</dc:relation.BrandTitle>
+    <dcterms:available>start=2009-05-31T22:00:00.000Z; end=2011-12-20T00:00:00.000Z; scheme=W3C-DTF</dcterms:available>
+    <dc:relation.SeriesNumber>3</dc:relation.SeriesNumber>
+    <dc:relation.EpisodeNumber>1</dc:relation.EpisodeNumber>
+    <dc:relation.RelatedEntryId feedId="tag:www.channel4.com,2009:/programmes/the-it-crowd/episode-guide/series-3">tag:www.channel4.com,2009:/programmes/the-it-crowd/episode-guide/series-3/episode-1</dc:relation.RelatedEntryId>
+    <dc:relation.AgeRating>16</dc:relation.AgeRating>
+    <dc:relation.Guidance>Strong language and adult humour</dc:relation.Guidance>
+    <dc:date.TXDate>2009-01-08T01:40:00.000Z</dc:date.TXDate>
+    <dc:relation.TXChannel>M4</dc:relation.TXChannel>
+    <dc:relation.Subtitles>true</dc:relation.Subtitles>
+    <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+    <dc:relation.Duration>23:09</dc:relation.Duration><dc:relation.complianceText>Test</dc:relation.complianceText>
+
+    <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/the-it-crowd/4od%232919505</id>
+    <title type="text">Are We Not Men?</title>
+    <updated>2010-11-03T05:57:50.175Z</updated>
+    <summary type="html">A new football website allows Roy and Moss to pass as 'proper' men for a momentous couple of days. Meanwhile, Jen is trying to date a man who looks like a magician.</summary>
+    <link href="http://www.channel4.com/programmes/the-it-crowd/4od#2919505" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/the-it-crowd/episode-guide/series-3/episode-2.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml"/>
+    <media:group>
+      <media:player url="http://www.channel4.com/programmes/the-it-crowd/4od#2919505"/>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/the-it-crowd/series-3/episode-2/the-it-crowd-s3e2_200x113.jpg" height="113" width="200" imageSource="own"/>
+      <media:rating>adult</media:rating>
+      <media:copyright url="http://www.channel4.com/terms_and_conditions.html">Terms and Conditions</media:copyright>
+      <media:restriction relationship="allow" type="country">GB,GG,IE,IM,JE</media:restriction>
+      <media:rights status="official"/>
+    </media:group>
+    <dc:relation.BrandTitle>The IT Crowd</dc:relation.BrandTitle>
+    <dcterms:available>start=2009-05-31T22:00:00.000Z; end=2011-12-20T00:00:00.000Z; scheme=W3C-DTF</dcterms:available>
+    <dc:relation.SeriesNumber>3</dc:relation.SeriesNumber>
+    <dc:relation.EpisodeNumber>2</dc:relation.EpisodeNumber>
+    <dc:relation.RelatedEntryId feedId="tag:www.channel4.com,2009:/programmes/the-it-crowd/episode-guide/series-3">tag:www.channel4.com,2009:/programmes/the-it-crowd/episode-guide/series-3/episode-2</dc:relation.RelatedEntryId>
+    <dc:relation.AgeRating>16</dc:relation.AgeRating>
+    <dc:relation.Guidance>Strong language and adult humour</dc:relation.Guidance>
+    <dc:date.TXDate>2009-01-14T22:35:00.000Z</dc:date.TXDate>
+    <dc:relation.TXChannel>M4</dc:relation.TXChannel>
+    <dc:relation.Subtitles>true</dc:relation.Subtitles>
+    <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+    <dc:relation.Duration>21:48</dc:relation.Duration><dc:relation.complianceText>Test</dc:relation.complianceText>
+
+    <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/the-it-crowd/4od%232919509</id>
+    <title type="text">Tramps Like Us</title>
+    <updated>2010-11-03T05:57:50.175Z</updated>
+    <summary type="html">Jen, Roy and Moss find their lives moving in different directions after a disappointing settlement to a sexual harassment suit. Jen seeks pastures new, and Roy ends up out in the cold.</summary>
+    <link href="http://www.channel4.com/programmes/the-it-crowd/4od#2919509" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/the-it-crowd/episode-guide/series-3/episode-3.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml"/>
+    <media:group>
+      <media:player url="http://www.channel4.com/programmes/the-it-crowd/4od#2919509"/>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/the-it-crowd/series-3/episode-3/the-it-crowd-s3e3_200x113.jpg" height="113" width="200" imageSource="own"/>
+      <media:rating>adult</media:rating>
+      <media:copyright url="http://www.channel4.com/terms_and_conditions.html">Terms and Conditions</media:copyright>
+      <media:restriction relationship="allow" type="country">gb,im,je,gg,ie</media:restriction>
+      <media:rights status="official"/>
+    </media:group>
+    <dc:relation.BrandTitle>The IT Crowd</dc:relation.BrandTitle>
+    <dcterms:available>start=2009-05-31T22:00:00.000Z; end=2011-12-20T00:00:00.000Z; scheme=W3C-DTF</dcterms:available>
+    <dc:relation.SeriesNumber>3</dc:relation.SeriesNumber>
+    <dc:relation.EpisodeNumber>3</dc:relation.EpisodeNumber>
+    <dc:relation.RelatedEntryId feedId="tag:www.channel4.com,2009:/programmes/the-it-crowd/episode-guide/series-3">tag:www.channel4.com,2009:/programmes/the-it-crowd/episode-guide/series-3/episode-3</dc:relation.RelatedEntryId>
+    <dc:relation.AgeRating>16</dc:relation.AgeRating>
+    <dc:relation.Guidance>Some strong language and adult humour</dc:relation.Guidance>
+    <dc:date.TXDate>2008-12-05T22:00:00.000Z</dc:date.TXDate>
+    <dc:relation.TXChannel>C4</dc:relation.TXChannel>
+    <dc:relation.Subtitles>true</dc:relation.Subtitles>
+    <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+    <dc:relation.Duration>21:58</dc:relation.Duration><dc:relation.complianceText>Test</dc:relation.complianceText>
+
+    <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/the-it-crowd/4od%232919507</id>
+    <title type="text">Speech</title>
+    <updated>2010-11-03T05:57:50.175Z</updated>
+    <summary type="html">As 'Employee of the Month', Jen asserts herself as manager and makes powerful enemies in Moss and Roy. Meanwhile, Douglas finds the love of his life is not all that she appears to be.</summary>
+    <link href="http://www.channel4.com/programmes/the-it-crowd/4od#2919507" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/the-it-crowd/episode-guide/series-3/episode-4.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml"/>
+    <media:group>
+      <media:player url="http://www.channel4.com/programmes/the-it-crowd/4od#2919507"/>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/the-it-crowd/series-3/episode-4/the-it-crowd-s3e4_200x113.jpg" height="113" width="200" imageSource="own"/>
+      <media:rating>adult</media:rating>
+      <media:copyright url="http://www.channel4.com/terms_and_conditions.html">Terms and Conditions</media:copyright>
+      <media:restriction relationship="allow" type="country">gb,im,je,gg,ie</media:restriction>
+      <media:rights status="official"/>
+    </media:group>
+    <dc:relation.BrandTitle>The IT Crowd</dc:relation.BrandTitle>
+    <dcterms:available>start=2009-05-31T22:00:00.000Z; end=2011-12-20T00:00:00.000Z; scheme=W3C-DTF</dcterms:available>
+    <dc:relation.SeriesNumber>3</dc:relation.SeriesNumber>
+    <dc:relation.EpisodeNumber>4</dc:relation.EpisodeNumber>
+    <dc:relation.RelatedEntryId feedId="tag:www.channel4.com,2009:/programmes/the-it-crowd/episode-guide/series-3">tag:www.channel4.com,2009:/programmes/the-it-crowd/episode-guide/series-3/episode-4</dc:relation.RelatedEntryId>
+    <dc:relation.AgeRating>16</dc:relation.AgeRating>
+    <dc:relation.Guidance>Adult humour</dc:relation.Guidance>
+    <dc:date.TXDate>2008-12-12T22:05:00.000Z</dc:date.TXDate>
+    <dc:relation.TXChannel>C4</dc:relation.TXChannel>
+    <dc:relation.Subtitles>true</dc:relation.Subtitles>
+    <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+    <dc:relation.Duration>24:04</dc:relation.Duration><dc:relation.complianceText>Test</dc:relation.complianceText>
+
+    <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/the-it-crowd/4od%232919508</id>
+    <title type="text">Friendface</title>
+    <updated>2010-11-03T05:57:50.175Z</updated>
+    <summary type="html">Jen introduces Roy and Moss to a new social networking website, and then finds out why some friendships are best left in the past.</summary>
+    <link href="http://www.channel4.com/programmes/the-it-crowd/4od#2919508" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/the-it-crowd/episode-guide/series-3/episode-5.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml"/>
+    <media:group>
+      <media:player url="http://www.channel4.com/programmes/the-it-crowd/4od#2919508"/>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/the-it-crowd/series-3/episode-5/the-it-crowd-s3e5_200x113.jpg" height="113" width="200" imageSource="own"/>
+      <media:rating>adult</media:rating>
+      <media:copyright url="http://www.channel4.com/terms_and_conditions.html">Terms and Conditions</media:copyright>
+      <media:restriction relationship="allow" type="country">gb,im,je,gg,ie</media:restriction>
+      <media:rights status="official"/>
+    </media:group>
+    <dc:relation.BrandTitle>The IT Crowd</dc:relation.BrandTitle>
+    <dcterms:available>start=2009-05-31T22:00:00.000Z; end=2011-12-20T00:00:00.000Z; scheme=W3C-DTF</dcterms:available>
+    <dc:relation.SeriesNumber>3</dc:relation.SeriesNumber>
+    <dc:relation.EpisodeNumber>5</dc:relation.EpisodeNumber>
+    <dc:relation.RelatedEntryId feedId="tag:www.channel4.com,2009:/programmes/the-it-crowd/episode-guide/series-3">tag:www.channel4.com,2009:/programmes/the-it-crowd/episode-guide/series-3/episode-5</dc:relation.RelatedEntryId>
+    <dc:relation.AgeRating>16</dc:relation.AgeRating>
+    <dc:relation.Guidance>Some strong language and adult humour</dc:relation.Guidance>
+    <dc:date.TXDate>2008-12-19T22:00:00.000Z</dc:date.TXDate>
+    <dc:relation.TXChannel>C4</dc:relation.TXChannel>
+    <dc:relation.Subtitles>true</dc:relation.Subtitles>
+    <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+    <dc:relation.Duration>22:41</dc:relation.Duration><dc:relation.complianceText>Test</dc:relation.complianceText>
+
+    <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/the-it-crowd/4od%232919506</id>
+    <title type="text">Calendar Geeks</title>
+    <updated>2010-11-03T05:57:50.175Z</updated>
+    <summary type="html">In the final episode of the series, Reynholm Industries are proud to announce their first sexy nude calendar. Enough said, probably.</summary>
+    <link href="http://www.channel4.com/programmes/the-it-crowd/4od#2919506" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/the-it-crowd/episode-guide/series-3/episode-6.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml"/>
+    <media:group>
+      <media:player url="http://www.channel4.com/programmes/the-it-crowd/4od#2919506"/>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/the-it-crowd/series-3/episode-6/the-it-crowd-s3e6_200x113.jpg" height="113" width="200" imageSource="own"/>
+      <media:rating>adult</media:rating>
+      <media:copyright url="http://www.channel4.com/terms_and_conditions.html">Terms and Conditions</media:copyright>
+      <media:restriction relationship="allow" type="country">gb,im,je,gg,ie</media:restriction>
+      <media:rights status="official"/>
+    </media:group>
+    <dc:relation.BrandTitle>The IT Crowd</dc:relation.BrandTitle>
+    <dcterms:available>start=2009-05-31T22:00:00.000Z; end=2011-12-20T00:00:00.000Z; scheme=W3C-DTF</dcterms:available>
+    <dc:relation.SeriesNumber>3</dc:relation.SeriesNumber>
+    <dc:relation.EpisodeNumber>6</dc:relation.EpisodeNumber>
+    <dc:relation.RelatedEntryId feedId="tag:www.channel4.com,2009:/programmes/the-it-crowd/episode-guide/series-3">tag:www.channel4.com,2009:/programmes/the-it-crowd/episode-guide/series-3/episode-6</dc:relation.RelatedEntryId>
+    <dc:relation.AgeRating>16</dc:relation.AgeRating>
+    <dc:relation.Guidance>Adult humour</dc:relation.Guidance>
+    <dc:date.TXDate>2008-12-26T21:50:00.000Z</dc:date.TXDate>
+    <dc:relation.TXChannel>C4</dc:relation.TXChannel>
+    <dc:relation.Subtitles>true</dc:relation.Subtitles>
+    <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+    <dc:relation.Duration>23:35</dc:relation.Duration><dc:relation.complianceText>Test</dc:relation.complianceText>
+
+    <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/the-it-crowd/4od%233105975</id>
+    <title type="text">Jen the Fredo</title>
+    <updated>2010-11-03T05:57:50.175Z</updated>
+    <summary type="html">Jen wants to stretch herself in the workplace so applies for the post of Entertainment Manager. But when she finds out that amusing her boss Douglas' business connections has its darker side, she has to turn to Moss and Roy for help.</summary>
+    <link href="http://www.channel4.com/programmes/the-it-crowd/4od#3105975" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/the-it-crowd/episode-guide/series-4/episode-1.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml"/>
+    <media:group>
+      <media:player url="http://www.channel4.com/programmes/the-it-crowd/4od#3105975"/>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/the-it-crowd/series-4/episode-1/4ed3972e-c8b6-420a-8fa3-dd9d59cc5633_200x113.jpg" height="113" width="200" imageSource="own"/>
+      <media:rating>adult</media:rating>
+      <media:copyright url="http://www.channel4.com/terms_and_conditions.html">Terms and Conditions</media:copyright>
+      <media:restriction relationship="allow" type="country">GB,GG,IE,IM,JE</media:restriction>
+      <media:rights status="official"/>
+    </media:group>
+    <dc:relation.BrandTitle>The IT Crowd</dc:relation.BrandTitle>
+    <dcterms:available>start=2010-08-29T22:00:00.000Z; end=2013-07-05T22:00:00.000Z; scheme=W3C-DTF</dcterms:available>
+    <dc:relation.SeriesNumber>4</dc:relation.SeriesNumber>
+    <dc:relation.EpisodeNumber>1</dc:relation.EpisodeNumber>
+    <dc:relation.RelatedEntryId feedId="tag:www.channel4.com,2009:/programmes/the-it-crowd/episode-guide/series-4">tag:www.channel4.com,2009:/programmes/the-it-crowd/episode-guide/series-4/episode-1</dc:relation.RelatedEntryId>
+    <dc:relation.AgeRating>16</dc:relation.AgeRating>
+    <dc:date.TXDate>2010-06-24T23:00:00.000Z</dc:date.TXDate>
+    <dc:relation.TXChannel>C4</dc:relation.TXChannel>
+    <dc:relation.Subtitles>true</dc:relation.Subtitles>
+    <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+    <dc:relation.Duration>24:26</dc:relation.Duration><dc:relation.complianceText>Test</dc:relation.complianceText>
+
+    <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/the-it-crowd/4od%233105976</id>
+    <title type="text">The Final Countdown</title>
+    <updated>2010-11-03T05:57:50.175Z</updated>
+    <summary type="html">Moss becomes a celebrity by beating all records on a popular puzzle show...at the other end of human life Roy is mistaken for a window cleaner, while Jen is preoccupied with Douglas' secret meetings with lots of women in fluffy dressing gowns.</summary>
+    <link href="http://www.channel4.com/programmes/the-it-crowd/4od#3105976" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/the-it-crowd/episode-guide/series-4/episode-2.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml"/>
+    <media:group>
+      <media:player url="http://www.channel4.com/programmes/the-it-crowd/4od#3105976"/>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/the-it-crowd/series-4/episode-2/c386684c-9f71-4ab1-a813-1ebc91cd0d26_200x113.jpg" height="113" width="200" imageSource="own"/>
+      <media:rating>adult</media:rating>
+      <media:copyright url="http://www.channel4.com/terms_and_conditions.html">Terms and Conditions</media:copyright>
+      <media:restriction relationship="allow" type="country">GB,GG,IE,IM,JE</media:restriction>
+      <media:rights status="official"/>
+    </media:group>
+    <dc:relation.BrandTitle>The IT Crowd</dc:relation.BrandTitle>
+    <dcterms:available>start=2010-08-29T22:00:00.000Z; end=2013-07-05T22:00:00.000Z; scheme=W3C-DTF</dcterms:available>
+    <dc:relation.SeriesNumber>4</dc:relation.SeriesNumber>
+    <dc:relation.EpisodeNumber>2</dc:relation.EpisodeNumber>
+    <dc:relation.RelatedEntryId feedId="tag:www.channel4.com,2009:/programmes/the-it-crowd/episode-guide/series-4">tag:www.channel4.com,2009:/programmes/the-it-crowd/episode-guide/series-4/episode-2</dc:relation.RelatedEntryId>
+    <dc:relation.AgeRating>16</dc:relation.AgeRating>
+    <dc:date.TXDate>2010-07-01T23:00:00.000Z</dc:date.TXDate>
+    <dc:relation.TXChannel>C4</dc:relation.TXChannel>
+    <dc:relation.Subtitles>true</dc:relation.Subtitles>
+    <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+    <dc:relation.Duration>23:46</dc:relation.Duration><dc:relation.complianceText>Test</dc:relation.complianceText>
+
+    <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/the-it-crowd/4od%233105977</id>
+    <title type="text">Something Happened</title>
+    <updated>2010-11-03T05:57:50.175Z</updated>
+    <summary type="html">Douglas becomes a Spaceologist, Roy's life is changed by a bad back, and Jen gets involved with a rock band.</summary>
+    <link href="http://www.channel4.com/programmes/the-it-crowd/4od#3105977" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/the-it-crowd/episode-guide/series-4/episode-3.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml"/>
+    <media:group>
+      <media:player url="http://www.channel4.com/programmes/the-it-crowd/4od#3105977"/>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/the-it-crowd/series-4/episode-3/a0f07564-035e-44d9-b488-eee7c72c2fac_200x113.jpg" height="113" width="200" imageSource="own"/>
+      <media:rating>adult</media:rating>
+      <media:copyright url="http://www.channel4.com/terms_and_conditions.html">Terms and Conditions</media:copyright>
+      <media:restriction relationship="allow" type="country">GB,GG,IE,IM,JE</media:restriction>
+      <media:rights status="official"/>
+    </media:group>
+    <dc:relation.BrandTitle>The IT Crowd</dc:relation.BrandTitle>
+    <dcterms:available>start=2010-08-29T22:00:00.000Z; end=2013-07-05T22:00:00.000Z; scheme=W3C-DTF</dcterms:available>
+    <dc:relation.SeriesNumber>4</dc:relation.SeriesNumber>
+    <dc:relation.EpisodeNumber>3</dc:relation.EpisodeNumber>
+    <dc:relation.RelatedEntryId feedId="tag:www.channel4.com,2009:/programmes/the-it-crowd/episode-guide/series-4">tag:www.channel4.com,2009:/programmes/the-it-crowd/episode-guide/series-4/episode-3</dc:relation.RelatedEntryId>
+    <dc:relation.AgeRating>16</dc:relation.AgeRating>
+    <dc:date.TXDate>2010-07-08T23:00:00.000Z</dc:date.TXDate>
+    <dc:relation.TXChannel>C4</dc:relation.TXChannel>
+    <dc:relation.Subtitles>true</dc:relation.Subtitles>
+    <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+    <dc:relation.Duration>23:11</dc:relation.Duration><dc:relation.complianceText>Test</dc:relation.complianceText>
+
+    <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/the-it-crowd/4od%233110818</id>
+    <title type="text">Italian for Beginners</title>
+    <updated>2010-11-03T05:57:50.175Z</updated>
+    <summary type="html">Roy gets obsessed by his latest girlfriend's sad family history, while Jen tells an absolute whopper to get some attention.</summary>
+    <link href="http://www.channel4.com/programmes/the-it-crowd/4od#3110818" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/the-it-crowd/episode-guide/series-4/episode-4.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml"/>
+    <media:group>
+      <media:player url="http://www.channel4.com/programmes/the-it-crowd/4od#3110818"/>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/the-it-crowd/series-4/episode-4/8e9fc453-5057-403e-a82e-b27ab77cce09_200x113.jpg" height="113" width="200" imageSource="own"/>
+      <media:rating>adult</media:rating>
+      <media:copyright url="http://www.channel4.com/terms_and_conditions.html">Terms and Conditions</media:copyright>
+      <media:restriction relationship="allow" type="country">GB,GG,IE,IM,JE</media:restriction>
+      <media:rights status="official"/>
+    </media:group>
+    <dc:relation.BrandTitle>The IT Crowd</dc:relation.BrandTitle>
+    <dcterms:available>start=2010-08-29T22:00:00.000Z; end=2013-07-05T22:00:00.000Z; scheme=W3C-DTF</dcterms:available>
+    <dc:relation.SeriesNumber>4</dc:relation.SeriesNumber>
+    <dc:relation.EpisodeNumber>4</dc:relation.EpisodeNumber>
+    <dc:relation.RelatedEntryId feedId="tag:www.channel4.com,2009:/programmes/the-it-crowd/episode-guide/series-4">tag:www.channel4.com,2009:/programmes/the-it-crowd/episode-guide/series-4/episode-4</dc:relation.RelatedEntryId>
+    <dc:relation.AgeRating>16</dc:relation.AgeRating>
+    <dc:date.TXDate>2010-07-15T23:00:00.000Z</dc:date.TXDate>
+    <dc:relation.TXChannel>C4</dc:relation.TXChannel>
+    <dc:relation.Subtitles>true</dc:relation.Subtitles>
+    <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+    <dc:relation.Duration>24:05</dc:relation.Duration><dc:relation.complianceText>Test</dc:relation.complianceText>
+
+    <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/the-it-crowd/4od%233110817</id>
+    <title type="text">Bad Boys</title>
+    <updated>2010-11-03T05:57:50.175Z</updated>
+    <summary type="html">Roy and Moss become juvenile delinquents for the day and have an uncomfortable experience at a shopping centre.</summary>
+    <link href="http://www.channel4.com/programmes/the-it-crowd/4od#3110817" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/the-it-crowd/episode-guide/series-4/episode-5.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml"/>
+    <media:group>
+      <media:player url="http://www.channel4.com/programmes/the-it-crowd/4od#3110817"/>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/the-it-crowd/series-4/episode-5/3be186df-8c0e-4845-9654-356d5b78854f_200x113.jpg" height="113" width="200" imageSource="own"/>
+      <media:rating>adult</media:rating>
+      <media:copyright url="http://www.channel4.com/terms_and_conditions.html">Terms and Conditions</media:copyright>
+      <media:restriction relationship="allow" type="country">GB,GG,IE,IM,JE</media:restriction>
+      <media:rights status="official"/>
+    </media:group>
+    <dc:relation.BrandTitle>The IT Crowd</dc:relation.BrandTitle>
+    <dcterms:available>start=2010-08-29T22:00:00.000Z; end=2013-07-05T22:00:00.000Z; scheme=W3C-DTF</dcterms:available>
+    <dc:relation.SeriesNumber>4</dc:relation.SeriesNumber>
+    <dc:relation.EpisodeNumber>5</dc:relation.EpisodeNumber>
+    <dc:relation.RelatedEntryId feedId="tag:www.channel4.com,2009:/programmes/the-it-crowd/episode-guide/series-4">tag:www.channel4.com,2009:/programmes/the-it-crowd/episode-guide/series-4/episode-5</dc:relation.RelatedEntryId>
+    <dc:relation.AgeRating>16</dc:relation.AgeRating>
+    <dc:date.TXDate>2010-07-22T23:00:00.000Z</dc:date.TXDate>
+    <dc:relation.TXChannel>C4</dc:relation.TXChannel>
+    <dc:relation.Subtitles>true</dc:relation.Subtitles>
+    <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+    <dc:relation.Duration>21:57</dc:relation.Duration><dc:relation.complianceText>Test</dc:relation.complianceText>
+
+    <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/the-it-crowd/4od%233110819</id>
+    <title type="text">Reynholm vs Reynholm</title>
+    <updated>2010-11-03T05:57:50.175Z</updated>
+    <summary type="html">Douglas finds marriage agrees with him - for all of two weeks. When it all blows up his entire fortune is at stake - so it's up to Jen, Roy, Moss and one other mysterious Reynholm Industries employee to help him out...</summary>
+    <link href="http://www.channel4.com/programmes/the-it-crowd/4od#3110819" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/the-it-crowd/episode-guide/series-4/episode-6.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml"/>
+    <media:group>
+      <media:player url="http://www.channel4.com/programmes/the-it-crowd/4od#3110819"/>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/the-it-crowd/series-4/episode-6/ba2ca2c6-a31d-46f0-b095-4bb6328bb3ba_200x113.jpg" height="113" width="200" imageSource="own"/>
+      <media:rating>adult</media:rating>
+      <media:copyright url="http://www.channel4.com/terms_and_conditions.html">Terms and Conditions</media:copyright>
+      <media:restriction relationship="allow" type="country">GB,GG,IE,IM,JE</media:restriction>
+      <media:rights status="official"/>
+    </media:group>
+    <dc:relation.BrandTitle>The IT Crowd</dc:relation.BrandTitle>
+    <dcterms:available>start=2010-08-29T22:00:00.000Z; end=2013-07-05T22:00:00.000Z; scheme=W3C-DTF</dcterms:available>
+    <dc:relation.SeriesNumber>4</dc:relation.SeriesNumber>
+    <dc:relation.EpisodeNumber>6</dc:relation.EpisodeNumber>
+    <dc:relation.RelatedEntryId feedId="tag:www.channel4.com,2009:/programmes/the-it-crowd/episode-guide/series-4">tag:www.channel4.com,2009:/programmes/the-it-crowd/episode-guide/series-4/episode-6</dc:relation.RelatedEntryId>
+    <dc:relation.AgeRating>16</dc:relation.AgeRating>
+    <dc:date.TXDate>2010-07-29T23:00:00.000Z</dc:date.TXDate>
+    <dc:relation.TXChannel>C4</dc:relation.TXChannel>
+    <dc:relation.Subtitles>true</dc:relation.Subtitles>
+    <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+    <dc:relation.Duration>24:14</dc:relation.Duration><dc:relation.complianceText>Test</dc:relation.complianceText>
+
+    <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+  </entry>
+
+</feed>

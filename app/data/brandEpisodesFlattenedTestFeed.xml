@@ -1,0 +1,50 @@
+<?xml version="1.0"?><feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms" xml:base="http://www.channel4.com">
+  <id>tag:www.channel4.com,2009:/programmes/the-boy-from-bamiyan/4od</id>
+  <title type="text">The Boy from Bamiyan on 4oD</title>
+  <updated>2011-11-07T12:02:17.375Z</updated>
+  <author>
+    <name>Channel 4 Television</name>
+  </author>
+  <logo imageSource="own">http://www.channel4.com/assets/programmes/images/the-boy-from-bamiyan/cd173fe9-700f-43b6-b7c5-e6175d3f5d18_200x113.jpg</logo>
+  <link rel="up" type="application/atom+xml" href="http://api.channel4.com/pmlsd/the-boy-from-bamiyan.atom?apikey=56teq7vj2y94tx953n2d4epd"></link>
+  <link rel="self" type="application/atom+xml" href="http://api.channel4.com/pmlsd/the-boy-from-bamiyan/4od.atom?apikey=56teq7vj2y94tx953n2d4epd"></link>
+  <link rel="alternate" type="text/html" href="http://www.channel4.com/programmes/the-boy-from-bamiyan/4od"></link>
+  <dc:relation.BrandFlattened>true</dc:relation.BrandFlattened>
+  <dc:relation.presentationBrand>M4</dc:relation.presentationBrand>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/the-boy-from-bamiyan/4od%233252565</id>
+    <title type="text">The Boy from Bamiyan</title>
+    <updated>2011-11-01T14:45:01.436Z</updated>
+    <summary type="html">Ten years ago, Phil Grabsky chronicled the life of Mir, an optimistic, cheeky and inquisitive eight-year-old Afghan boy, for the film The Boy Who Plays on the Buddhas of Bamiyan. 
+
+The Boy from Bamiyan follows Mir's life over the next 10 years, as he becomes an adult. 
+
+Grabsky's film reveals how events in Afghanistan have shaped this young man - as he balances his dream of becoming a teacher with the more basic hope of not dying in the fighting - as well as his family and his country. 
+
+The result is a unique, humorous and poignant portrayal of life in one of the most turbulent countries on earth. 
+
+True Stories commissions and showcases the best international feature documentaries.</summary>
+    <link rel="alternate" type="text/html" href="http://www.channel4.com/programmes/the-boy-from-bamiyan/4od#3252565"></link>
+    <link rel="related" type="application/atom+xml" href="http://api.channel4.com/pmlsd/the-boy-from-bamiyan/episode-guide/series-1/episode-1.atom?apikey=56teq7vj2y94tx953n2d4epd"></link>
+    <media:group>
+      <media:player url="http://www.channel4.com/programmes/the-boy-from-bamiyan/4od#3252565"></media:player>
+      <media:thumbnail imageSource="own" height="113" width="200" url="http://www.channel4.com/assets/programmes/images/the-boy-from-bamiyan/series-1/episode-1/1c3a46e3-3ac3-4896-b922-67c3e05ae819_200x113.jpg"></media:thumbnail>
+      <media:rating>adult</media:rating>
+      <media:copyright url="http://www.channel4.com/terms_and_conditions.html">Terms and Conditions</media:copyright>
+      <media:restriction relationship="allow" type="country">GB,GG,IE,IM,JE</media:restriction>
+      <media:rights status="official"></media:rights>
+    </media:group>
+    <dc:relation.BrandTitle>The Boy from Bamiyan</dc:relation.BrandTitle>
+    <dcterms:available>start=2011-11-02T00:05:00.000Z; end=2011-12-02T00:05:00.000Z; scheme=W3C-DTF</dcterms:available>
+    <dc:relation.RelatedEntryId feedId="tag:www.channel4.com,2009:/programmes/the-boy-from-bamiyan/episode-guide/series-1">tag:www.channel4.com,2009:/programmes/the-boy-from-bamiyan/episode-guide/series-1/episode-1</dc:relation.RelatedEntryId>
+    <dc:relation.AgeRating>16</dc:relation.AgeRating>
+    <dc:date.TXDate>2011-11-01T22:00:00.000Z</dc:date.TXDate>
+    <dc:relation.TXChannel>M4</dc:relation.TXChannel>
+    <dc:relation.Subtitles>true</dc:relation.Subtitles>
+    <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+    <dc:relation.Duration>90:41</dc:relation.Duration>
+    <dc:relation.complianceText>Test</dc:relation.complianceText>
+    <dc:relation.requestType>CATCHUP</dc:relation.requestType>
+  </entry>
+
+</feed>

@@ -1,0 +1,761 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:fh="http://purl.org/syndication/history/1.0" xml:base="http://www.channel4.com">
+  <id>tag:www.channel4.com,2009:/programmes/atoz/a/4od</id>
+  <title type="text">4oD Programmes beginning with "A"</title>
+  <updated>2011-09-05T14:32:38.092Z</updated>
+  <author>
+    <name>Channel 4 Television</name>
+  </author>
+  <logo imageSource="default">http://www.channel4.com/static/programmes/images/c4-atom-logo.gif</logo>
+  <link href="http://www.channel4.com/programmes/atoz/a/4od" rel="alternate" type="text/html"/>
+  <link href="http://api.channel4.com/pmlsd/atoz/a/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml"/>
+  <link href="http://api.channel4.com/pmlsd/atoz/a.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="up" type="application/atom+xml"/>
+  <fh:complete/>
+  <dc:relation.4oDProgrammeCount>50</dc:relation.4oDProgrammeCount>
+  <dc:relation.AllProgrammeCount>133</dc:relation.AllProgrammeCount>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/a-bipolar-expedition</id>
+    <title type="text">A Bipolar Expedition</title>
+    <summary type="html">Paul Downes, a successful businessman with bipolar disorder, invites 12 Ukrainian women to join him at a castle in Jamaica, hoping that one of them can be persuaded to marry him</summary>
+    <updated>2010-11-03T04:53:53.399Z</updated>
+    <dc:relation.sortLetter>A</dc:relation.sortLetter>
+    <dc:date.TXDate>2010-05-25T23:40:00.000Z</dc:date.TXDate>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/a-bipolar-expedition/d1c91fca-65b8-48a0-be34-97ea1e366db2_200x113.jpg" height="113" width="200" imageSource="own"/>
+    </media:content>
+    <link href="http://www.channel4.com/programmes/a-bipolar-expedition" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/a-bipolar-expedition.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml"/>
+    <link href="http://api.channel4.com/pmlsd/a-bipolar-expedition/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD"/>
+    <link href="http://api.channel4.com/pmlsd/a-bipolar-expedition/episode-guide.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Episode Guide"/>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/a-boy-called-alex-the-concert</id>
+    <title type="text">A Boy Called Alex: The Concert</title>
+    <summary type="html">Highlights from the remarkable performance of Bach's St Matthew Passion conducted by Alex Stobbs at London's Cadogan Hall</summary>
+    <updated>2010-11-03T04:53:53.399Z</updated>
+    <dc:relation.sortLetter>A</dc:relation.sortLetter>
+    <dc:date.TXDate>2009-10-09T00:10:00.000Z</dc:date.TXDate>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/a-boy-called-alex-the-concert/1f51d223-ff1c-447e-8020-059acb99f6cd_200x113.jpg" height="113" width="200" imageSource="own"/>
+    </media:content>
+    <link href="http://www.channel4.com/programmes/a-boy-called-alex-the-concert" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/a-boy-called-alex-the-concert.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml"/>
+    <link href="http://api.channel4.com/pmlsd/a-boy-called-alex-the-concert/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD"/>
+    <link href="http://api.channel4.com/pmlsd/a-boy-called-alex-the-concert/episode-guide.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Episode Guide"/>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/a-cook-on-the-wild-side</id>
+    <title type="text">A Cook on the Wild Side</title>
+    <summary type="html">Hugh Fearnley-Whittingstall spurns the London summer and heads for open country to spend some time eating off the fat of the land in a trawl through Britain's wild larder</summary>
+    <updated>2010-11-03T04:53:53.399Z</updated>
+    <dc:relation.sortLetter>A</dc:relation.sortLetter>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/a-cook-on-the-wild-side/26b202cf-e18c-4e30-a141-b4ed90d566a4_200x113.jpg" height="113" width="200" imageSource="own"/>
+    </media:content>
+    <link href="http://www.channel4.com/programmes/a-cook-on-the-wild-side" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/a-cook-on-the-wild-side.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml"/>
+    <link href="http://api.channel4.com/pmlsd/a-cook-on-the-wild-side/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD"/>
+    <link href="http://api.channel4.com/pmlsd/a-cook-on-the-wild-side/episode-guide.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Episode Guide"/>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/a-dance-to-the-music-of-time</id>
+    <title type="text">A Dance to the Music of Time</title>
+    <summary type="html">An adaptation of Anthony Powell's 12-volume novel sequence - a sharp, comic portrait of upper-class and bohemian England, spanning almost a century, from the early 20s to modern times</summary>
+    <updated>2010-11-03T04:53:53.399Z</updated>
+    <dc:relation.sortLetter>A</dc:relation.sortLetter>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/a-dance-to-the-music-of-time/e14de73b-e666-45a5-b675-c4d0583ab390_200x113.jpg" height="113" width="200" imageSource="own"/>
+    </media:content>
+    <link href="http://www.channel4.com/programmes/a-dance-to-the-music-of-time" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/a-dance-to-the-music-of-time.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml"/>
+    <link href="http://api.channel4.com/pmlsd/a-dance-to-the-music-of-time/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD"/>
+    <link href="http://api.channel4.com/pmlsd/a-dance-to-the-music-of-time/episode-guide.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Episode Guide"/>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/a-harlots-progress</id>
+    <title type="text">A Harlot's Progress</title>
+    <summary type="html">A Harlot's Progress dramatically depicts the artist William Hogarth's exploration of sex trafficking and debauchery in Georgian London - an investigation that threatens to destroy his career</summary>
+    <updated>2010-11-03T04:53:53.399Z</updated>
+    <dc:relation.sortLetter>A</dc:relation.sortLetter>
+    <dc:date.TXDate>2011-04-15T00:45:00.000Z</dc:date.TXDate>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/a-harlots-progress/5a2d1533-20a7-4beb-854c-360d8f27383b_200x113.jpg" height="113" width="200" imageSource="own"/>
+    </media:content>
+    <link href="http://www.channel4.com/programmes/a-harlots-progress" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/a-harlots-progress.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml"/>
+    <link href="http://api.channel4.com/pmlsd/a-harlots-progress/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD"/>
+    <link href="http://api.channel4.com/pmlsd/a-harlots-progress/episode-guide.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Episode Guide"/>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/a-jihad-for-love</id>
+    <title type="text">A Jihad for Love</title>
+    <summary type="html">Parvez Sharma's compassionate and moving exploration of Islam and homosexuality talks to men and women of the Muslim faith who are courageous and defiant about their sexuality and choice of lifestyle</summary>
+    <updated>2010-11-03T04:53:53.399Z</updated>
+    <dc:relation.sortLetter>A</dc:relation.sortLetter>
+    <dc:date.TXDate>2009-03-03T22:00:00.000Z</dc:date.TXDate>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/a-jihad-for-love/0c356a1f-1405-4676-a8fe-b52897a5cfc3_200x113.jpg" height="113" width="200" imageSource="own"/>
+    </media:content>
+    <link href="http://www.channel4.com/programmes/a-jihad-for-love" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/a-jihad-for-love.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml"/>
+    <link href="http://api.channel4.com/pmlsd/a-jihad-for-love/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD"/>
+    <link href="http://api.channel4.com/pmlsd/a-jihad-for-love/episode-guide.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Episode Guide"/>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/a-million-pound-place-in-the-sun</id>
+    <title type="text">A Million Pound Place in the Sun</title>
+    <summary type="html">Property expert Amanda Lamb helps affluent house hunters find their luxury dream home</summary>
+    <updated>2011-01-31T11:29:10.865Z</updated>
+    <dc:relation.sortLetter>A</dc:relation.sortLetter>
+    <dc:date.TXDate>2010-12-24T00:10:00.000Z</dc:date.TXDate>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/a-million-pound-place-in-the-sun/a-million-pound-place-in-the-sun_200x113.jpg" height="113" width="200" imageSource="own"/>
+    </media:content>
+    <link href="http://www.channel4.com/programmes/a-million-pound-place-in-the-sun" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/a-million-pound-place-in-the-sun.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml"/>
+    <link href="http://api.channel4.com/pmlsd/a-million-pound-place-in-the-sun/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD"/>
+    <link href="http://api.channel4.com/pmlsd/a-million-pound-place-in-the-sun/episode-guide.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Episode Guide"/>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/a-place-by-the-sea</id>
+    <title type="text">A Place by the Sea</title>
+    <summary type="html">Property expert Seetha Hallett shows potential house-buyers fantastic properties right on the British coast</summary>
+    <updated>2011-03-23T09:28:45.655Z</updated>
+    <dc:relation.sortLetter>A</dc:relation.sortLetter>
+    <dc:date.TXDate>2011-09-05T16:45:00.000Z</dc:date.TXDate>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/a-place-by-the-sea/a-place-by-the-sea_200x113.jpg" height="113" width="200" imageSource="own"/>
+    </media:content>
+    <link href="http://www.channel4.com/programmes/a-place-by-the-sea" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/a-place-by-the-sea.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml"/>
+    <link href="http://api.channel4.com/pmlsd/a-place-by-the-sea/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD"/>
+    <link href="http://api.channel4.com/pmlsd/a-place-by-the-sea/episode-guide.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Episode Guide"/>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/a-place-in-the-sun</id>
+    <title type="text">A Place in the Sun</title>
+    <summary type="html">The show that helps house hunters find dream holiday homes all over Europe with advice from international property experts</summary>
+    <updated>2011-01-31T11:28:40.029Z</updated>
+    <dc:relation.sortLetter>A</dc:relation.sortLetter>
+    <dc:date.TXDate>2011-09-04T08:00:00.000Z</dc:date.TXDate>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/a-place-in-the-sun/a-place-in-the-sun_200x113.jpg" height="113" width="200" imageSource="own"/>
+    </media:content>
+    <link href="http://www.channel4.com/programmes/a-place-in-the-sun" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/a-place-in-the-sun.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml"/>
+    <link href="http://api.channel4.com/pmlsd/a-place-in-the-sun/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD"/>
+    <link href="http://api.channel4.com/pmlsd/a-place-in-the-sun/episode-guide.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Episode Guide"/>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/a-place-in-the-sun-down-under</id>
+    <title type="text">A Place in the Sun Down Under</title>
+    <summary type="html">With a cheaper cost of living Australia is becoming more and more popular as a destination for Brits wanting a new life</summary>
+    <updated>2011-08-22T16:27:15.426Z</updated>
+    <dc:relation.sortLetter>A</dc:relation.sortLetter>
+    <dc:date.TXDate>2010-01-04T12:05:00.000Z</dc:date.TXDate>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/a-place-in-the-sun-down-under/a-place-in-the-sun-down-under-20090609181235_200x113.jpg" height="113" width="200" imageSource="own"/>
+    </media:content>
+    <link href="http://www.channel4.com/programmes/a-place-in-the-sun-down-under" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/a-place-in-the-sun-down-under.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml"/>
+    <link href="http://api.channel4.com/pmlsd/a-place-in-the-sun-down-under/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD"/>
+    <link href="http://api.channel4.com/pmlsd/a-place-in-the-sun-down-under/episode-guide.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Episode Guide"/>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/a-place-in-the-sun-home-or-away</id>
+    <title type="text">A Place in the Sun: Home or Away</title>
+    <summary type="html">Jonnie Irwin and Jasmine Harman help property owners find the ideal new homes they've always wanted - but will they stay on British soil or settle on some distant sunny shore?</summary>
+    <updated>2011-03-17T12:22:13.297Z</updated>
+    <dc:relation.sortLetter>A</dc:relation.sortLetter>
+    <dc:date.TXDate>2011-08-26T11:05:00.000Z</dc:date.TXDate>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/a-place-in-the-sun-home-or-away/a-place-in-the-sun-home-or-away_200x113.jpg" height="113" width="200" imageSource="own"/>
+    </media:content>
+    <link href="http://www.channel4.com/programmes/a-place-in-the-sun-home-or-away" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/a-place-in-the-sun-home-or-away.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml"/>
+    <link href="http://api.channel4.com/pmlsd/a-place-in-the-sun-home-or-away/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD"/>
+    <link href="http://api.channel4.com/pmlsd/a-place-in-the-sun-home-or-away/episode-guide.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Episode Guide"/>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/a-very-british-coup</id>
+    <title type="text">A Very British Coup</title>
+    <summary type="html">Based on the novel by Chris Mullin, this political thriller stars Ray McAnally as the newly elected left-wing prime minister Harry Perkins, who soon finds himself up to his neck in conspiracy</summary>
+    <updated>2010-11-03T04:53:53.399Z</updated>
+    <dc:relation.sortLetter>A</dc:relation.sortLetter>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/a-very-british-coup/5298e59e-d56c-47cc-94e2-63deb5668c22_200x113.jpg" height="113" width="200" imageSource="own"/>
+    </media:content>
+    <link href="http://www.channel4.com/programmes/a-very-british-coup" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/a-very-british-coup.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml"/>
+    <link href="http://api.channel4.com/pmlsd/a-very-british-coup/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD"/>
+    <link href="http://api.channel4.com/pmlsd/a-very-british-coup/episode-guide.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Episode Guide"/>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/a-very-british-storm-junkie</id>
+    <title type="text">A Very British Storm Junkie</title>
+    <summary type="html">Cutting Edge documentary about an unassuming IT consultant who - in his alter ego of fanatical storm chaser - travels thousands of miles across the globe to witness at first hand the awesome power of nature</summary>
+    <updated>2010-11-03T04:53:53.399Z</updated>
+    <dc:relation.sortLetter>A</dc:relation.sortLetter>
+    <dc:date.TXDate>2010-10-06T01:40:00.000Z</dc:date.TXDate>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/a-very-british-storm-junkie/a-very-british-storm-junkie_200x113.jpg" height="113" width="200" imageSource="own"/>
+    </media:content>
+    <link href="http://www.channel4.com/programmes/a-very-british-storm-junkie" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/a-very-british-storm-junkie.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml"/>
+    <link href="http://api.channel4.com/pmlsd/a-very-british-storm-junkie/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD"/>
+    <link href="http://api.channel4.com/pmlsd/a-very-british-storm-junkie/video.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Clips"/>
+    <link href="http://api.channel4.com/pmlsd/a-very-british-storm-junkie/episode-guide.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Episode Guide"/>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/a-wi-ladys-guide-to-brothels</id>
+    <title type="text">A WI Lady's Guide to Brothels</title>
+    <summary type="html">Middle England meets the sex trade head-on when the Hampshire WI emerges as an unlikely champion of the reform of prostitution laws</summary>
+    <updated>2010-11-03T04:53:53.399Z</updated>
+    <dc:relation.sortLetter>A</dc:relation.sortLetter>
+    <dc:date.TXDate>2010-06-03T00:25:00.000Z</dc:date.TXDate>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/a-wi-ladys-guide-to-brothels/a-wi-ladys-guide-to-brothels-20090309162358_200x113.jpg" height="113" width="200" imageSource="own"/>
+    </media:content>
+    <link href="http://www.channel4.com/programmes/a-wi-ladys-guide-to-brothels" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/a-wi-ladys-guide-to-brothels.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml"/>
+    <link href="http://api.channel4.com/pmlsd/a-wi-ladys-guide-to-brothels/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD"/>
+    <link href="http://api.channel4.com/pmlsd/a-wi-ladys-guide-to-brothels/episode-guide.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Episode Guide"/>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/a-wife-for-william</id>
+    <title type="text">A Wife for William</title>
+    <summary type="html">Who should be our next queen? Let the Great British Public decide! Vernon Kay hosts the search to find Prince William's bride from 25 eligible girls handpicked by experts.</summary>
+    <updated>2011-08-22T14:48:19.104Z</updated>
+    <dc:relation.sortLetter>A</dc:relation.sortLetter>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/a-wife-for-william/9b3b744c-6391-4e06-b420-a1fea2f70983_200x113.jpg" height="113" width="200" imageSource="own"/>
+    </media:content>
+    <link href="http://www.channel4.com/programmes/a-wife-for-william" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/a-wife-for-william.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml"/>
+    <link href="http://api.channel4.com/pmlsd/a-wife-for-william/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD"/>
+    <link href="http://api.channel4.com/pmlsd/a-wife-for-william/episode-guide.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Episode Guide"/>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/a-z-of-your-head</id>
+    <title type="text">A-Z of Your Head</title>
+    <summary type="html">What's it like to hear voices, make yourself sick 15 times a day, or have electric shock treatment? Young people share their personal experiences of mental health problems.</summary>
+    <updated>2010-11-03T04:53:53.399Z</updated>
+    <dc:relation.sortLetter>A</dc:relation.sortLetter>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/a-z-of-your-head/a-z-of-your-head-20090505122056_200x113.jpg" height="113" width="200" imageSource="own"/>
+    </media:content>
+    <link href="http://www.channel4.com/programmes/a-z-of-your-head" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/a-z-of-your-head.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml"/>
+    <link href="http://api.channel4.com/pmlsd/a-z-of-your-head/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD"/>
+    <link href="http://api.channel4.com/pmlsd/a-z-of-your-head/episode-guide.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Episode Guide"/>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/absolutely</id>
+    <title type="text">Absolutely</title>
+    <summary type="html">Many years ago, before The Fast Show, Big Train or Little Britain, came this influential Scottish sketch show. A splendid blend of comedy craft and surreal lunacy.</summary>
+    <updated>2010-11-03T04:53:53.399Z</updated>
+    <dc:relation.sortLetter>A</dc:relation.sortLetter>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/absolutely/cfba15ec-a30f-46c9-8bf2-c8d8feb4d32e_200x113.jpg" height="113" width="200" imageSource="own"/>
+    </media:content>
+    <link href="http://www.channel4.com/programmes/absolutely" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/absolutely.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml"/>
+    <link href="http://api.channel4.com/pmlsd/absolutely/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD"/>
+    <link href="http://api.channel4.com/pmlsd/absolutely/video.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Clips"/>
+    <link href="http://api.channel4.com/pmlsd/absolutely/episode-guide.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Episode Guide"/>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/the-adam-and-joe-show</id>
+    <title type="text">The Adam and Joe Show</title>
+    <summary type="html">Hilarious and irreverent comedy from award-winning duo Adam Buxton and Joe Cornish. Featuring inspired toy animations and hard-hitting reports on the youth of today from Adam's dad.</summary>
+    <updated>2010-11-03T04:53:53.399Z</updated>
+    <dc:relation.sortLetter>A</dc:relation.sortLetter>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/the-adam-and-joe-show/the-adam-and-joe-show_200x113.jpg" height="113" width="200" imageSource="own"/>
+    </media:content>
+    <link href="http://www.channel4.com/programmes/the-adam-and-joe-show" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/the-adam-and-joe-show.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml"/>
+    <link href="http://api.channel4.com/pmlsd/the-adam-and-joe-show/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD"/>
+    <link href="http://api.channel4.com/pmlsd/the-adam-and-joe-show/video.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Clips"/>
+    <link href="http://api.channel4.com/pmlsd/the-adam-and-joe-show/episode-guide.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Episode Guide"/>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/adam-and-joes-fourmative-years</id>
+    <title type="text">Adam and Joe's Fourmative Years</title>
+    <summary type="html">In 1997, Channel 4 called on cult couch-potatoes Adam and Joe to look back over its first 15 years of groundbreaking television. And take the p*ss out of it...</summary>
+    <updated>2010-11-03T04:53:53.399Z</updated>
+    <dc:relation.sortLetter>A</dc:relation.sortLetter>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/adam-and-joes-fourmative-years/adam-and-joes-fourmative-years-20090623201423_200x113.jpg" height="113" width="200" imageSource="own"/>
+    </media:content>
+    <link href="http://www.channel4.com/programmes/adam-and-joes-fourmative-years" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/adam-and-joes-fourmative-years.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml"/>
+    <link href="http://api.channel4.com/pmlsd/adam-and-joes-fourmative-years/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD"/>
+    <link href="http://api.channel4.com/pmlsd/adam-and-joes-fourmative-years/episode-guide.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Episode Guide"/>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/addicted-to-surrogacy</id>
+    <title type="text">Addicted to Surrogacy</title>
+    <summary type="html">This Cutting Edge film explores the extraordinary world of serial surrogates and asks what motivates them to continue to have babies for other people. Is it money, altruism - or something far more complex?</summary>
+    <updated>2010-11-03T04:53:53.399Z</updated>
+    <dc:relation.sortLetter>A</dc:relation.sortLetter>
+    <dc:date.TXDate>2010-03-01T03:05:00.000Z</dc:date.TXDate>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/addicted-to-surrogacy/addicted-to-surrogacy_200x113.jpg" height="113" width="200" imageSource="own"/>
+    </media:content>
+    <link href="http://www.channel4.com/programmes/addicted-to-surrogacy" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/addicted-to-surrogacy.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml"/>
+    <link href="http://api.channel4.com/pmlsd/addicted-to-surrogacy/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD"/>
+    <link href="http://api.channel4.com/pmlsd/addicted-to-surrogacy/episode-guide.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Episode Guide"/>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/adopt-me-im-a-teenager</id>
+    <title type="text">Adopt Me - I'm a Teenager</title>
+    <summary type="html">An observational film looking at adoption stories in the USA. The programme features teenagers between the ages of 15-17 who are on an epic emotional journey in search of a permanent family.</summary>
+    <updated>2010-11-03T04:53:53.399Z</updated>
+    <dc:relation.sortLetter>A</dc:relation.sortLetter>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/adopt-me-im-a-teenager/adopt-me-im-a-teenager-20090514110001_200x113.jpg" height="113" width="200" imageSource="own"/>
+    </media:content>
+    <link href="http://www.channel4.com/programmes/adopt-me-im-a-teenager" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/adopt-me-im-a-teenager.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml"/>
+    <link href="http://api.channel4.com/pmlsd/adopt-me-im-a-teenager/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD"/>
+    <link href="http://api.channel4.com/pmlsd/adopt-me-im-a-teenager/episode-guide.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Episode Guide"/>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/the-air-hospital</id>
+    <title type="text">The Air Hospital</title>
+    <summary type="html">Cutting Edge gets on board the Ministry of Defence's C-17 Globemaster plane as its elite medical staff and pilots bring injured service personnel back from Afghanistan</summary>
+    <updated>2010-11-03T04:53:53.399Z</updated>
+    <dc:relation.sortLetter>A</dc:relation.sortLetter>
+    <dc:date.TXDate>2011-04-11T02:15:00.000Z</dc:date.TXDate>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/air-hospital/38752512-68ea-4e19-ace9-807e5420b75b_200x113.jpg" height="113" width="200" imageSource="own"/>
+    </media:content>
+    <link href="http://www.channel4.com/programmes/the-air-hospital" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/the-air-hospital.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml"/>
+    <link href="http://api.channel4.com/pmlsd/the-air-hospital/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD"/>
+    <link href="http://api.channel4.com/pmlsd/the-air-hospital/video.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Clips"/>
+    <link href="http://api.channel4.com/pmlsd/the-air-hospital/episode-guide.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Episode Guide"/>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/alan-carrs-celebrity-ding-dong</id>
+    <title type="text">Alan Carr's Celebrity Ding Dong</title>
+    <summary type="html">The award-winning comedian hosts a showbiz bash with a difference. Alan knows celebs are no better than ordinary folk. And he's got the show to prove it!</summary>
+    <updated>2010-11-03T04:53:53.399Z</updated>
+    <dc:relation.sortLetter>A</dc:relation.sortLetter>
+    <dc:date.TXDate>2011-03-06T23:00:00.000Z</dc:date.TXDate>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/alan-carrs-celebrity-ding-dong/alan-carrs-celebrity-ding-dong_200x113.jpg" height="113" width="200" imageSource="own"/>
+    </media:content>
+    <link href="http://www.channel4.com/programmes/alan-carrs-celebrity-ding-dong" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/alan-carrs-celebrity-ding-dong.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml"/>
+    <link href="http://api.channel4.com/pmlsd/alan-carrs-celebrity-ding-dong/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD"/>
+    <link href="http://api.channel4.com/pmlsd/alan-carrs-celebrity-ding-dong/video.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Clips"/>
+    <link href="http://api.channel4.com/pmlsd/alan-carrs-celebrity-ding-dong/episode-guide.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Episode Guide"/>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/alan-carr-tooth-fairy-live</id>
+    <title type="text">Alan Carr: Tooth Fairy Live</title>
+    <summary type="html">In his sell-out live performance at the Hammersmith Apollo, Alan Carr talks about childhood and adolescence in his trademark frank and hilarious style</summary>
+    <updated>2010-11-03T04:53:53.399Z</updated>
+    <dc:relation.sortLetter>A</dc:relation.sortLetter>
+    <dc:date.TXDate>2011-08-29T22:05:00.000Z</dc:date.TXDate>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/alan-carr-tooth-fairy-live/afb90fcc-2069-4b32-a175-86cbbba162e2_200x113.jpg" height="113" width="200" imageSource="own"/>
+    </media:content>
+    <link href="http://www.channel4.com/programmes/alan-carr-tooth-fairy-live" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/alan-carr-tooth-fairy-live.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml"/>
+    <link href="http://api.channel4.com/pmlsd/alan-carr-tooth-fairy-live/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD"/>
+    <link href="http://api.channel4.com/pmlsd/alan-carr-tooth-fairy-live/episode-guide.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Episode Guide"/>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/the-album-chart-show-with-tesco-entertainment</id>
+    <title type="text">The Album Chart Show with Tesco Entertainment</title>
+    <summary type="html">The Tesco Entertainment Album Chart Show (formerly The Album Chart Show) is a music programme which features performances from new and established acts at London's Koko club</summary>
+    <updated>2011-04-01T11:28:22.398Z</updated>
+    <dc:relation.sortLetter>A</dc:relation.sortLetter>
+    <dc:date.TXDate>2011-09-01T00:00:00.000Z</dc:date.TXDate>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/the-album-chart-show-with-tesco-entertainment/85362dc8-f335-42a1-8c8a-59bd35babc06_200x113.jpg" height="113" width="200" imageSource="own"/>
+    </media:content>
+    <link href="http://www.channel4.com/programmes/the-album-chart-show-with-tesco-entertainment" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/the-album-chart-show-with-tesco-entertainment.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml"/>
+    <link href="http://api.channel4.com/pmlsd/the-album-chart-show-with-tesco-entertainment/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD"/>
+    <link href="http://api.channel4.com/pmlsd/the-album-chart-show-with-tesco-entertainment/episode-guide.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Episode Guide"/>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/alex-a-passion-for-life</id>
+    <title type="text">Alex: A Passion for Life</title>
+    <summary type="html">Cutting Edge catches up with Alex Stobbs, the musical prodigy and cystic fibrosis sufferer originally featured in A Boy Called Alex, who is now studying music at Cambridge</summary>
+    <updated>2010-11-03T04:53:53.399Z</updated>
+    <dc:relation.sortLetter>A</dc:relation.sortLetter>
+    <dc:date.TXDate>2010-03-09T04:40:00.000Z</dc:date.TXDate>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/continuing-adventures-of-a-boy-called-alex/b6832bcb-a7a4-4471-9ff0-156e95350937_200x113.jpg" height="113" width="200" imageSource="own"/>
+    </media:content>
+    <link href="http://www.channel4.com/programmes/alex-a-passion-for-life" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/alex-a-passion-for-life.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml"/>
+    <link href="http://api.channel4.com/pmlsd/alex-a-passion-for-life/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD"/>
+    <link href="http://api.channel4.com/pmlsd/alex-a-passion-for-life/video.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Clips"/>
+    <link href="http://api.channel4.com/pmlsd/alex-a-passion-for-life/episode-guide.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Episode Guide"/>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/alone-in-the-wild</id>
+    <title type="text">Alone in the Wild</title>
+    <summary type="html">In this remarkable documentary, Ed Wardle is dropped into the unforgiving Yukon wilderness with just basic provisions and cameras to film himself as he attempts to survive completely alone in the wild</summary>
+    <updated>2010-11-03T04:53:53.399Z</updated>
+    <dc:relation.sortLetter>A</dc:relation.sortLetter>
+    <dc:date.TXDate>2010-03-19T01:25:00.000Z</dc:date.TXDate>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/alone-in-the-wild/01dc5f3f-45f6-49ed-8fd7-939144a376eb_200x113.jpg" height="113" width="200" imageSource="own"/>
+    </media:content>
+    <link href="http://www.channel4.com/programmes/alone-in-the-wild" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/alone-in-the-wild.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml"/>
+    <link href="http://api.channel4.com/pmlsd/alone-in-the-wild/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD"/>
+    <link href="http://api.channel4.com/pmlsd/alone-in-the-wild/episode-guide.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Episode Guide"/>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/alternative-christmas-message</id>
+    <title type="text">Alternative Christmas Message</title>
+    <summary type="html">Replay Channel 4's 2008 Alternative Christmas Message, delivered by the President of Iran, Mahmoud Ahmadinejad</summary>
+    <updated>2011-03-16T12:15:14.118Z</updated>
+    <dc:relation.sortLetter>A</dc:relation.sortLetter>
+    <dc:date.TXDate>2009-12-25T20:50:00.000Z</dc:date.TXDate>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/alternative-christmas-message/4f03b765-5c8d-4c23-8f8e-af8aa99e546c_200x113.jpg" height="113" width="200" imageSource="own"/>
+    </media:content>
+    <link href="http://www.channel4.com/programmes/alternative-christmas-message" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/alternative-christmas-message.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml"/>
+    <link href="http://api.channel4.com/pmlsd/alternative-christmas-message/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD"/>
+    <link href="http://api.channel4.com/pmlsd/alternative-christmas-message/video.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Clips"/>
+    <link href="http://api.channel4.com/pmlsd/alternative-christmas-message/episode-guide.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Episode Guide"/>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/the-alternative-queens-message</id>
+    <title type="text">The Alternative Queen's Message</title>
+    <summary type="html">In 1993, Channel 4 presented a very distinctive alternative to the queen's speech - a heartfelt Christmas message from New York's famous British émigré Quentin Crisp</summary>
+    <updated>2010-11-03T04:53:53.399Z</updated>
+    <dc:relation.sortLetter>A</dc:relation.sortLetter>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/the-alternative-queens-message/b0f070f7-4a47-4280-9518-1d50fb174e2b_200x113.jpg" height="113" width="200" imageSource="own"/>
+    </media:content>
+    <link href="http://www.channel4.com/programmes/the-alternative-queens-message" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/the-alternative-queens-message.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml"/>
+    <link href="http://api.channel4.com/pmlsd/the-alternative-queens-message/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD"/>
+    <link href="http://api.channel4.com/pmlsd/the-alternative-queens-message/episode-guide.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Episode Guide"/>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/ambreen-the-girl-boxer</id>
+    <title type="text">Ambreen: The Girl Boxer</title>
+    <summary type="html">First Cut follows a young Muslim female boxer's preparations for her championship fight</summary>
+    <updated>2010-11-03T04:53:53.399Z</updated>
+    <dc:relation.sortLetter>A</dc:relation.sortLetter>
+    <dc:date.TXDate>2010-04-13T00:00:00.000Z</dc:date.TXDate>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/muslim-million-dollar-baby/17ef1e41-34f1-47b4-b457-22ee2d55e544_200x113.jpg" height="113" width="200" imageSource="own"/>
+    </media:content>
+    <link href="http://www.channel4.com/programmes/ambreen-the-girl-boxer" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/ambreen-the-girl-boxer.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml"/>
+    <link href="http://api.channel4.com/pmlsd/ambreen-the-girl-boxer/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD"/>
+    <link href="http://api.channel4.com/pmlsd/ambreen-the-girl-boxer/video.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Clips"/>
+    <link href="http://api.channel4.com/pmlsd/ambreen-the-girl-boxer/episode-guide.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Episode Guide"/>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/amish-worlds-squarest-teenagers</id>
+    <title type="text">Amish: World's Squarest Teenagers</title>
+    <summary type="html">Five Amish teenagers leave their closed communities in the American mid-West for the very first time, to travel to Britain on an extraordinary cultural exchange</summary>
+    <updated>2010-11-03T04:53:53.399Z</updated>
+    <dc:relation.sortLetter>A</dc:relation.sortLetter>
+    <dc:date.TXDate>2010-08-15T19:00:00.000Z</dc:date.TXDate>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/meet-the-amish/3931f6b6-a9dd-4436-8ddf-6cf5ad6dfb6e_200x113.jpg" height="113" width="200" imageSource="own"/>
+    </media:content>
+    <link href="http://www.channel4.com/programmes/amish-worlds-squarest-teenagers" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/amish-worlds-squarest-teenagers.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml"/>
+    <link href="http://api.channel4.com/pmlsd/amish-worlds-squarest-teenagers/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD"/>
+    <link href="http://api.channel4.com/pmlsd/amish-worlds-squarest-teenagers/video.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Clips"/>
+    <link href="http://api.channel4.com/pmlsd/amish-worlds-squarest-teenagers/episode-guide.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Episode Guide"/>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/the-anatomists</id>
+    <title type="text">The Anatomists</title>
+    <summary type="html">A three-part history of the science of anatomy, from the ancient practice of human vivisection in the Greek Empire to the endemic grave robbing of 19th-century Britain</summary>
+    <updated>2010-11-03T04:53:53.399Z</updated>
+    <dc:relation.sortLetter>A</dc:relation.sortLetter>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/the-anatomists/4179912d-266f-474d-9324-060db5fd3013_200x113.jpg" height="113" width="200" imageSource="own"/>
+    </media:content>
+    <link href="http://www.channel4.com/programmes/the-anatomists" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/the-anatomists.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml"/>
+    <link href="http://api.channel4.com/pmlsd/the-anatomists/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD"/>
+    <link href="http://api.channel4.com/pmlsd/the-anatomists/episode-guide.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Episode Guide"/>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/anatomy-for-beginners</id>
+    <title type="text">Anatomy for Beginners</title>
+    <summary type="html">Controversial anatomist Dr Gunther von Hagens and pathologist Professor John Lee explore the beauty beneath our skin in a fascinating series of anatomy classes</summary>
+    <updated>2010-11-03T04:53:53.399Z</updated>
+    <dc:relation.sortLetter>A</dc:relation.sortLetter>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/anatomy-for-beginners/anatomy-for-beginners-20090515154138_200x113.jpg" height="113" width="200" imageSource="own"/>
+    </media:content>
+    <link href="http://www.channel4.com/programmes/anatomy-for-beginners" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/anatomy-for-beginners.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml"/>
+    <link href="http://api.channel4.com/pmlsd/anatomy-for-beginners/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD"/>
+    <link href="http://api.channel4.com/pmlsd/anatomy-for-beginners/episode-guide.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Episode Guide"/>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/the-ancient-world-with-bettany-hughes</id>
+    <title type="text">The Ancient World with Bettany Hughes</title>
+    <summary type="html">A new film about Alexandria provides the centrepiece of Bettany Hughes' definitive history of the ancient world and classical civilisation</summary>
+    <updated>2011-05-05T10:10:05.658Z</updated>
+    <dc:relation.sortLetter>A</dc:relation.sortLetter>
+    <dc:date.TXDate>2011-08-21T00:30:00.000Z</dc:date.TXDate>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/the-ancient-world-with-bettany-hughes/ca3601e6-f145-44a2-97c0-fe32d240b865_200x113.jpg" height="113" width="200" imageSource="own"/>
+    </media:content>
+    <link href="http://www.channel4.com/programmes/the-ancient-world-with-bettany-hughes" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/the-ancient-world-with-bettany-hughes.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml"/>
+    <link href="http://api.channel4.com/pmlsd/the-ancient-world-with-bettany-hughes/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD"/>
+    <link href="http://api.channel4.com/pmlsd/the-ancient-world-with-bettany-hughes/episode-guide.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Episode Guide"/>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/animal-farm</id>
+    <title type="text">Animal Farm</title>
+    <summary type="html">Presented by Olivia Judson and Giles Coren, this series looks at advancements in GM, cloning and tissue engineering in animals</summary>
+    <updated>2010-11-03T04:53:53.399Z</updated>
+    <dc:relation.sortLetter>A</dc:relation.sortLetter>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/animal-farm/animal-farm-20090527163420_200x113.jpg" height="113" width="200" imageSource="own"/>
+    </media:content>
+    <link href="http://www.channel4.com/programmes/animal-farm" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/animal-farm.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml"/>
+    <link href="http://api.channel4.com/pmlsd/animal-farm/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD"/>
+    <link href="http://api.channel4.com/pmlsd/animal-farm/episode-guide.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Episode Guide"/>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/annies-bar</id>
+    <title type="text">Annie's Bar</title>
+    <summary type="html">Political soap with scenes shot just hours before transmission. Set in and around Annie's Bar - the legendary watering hole and gossip shop in the House of Commons</summary>
+    <updated>2010-11-03T04:53:53.399Z</updated>
+    <dc:relation.sortLetter>A</dc:relation.sortLetter>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/annies-bar/a502c438-c3cc-4ecf-ad56-065c5f0a4a4a_200x113.jpg" height="113" width="200" imageSource="own"/>
+    </media:content>
+    <link href="http://www.channel4.com/programmes/annies-bar" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/annies-bar.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml"/>
+    <link href="http://api.channel4.com/pmlsd/annies-bar/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD"/>
+    <link href="http://api.channel4.com/pmlsd/annies-bar/episode-guide.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Episode Guide"/>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/the-antics-roadshow</id>
+    <title type="text">The Antics Roadshow</title>
+    <summary type="html">Banksy's 'incomplete guide to total anarchy' provides a greatest hits of wayward behaviour, sedition and sabotage</summary>
+    <updated>2011-08-08T09:40:15.195Z</updated>
+    <dc:relation.sortLetter>A</dc:relation.sortLetter>
+    <dc:date.TXDate>2011-08-13T21:45:00.000Z</dc:date.TXDate>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/the-antics-roadshow/41d7b616-64f2-4f0b-8c5f-80b5914116b2_200x113.jpg" height="113" width="200" imageSource="own"/>
+    </media:content>
+    <link href="http://www.channel4.com/programmes/the-antics-roadshow" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/the-antics-roadshow.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml"/>
+    <link href="http://api.channel4.com/pmlsd/the-antics-roadshow/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD"/>
+    <link href="http://api.channel4.com/pmlsd/the-antics-roadshow/episode-guide.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Episode Guide"/>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/any-human-heart</id>
+    <title type="text">Any Human Heart</title>
+    <summary type="html">Jim Broadbent, Matthew Macfadyen and Sam Claflin take the lead role in William Boyd's funny, moving and ambitious adaptation of his best-selling novel, exploring one man's tumultuous and unpredictable journey through the 20th century</summary>
+    <updated>2010-11-28T15:28:19.109Z</updated>
+    <dc:relation.sortLetter>A</dc:relation.sortLetter>
+    <dc:date.TXDate>2010-12-12T21:00:00.000Z</dc:date.TXDate>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/any-human-heart/8c4f0553-d22f-492e-bff7-f86baafde76a_200x113.jpg" height="113" width="200" imageSource="own"/>
+    </media:content>
+    <link href="http://www.channel4.com/programmes/any-human-heart" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/any-human-heart.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml"/>
+    <link href="http://api.channel4.com/pmlsd/any-human-heart/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD"/>
+    <link href="http://api.channel4.com/pmlsd/any-human-heart/video.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Clips"/>
+    <link href="http://api.channel4.com/pmlsd/any-human-heart/episode-guide.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Episode Guide"/>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/ape</id>
+    <title type="text">Ape</title>
+    <summary type="html">A comedy show featuring a goofy mix of sketches and hidden-camera stunts where Liam Hourican 'apes' a random bunch of famous faces and everyday people in his own particular style</summary>
+    <updated>2010-11-03T04:53:53.399Z</updated>
+    <dc:relation.sortLetter>A</dc:relation.sortLetter>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/ape/754f29e4-4ac0-4ad0-8256-e5c04fca7b11_200x113.jpg" height="113" width="200" imageSource="own"/>
+    </media:content>
+    <link href="http://www.channel4.com/programmes/ape" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/ape.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml"/>
+    <link href="http://api.channel4.com/pmlsd/ape/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD"/>
+    <link href="http://api.channel4.com/pmlsd/ape/episode-guide.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Episode Guide"/>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/apocalypse-the-second-world-war</id>
+    <title type="text">Apocalypse: The Second World War</title>
+    <summary type="html">The story of World War II, told in painstakingly digitally colourised and evocative footage, and through the personal testimony of those who were there</summary>
+    <updated>2010-11-03T04:53:53.399Z</updated>
+    <dc:relation.sortLetter>A</dc:relation.sortLetter>
+    <dc:date.TXDate>2010-12-04T20:25:00.000Z</dc:date.TXDate>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/apocalypse-the-second-world-war/b9eabb70-80ff-4d11-b526-a92bbc25726f_200x113.jpg" height="113" width="200" imageSource="own"/>
+    </media:content>
+    <link href="http://www.channel4.com/programmes/apocalypse-the-second-world-war" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/apocalypse-the-second-world-war.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml"/>
+    <link href="http://api.channel4.com/pmlsd/apocalypse-the-second-world-war/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD"/>
+    <link href="http://api.channel4.com/pmlsd/apocalypse-the-second-world-war/video.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Clips"/>
+    <link href="http://api.channel4.com/pmlsd/apocalypse-the-second-world-war/episode-guide.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Episode Guide"/>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/around-the-world-in-80-trades</id>
+    <title type="text">Around the World in 80 Trades</title>
+    <summary type="html">With £25,000 in his pocket from the sale of his flat, Conor Woodman travels across four continents, trading in all kinds of products with the aim of doubling his money</summary>
+    <updated>2010-11-03T04:53:53.399Z</updated>
+    <dc:relation.sortLetter>A</dc:relation.sortLetter>
+    <dc:date.TXDate>2009-08-22T19:00:00.000Z</dc:date.TXDate>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/around-the-world-in-80-trades/around-the-world-in-80-trades_200x113.jpg" height="113" width="200" imageSource="own"/>
+    </media:content>
+    <link href="http://www.channel4.com/programmes/around-the-world-in-80-trades" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/around-the-world-in-80-trades.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml"/>
+    <link href="http://api.channel4.com/pmlsd/around-the-world-in-80-trades/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD"/>
+    <link href="http://api.channel4.com/pmlsd/around-the-world-in-80-trades/video.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Clips"/>
+    <link href="http://api.channel4.com/pmlsd/around-the-world-in-80-trades/episode-guide.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Episode Guide"/>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/the-art-show</id>
+    <title type="text">The Art Show</title>
+    <summary type="html">Contemporary arts strand that offers viewers a series of highly imaginative, provocative and unapologetically irreverent films covering the modern art scene</summary>
+    <updated>2010-11-03T04:53:53.399Z</updated>
+    <dc:relation.sortLetter>A</dc:relation.sortLetter>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/the-art-show/df1fdefe-93af-4c01-b6cd-c8afec3181d8_200x113.jpg" height="113" width="200" imageSource="own"/>
+    </media:content>
+    <link href="http://www.channel4.com/programmes/the-art-show" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/the-art-show.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml"/>
+    <link href="http://api.channel4.com/pmlsd/the-art-show/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD"/>
+    <link href="http://api.channel4.com/pmlsd/the-art-show/episode-guide.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Episode Guide"/>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/arthurs-hell-on-high-water</id>
+    <title type="text">Arthur's Hell on High Water</title>
+    <summary type="html">Many environmentalists would like to see an end to commercial trawler fishing. Arthur Potts Dawson takes to the seas with trawlermen to challenge his preconceptions about commercial fishing</summary>
+    <updated>2010-12-22T10:05:30.689Z</updated>
+    <dc:relation.sortLetter>A</dc:relation.sortLetter>
+    <dc:date.TXDate>2011-02-25T01:05:00.000Z</dc:date.TXDate>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/arthurs-hell-on-high-water/eb848305-6e63-4ca5-a1fe-383b6dc42ba2_200x113.jpg" height="113" width="200" imageSource="own"/>
+    </media:content>
+    <link href="http://www.channel4.com/programmes/arthurs-hell-on-high-water" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/arthurs-hell-on-high-water.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml"/>
+    <link href="http://api.channel4.com/pmlsd/arthurs-hell-on-high-water/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD"/>
+    <link href="http://api.channel4.com/pmlsd/arthurs-hell-on-high-water/episode-guide.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Episode Guide"/>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/the-ascent-of-money</id>
+    <title type="text">The Ascent of Money</title>
+    <summary type="html">Bringing context and understanding to the current economic crisis, historian Niall Ferguson tells the story of money and the rise - and spectacular falls - of global finance throughout the ages</summary>
+    <updated>2010-11-03T04:53:53.399Z</updated>
+    <dc:relation.sortLetter>A</dc:relation.sortLetter>
+    <dc:date.TXDate>2010-08-27T00:10:00.000Z</dc:date.TXDate>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/the-ascent-of-money/the-ascent-of-money_200x113.jpg" height="113" width="200" imageSource="own"/>
+    </media:content>
+    <link href="http://www.channel4.com/programmes/the-ascent-of-money" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/the-ascent-of-money.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml"/>
+    <link href="http://api.channel4.com/pmlsd/the-ascent-of-money/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD"/>
+    <link href="http://api.channel4.com/pmlsd/the-ascent-of-money/episode-guide.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Episode Guide"/>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/ashes-to-diamonds</id>
+    <title type="text">Ashes to Diamonds</title>
+    <summary type="html">Filmmaker David Brindley meets families across the country who have chosen some of the most surprising, adventurous and unusual ways to say goodbye to their departed's ashes</summary>
+    <updated>2010-11-03T04:53:53.399Z</updated>
+    <dc:relation.sortLetter>A</dc:relation.sortLetter>
+    <dc:date.TXDate>2010-01-22T00:10:00.000Z</dc:date.TXDate>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/ashes-to-diamonds/4739ef1c-1645-4dd0-9a4e-07dc4f0b9dee_200x113.jpg" height="113" width="200" imageSource="own"/>
+    </media:content>
+    <link href="http://www.channel4.com/programmes/ashes-to-diamonds" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/ashes-to-diamonds.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml"/>
+    <link href="http://api.channel4.com/pmlsd/ashes-to-diamonds/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD"/>
+    <link href="http://api.channel4.com/pmlsd/ashes-to-diamonds/episode-guide.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Episode Guide"/>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/asian-gracefully</id>
+    <title type="text">Asian Gracefully</title>
+    <summary type="html">An intimate look behind the doors of one of the few residential care homes in Britain exclusively for the Asian elderly.</summary>
+    <updated>2011-02-28T09:47:09.158Z</updated>
+    <dc:relation.sortLetter>A</dc:relation.sortLetter>
+    <dc:date.TXDate>2011-03-04T19:30:00.000Z</dc:date.TXDate>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/asian-gracefully/28258220-41da-46b4-8b41-08af798c7242_200x113.jpg" height="113" width="200" imageSource="own"/>
+    </media:content>
+    <link href="http://www.channel4.com/programmes/asian-gracefully" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/asian-gracefully.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml"/>
+    <link href="http://api.channel4.com/pmlsd/asian-gracefully/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD"/>
+    <link href="http://api.channel4.com/pmlsd/asian-gracefully/episode-guide.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Episode Guide"/>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/ask-the-chancellors</id>
+    <title type="text">Ask the Chancellors</title>
+    <summary type="html">In a live election programme, would-be chancellors Alistair Darling, George Osborne and Vince Cable debate with each other and face questions from the audience and Krishnan Guru-Murthy</summary>
+    <updated>2010-12-10T10:42:06.742Z</updated>
+    <dc:relation.sortLetter>A</dc:relation.sortLetter>
+    <dc:date.TXDate>2010-04-02T01:35:00.000Z</dc:date.TXDate>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/ask-the-chancellors/ca7dbc3d-e004-4671-85c2-f0b83b004203_200x113.jpg" height="113" width="200" imageSource="own"/>
+    </media:content>
+    <link href="http://www.channel4.com/programmes/ask-the-chancellors" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/ask-the-chancellors.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml"/>
+    <link href="http://api.channel4.com/pmlsd/ask-the-chancellors/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD"/>
+    <link href="http://api.channel4.com/pmlsd/ask-the-chancellors/episode-guide.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Episode Guide"/>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/athletics-iaaf-world-championships-2011</id>
+    <title type="text">Athletics: IAAF World Championships 2011</title>
+    <summary type="html">All the action from the world's top athletics championship</summary>
+    <updated>2011-08-24T14:52:45.893Z</updated>
+    <dc:relation.sortLetter>A</dc:relation.sortLetter>
+    <dc:date.TXDate>2011-09-04T18:00:00.000Z</dc:date.TXDate>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/athletics-iaaf-world-championships/299efb8b-d086-491e-8f1e-1b27106387f0_200x113.jpg" height="113" width="200" imageSource="own"/>
+    </media:content>
+    <link href="http://www.channel4.com/programmes/athletics-iaaf-world-championships-2011" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/athletics-iaaf-world-championships-2011.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml"/>
+    <link href="http://api.channel4.com/pmlsd/athletics-iaaf-world-championships-2011/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD"/>
+    <link href="http://api.channel4.com/pmlsd/athletics-iaaf-world-championships-2011/episode-guide.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Episode Guide"/>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/athletics-the-iaaf-world-youth-championships</id>
+    <title type="text">Athletics: The IAAF World Youth Championships</title>
+    <summary type="html">Highlights from the 2011 meeting in Lille, northern France</summary>
+    <updated>2011-07-13T09:34:42.630Z</updated>
+    <dc:relation.sortLetter>A</dc:relation.sortLetter>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/athletics-the-iaaf-world-youth-championships/10104d7e-3b35-4f5f-92af-602254e93b58_200x113.jpg" height="113" width="200" imageSource="own"/>
+    </media:content>
+    <link href="http://www.channel4.com/programmes/athletics-the-iaaf-world-youth-championships" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/athletics-the-iaaf-world-youth-championships.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml"/>
+    <link href="http://api.channel4.com/pmlsd/athletics-the-iaaf-world-youth-championships/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD"/>
+    <link href="http://api.channel4.com/pmlsd/athletics-the-iaaf-world-youth-championships/episode-guide.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Episode Guide"/>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/the-atkins-diet-fat-or-fiction</id>
+    <title type="text">The Atkins Diet: Fat or Fiction</title>
+    <summary type="html">This documentary explores all sides of the popular - and so-called 'miracle' - diet. From the people who are following it, to the science for and against it.</summary>
+    <updated>2010-11-03T04:53:53.399Z</updated>
+    <dc:relation.sortLetter>A</dc:relation.sortLetter>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/the-atkins-diet-fat-or-fiction/5127b109-9b79-44a1-b0c0-0a96e99df8f5_200x113.jpg" height="113" width="200" imageSource="own"/>
+    </media:content>
+    <link href="http://www.channel4.com/programmes/the-atkins-diet-fat-or-fiction" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/the-atkins-diet-fat-or-fiction.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml"/>
+    <link href="http://api.channel4.com/pmlsd/the-atkins-diet-fat-or-fiction/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD"/>
+    <link href="http://api.channel4.com/pmlsd/the-atkins-diet-fat-or-fiction/episode-guide.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="Episode Guide"/>
+  </entry>
+
+</feed>

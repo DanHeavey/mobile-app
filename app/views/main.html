@@ -1,0 +1,138 @@
+<!--<div id="main" role="main"> -->
+
+    <section id="carousel" class="clearfix">
+
+        <div class="holder">
+            <div class="spinner">
+                <!--<img src="img/resources/img_whiteLoader.png" width="50" height="50" alt="Img WhiteLoader"> -->
+            </div>
+        </div>
+        <ul class="stage clearfix" data-title="4oD Recommends">
+            <li class="slide clearfix">
+                <div class="imagePlaceholder" data-src="images/a08191d9-a1cd-4067-9881-73ace5a9ea1e_496x279.jpg" data-alt="Fresh Meat"></div>
+                <a data-title="Collection title1" href="/programmes/fresh-meat/">Fresh Meat</a>
+            </li>
+
+            <li class="slide clearfix">
+                <div class="imagePlaceholder"  data-src="images/b53da963-fd2d-4bea-aec6-fa7fa3e777d6_496x279.jpg" data-alt="Grand Designs"></div>
+                <a data-title="Collection title2" href="/programmes/grand-designs/">Grand Designs</a>
+            </li>
+
+            <li class="slide clearfix">
+                <div class="imagePlaceholder" data-src="images/cea49940-73fa-496d-b6f5-408390bfa610_496x279.jpg" data-alt="Made in Chelsea"></div>
+                <a data-title="Collection title3" href="/programmes/made-in-chelsea/">Made in Chelsea</a>
+            </li>
+
+            <li class="slide clearfix">
+                <div class="imagePlaceholder" data-src="images/6fc8925b-08c0-4ebe-9553-a96649610fe1_496x279.jpg" data-alt="Shameless"></div>
+                <a data-title="Collection title4" href="/programmes/shameless/">Shameless</a>
+            </li>
+
+            <li class="slide clearfix">
+                <div class="imagePlaceholder" data-src="images/6e40fdd7-52c3-4853-8245-07a2fe0cceee_496x279.jpg" data-alt="Rude Tube"></div>
+                <a data-title="Collection title5" href="/programmes/rude-tube/">Rude Tube</a>
+            </li>
+        </ul>
+
+
+    </section>
+
+<div ng-controller="CarouselCtrl">
+    <div style="height: 305px">
+        <!--<carousel interval="myInterval">-->
+            <slide ng-repeat="slide in slides" active="slide.active">
+                <img ng-src="{{slide.image}}" style="margin:auto;">
+                <div class="carousel-caption">
+                    <h4>Slide {{$index}}</h4>
+                    <p>{{slide.text}}</p>
+                </div>
+            </slide>
+        <!--</carousel>-->
+    </div>
+
+</div>
+
+<section id="episodeList">
+        <h2 class="subHeading">Recently added</h2>
+
+        <div class="episodeGroup clearfix">
+
+            <article class="episode clearfix">
+
+                <div class="screenshotCont">
+                    <img class="screenShot" src="images/resources/episode_1.jpg" width="160" height="91" alt="Episode 1">
+                </div>
+
+                <div class="details">
+                    <h1>One Born Every Minute sakjdh ksajdhf ksjahd </h1>
+                    <p>Channel 4 (27min) <span class="guidance"><span>This episode contains parental guidance</span></span></p>
+                    <p><strong>26 days left more long text</strong></p>
+                </div>
+                <div class="rightLinks">
+                    <a class="seeAll" href="catch-up"><span>See all</span></a>
+                </div>
+
+            </article>
+
+            <article class="episode clearfix">
+
+                <div class="screenshotCont">
+                    <img class="screenShot" src="images/resources/episode_2.jpg" width="160" height="91" alt="Episode 2">
+                </div>
+
+                <div class="details">
+                    <h1>Dispatches</h1>
+                    <p>More 4 (27min)</p>
+                    <p> <strong>5 days left</strong></p>
+                </div>
+                <div class="rightLinks">
+                    <a class="seeAll" href="#"><span>See all</span></a>
+                </div>
+            </article>
+
+            <article class="episode clearfix">
+
+                <div class="screenshotCont">
+                    <img class="screenShot" src="images/resources/episode_2.jpg" width="160" height="91" alt="Episode 2">
+                </div>
+
+                <div class="details">
+                    <h1>Glee</h1>
+                    <p>More 4 (27min)</p>
+                    <p> <strong>5 days left</strong></p>
+                </div>
+                <div class="rightLinks">
+                    <a class="seeAll" href="#"><span>See all</span></a>
+                </div>
+            </article>
+
+            <article class="episode clearfix">
+
+                <div class="screenshotCont">
+                    <img class="screenShot" src="images/resources/episode_4.jpg" width="160" height="91" alt="Episode 4">
+                </div>
+
+                <div class="details">
+                    <h1>The Best of the Word</h1>
+                    <p>More 4 (27min)</p>
+                    <p> <strong>5 days left</strong></p>
+                </div>
+                <div class="rightLinks">
+                    <a class="seeAll" href="#"><span>See all</span></a>
+                </div>
+            </article>
+
+        </div>
+
+        <hr class="dottedRule clearfix" />
+
+        <div class="backToTop clearfix">
+            <a id="topLink" href="#container"><span class="upChevron"></span>Back to top</a>
+        </div>
+
+
+    </section>
+
+<!--</div>-->
+
+

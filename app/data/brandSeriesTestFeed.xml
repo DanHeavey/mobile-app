@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="http://www.channel4.com">
+  <id>tag:www.channel4.com,2009:/programmes/chelmsford-123/episode-guide</id>
+  <title type="text">Chelmsford 123</title>
+  <subtitle type="html">A comedic take on the undignified power struggles that took place between a Roman general and a British tribal leader in the ancient city of Chelmsford</subtitle>
+  <updated>2010-11-03T04:53:53.399Z</updated>
+  <author>
+    <name>Channel 4 Television</name>
+  </author>
+  <logo imageSource="own">http://www.channel4.com/assets/programmes/images/chelmsford-123/chelmsford-123-20090610152346_200x113.jpg</logo>
+  <link href="http://api.channel4.com/pmlsd/chelmsford-123.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="up" type="application/atom+xml"/>
+  <link href="http://api.channel4.com/pmlsd/chelmsford-123/episode-guide.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml"/>
+  <link href="http://www.channel4.com/programmes/chelmsford-123/episode-guide" rel="alternate" type="text/html"/>
+  <dc:relation.BrandFlattened>false</dc:relation.BrandFlattened>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/chelmsford-123/episode-guide/series-1</id>
+    <title type="text">Series 1 - Chelmsford 123</title>
+    <summary type="html">In 123 AD, a young Roman general is found guilty of a most terrible crime, failing to grovel sufficiently to the Emperor. His punishment is the worst job in the Empire - governing Britannia. It's hard to believe, but in those days Britain was a cold, miserable dump, populated by beer-swilling hooligans...</summary>
+    <updated>2010-11-03T04:53:56.516Z</updated>
+    <link href="http://api.channel4.com/pmlsd/chelmsford-123/episode-guide/series-1.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml"/>
+    <link href="http://www.channel4.com/programmes/chelmsford-123/episode-guide/series-1" rel="alternate" type="text/html"/>
+    <link href="http://www.channel4.com/programmes/chelmsford-123/4od#series-1" rel="related" type="text/html" title="4oD"/>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/chelmsford-123/series-1/chelmsford-123-s1-20090610153259_200x113.jpg" height="113" width="200" imageSource="own"/>
+    </media:content>
+    <dc:relation.SeriesNumber>1</dc:relation.SeriesNumber>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/chelmsford-123/episode-guide/series-2</id>
+    <title type="text">Series 2 - Chelmsford 123</title>
+    <summary type="html">Second series of the comedy set in Roman Britain starring Rory McGrath as the British leader, Badvoc, who is still getting right up the nose of the Governor of Britannia, Aulus Paulinus.</summary>
+    <updated>2010-11-03T04:53:56.516Z</updated>
+    <link href="http://api.channel4.com/pmlsd/chelmsford-123/episode-guide/series-2.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml"/>
+    <link href="http://www.channel4.com/programmes/chelmsford-123/episode-guide/series-2" rel="alternate" type="text/html"/>
+    <link href="http://www.channel4.com/programmes/chelmsford-123/4od#series-2" rel="related" type="text/html" title="4oD"/>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/chelmsford-123/series-2/f1968e51-e640-41c4-b2e6-db8ab778ffb5_200x113.jpg" height="113" width="200" imageSource="own"/>
+    </media:content>
+    <dc:relation.SeriesNumber>2</dc:relation.SeriesNumber>
+  </entry>
+
+</feed>

@@ -1,0 +1,1079 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms">
+  <id>tag:www.channel4.com,2009:/programmes/4od/episode-list/date/2011/09/01</id>
+  <title type="text">4od on Thursday 1 September 2011</title>
+  <link href="http://api.channel4.com/pmlsd/4od/episode-list/date/2011/09/1.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml"/>
+  <link href="http://api.channel4.com/pmlsd/4od/episode-list/date/2011/08/31.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="previous" type="application/atom+xml"/>
+  <link href="http://api.channel4.com/pmlsd/4od/episode-list/date/2011/09/2.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="next" type="application/atom+xml"/>
+  <author>
+    <name>Channel 4 Television</name>
+  </author>
+  <updated>2011-09-05T14:49:36.049Z</updated>
+  <logo imageSource="default">http://www.channel4.com/static/programmes/images/c4-atom-logo.gif</logo>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/the-hoobs/4od%232930266</id>
+    <title type="text">Exploring</title>
+    <updated>2010-11-03T05:57:50.175Z</updated>
+    <summary type="html">What do Hoobs need to take with them when they go out exploring? And once they've got it all gathered - where are they going to put it?!</summary>
+    <dc:relation.BrandTitle>The Hoobs</dc:relation.BrandTitle>
+    <dcterms:available>start=2009-06-07T22:00:00.000Z; end=2018-12-07T00:00:00.000Z; scheme=W3C-DTF</dcterms:available>
+    <dc:relation.SeriesNumber>1</dc:relation.SeriesNumber>
+    <dc:relation.EpisodeNumber>74</dc:relation.EpisodeNumber>
+    <dc:relation.AgeRating>0</dc:relation.AgeRating>
+    <dc:relation.Guidance/>
+    <dc:date.TXDate>2011-09-01T05:40:00.000Z</dc:date.TXDate>
+    <dc:relation.TXChannel>C4</dc:relation.TXChannel>
+    <dc:relation.Subtitles>true</dc:relation.Subtitles>
+    <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+    <dc:relation.Duration>24:14</dc:relation.Duration>
+    <link href="http://www.channel4.com/programmes/the-hoobs/4od#2930266" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/the-hoobs/episode-guide/series-1/episode-74.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml"/>
+    <media:group>
+      <media:player url="http://www.channel4.com/programmes/the-hoobs/4od#2930266"/>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/the-hoobs/series-1/the-hoobs-s1-20090623112301_200x113.jpg" height="113" width="200" imageSource="fallback"/>
+      <media:rating>nonadult</media:rating>
+      <media:copyright url="http://www.channel4.com/terms_and_conditions.html">Terms and Conditions</media:copyright>
+      <media:restriction relationship="allow" type="country">gb,im,je,gg,ie</media:restriction>
+      <media:rights status="official"/>
+    </media:group>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/freshly-squeezed/4od%233224182</id>
+    <title type="text">Freshly Squeezed</title>
+    <updated>2011-08-31T12:38:46.186Z</updated>
+    <summary type="html">Celebrity interviews, behind the scenes exclusives and music videos.</summary>
+    <dc:relation.BrandTitle>Freshly Squeezed</dc:relation.BrandTitle>
+    <dcterms:available>start=2011-09-01T05:35:00.000Z; end=2011-09-08T05:35:00.000Z; scheme=W3C-DTF</dcterms:available>
+    <dc:relation.SeriesNumber>3</dc:relation.SeriesNumber>
+    <dc:relation.EpisodeNumber>174</dc:relation.EpisodeNumber>
+    <dc:relation.AgeRating>0</dc:relation.AgeRating>
+    <dc:relation.Guidance/>
+    <dc:date.TXDate>2011-09-01T06:05:00.000Z</dc:date.TXDate>
+    <dc:relation.TXChannel>C4</dc:relation.TXChannel>
+    <dc:relation.Subtitles>true</dc:relation.Subtitles>
+    <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+    <dc:relation.Duration>23:35</dc:relation.Duration>
+    <link href="http://www.channel4.com/programmes/freshly-squeezed/4od#3224182" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/freshly-squeezed/episode-guide/series-3/episode-174.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml"/>
+    <media:group>
+      <media:player url="http://www.channel4.com/programmes/freshly-squeezed/4od#3224182"/>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/freshly-squeezed/series-3/50b93c80-6626-4657-9677-53517df87610_200x113.jpg" height="113" width="200" imageSource="fallback"/>
+      <media:rating>nonadult</media:rating>
+      <media:copyright url="http://www.channel4.com/terms_and_conditions.html">Terms and Conditions</media:copyright>
+      <media:restriction relationship="allow" type="country">GB,GG,IE,IM,JE</media:restriction>
+      <media:rights status="official"/>
+    </media:group>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/deal-or-no-deal/4od%233224049</id>
+    <title type="text">Deal or No Deal</title>
+    <updated>2011-08-30T14:23:35.628Z</updated>
+    <summary type="html">Noel Edmonds asks the all-important question as contestants do battle with the Banker in their quest to leave the Dream Factory with £250,000.</summary>
+    <dc:relation.BrandTitle>Deal or No Deal</dc:relation.BrandTitle>
+    <dcterms:available>start=2011-08-31T15:00:00.000Z; end=2011-09-30T15:00:00.000Z; scheme=W3C-DTF</dcterms:available>
+    <dc:relation.SeriesNumber/>
+    <dc:relation.EpisodeNumber/>
+    <dc:relation.AgeRating>0</dc:relation.AgeRating>
+    <dc:relation.Guidance/>
+    <dc:date.TXDate>2011-09-01T11:30:00.000Z</dc:date.TXDate>
+    <dc:relation.TXChannel>M4</dc:relation.TXChannel>
+    <dc:relation.Subtitles>true</dc:relation.Subtitles>
+    <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+    <dc:relation.Duration>44:21</dc:relation.Duration>
+    <link href="http://www.channel4.com/programmes/deal-or-no-deal/4od#3224049" rel="alternate" type="text/html"/>
+    <media:group>
+      <media:player url="http://www.channel4.com/programmes/deal-or-no-deal/4od#3224049"/>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/deal-or-no-deal/f9e73d1c-3d7a-4803-a868-22c8ef6b7c68_200x113.jpg" height="113" width="200" imageSource="fallback"/>
+      <media:rating>nonadult</media:rating>
+      <media:copyright url="http://www.channel4.com/terms_and_conditions.html">Terms and Conditions</media:copyright>
+      <media:restriction relationship="allow" type="country">GB,GG,IE,IM,JE</media:restriction>
+      <media:rights status="official"/>
+    </media:group>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/hollyoaks/4od%233224145</id>
+    <title type="text">Hollyoaks</title>
+    <updated>2011-08-30T15:28:40.843Z</updated>
+    <summary type="html">Cindy finally discovers Mandy and Texas have been ripping her off and threatens to go to the police. Ruby is devastated when Pete makes it clear that he only sees her as his pupil.</summary>
+    <dc:relation.BrandTitle>Hollyoaks</dc:relation.BrandTitle>
+    <dcterms:available>start=2011-08-31T17:00:00.000Z; end=2011-09-30T17:00:00.000Z; scheme=W3C-DTF</dcterms:available>
+    <dc:relation.SeriesNumber>20</dc:relation.SeriesNumber>
+    <dc:relation.EpisodeNumber/>
+    <dc:relation.AgeRating>0</dc:relation.AgeRating>
+    <dc:relation.Guidance/>
+    <dc:date.TXDate>2011-09-01T13:00:00.000Z</dc:date.TXDate>
+    <dc:relation.TXChannel>E4</dc:relation.TXChannel>
+    <dc:relation.Subtitles>true</dc:relation.Subtitles>
+    <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+    <dc:relation.Duration>23:41</dc:relation.Duration>
+    <link href="http://www.channel4.com/programmes/hollyoaks/4od#3224145" rel="alternate" type="text/html"/>
+    <media:group>
+      <media:player url="http://www.channel4.com/programmes/hollyoaks/4od#3224145"/>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/hollyoaks/series-20/2b2ea400-a8b1-41e5-8298-25c6ae8cf06c_200x113.jpg" height="113" width="200" imageSource="fallback"/>
+      <media:rating>nonadult</media:rating>
+      <media:copyright url="http://www.channel4.com/terms_and_conditions.html">Terms and Conditions</media:copyright>
+      <media:restriction relationship="allow" type="country">GB,GG,IE,IM,JE</media:restriction>
+      <media:rights status="official"/>
+    </media:group>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/three-in-a-bed/4od%233204996</id>
+    <title type="text">Three in a Bed</title>
+    <updated>2011-06-30T17:55:02.437Z</updated>
+    <summary type="html">The four-star Howarth House in Lytham St Anne's takes on Snooze in Brighton and the Enchanted Manor on the Isle of Wight.
+
+The competition starts at Howarth House, run by friends Sue and Jenny, where each room is decorated according to Sue's interpretation of `boutique' style. But style-conscious Paul and Tony from Snooze aren't fans of the individual interior design and soon make enemies of the host.
+
+Next stop is Snooze, the retro vintage guesthouse created by former DJs and mates Paul and Tony, where despite a riotous game of beach volleyball, the final payment results in accusations of foul play.
+
+The final B&amp;B to be visited is the five-star Enchanted Manor owned by Rick and Maggie Hilton. This romantic getaway boasts rooms with different fantasy themes and a ghost tour of the nearby cliffs. Will the other owners be swept away with the charm of Enchanted Manor and vote it best value for money?</summary>
+    <dc:relation.BrandTitle>Three in a Bed</dc:relation.BrandTitle>
+    <dcterms:available>start=2011-07-02T22:00:00.000Z; end=2014-05-15T22:00:00.000Z; scheme=W3C-DTF</dcterms:available>
+    <dc:relation.SeriesNumber>2</dc:relation.SeriesNumber>
+    <dc:relation.EpisodeNumber>9</dc:relation.EpisodeNumber>
+    <dc:relation.AgeRating>0</dc:relation.AgeRating>
+    <dc:relation.Guidance/>
+    <dc:date.TXDate>2011-09-01T13:10:00.000Z</dc:date.TXDate>
+    <dc:relation.TXChannel>C4</dc:relation.TXChannel>
+    <dc:relation.Subtitles>true</dc:relation.Subtitles>
+    <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+    <dc:relation.Duration>47:08</dc:relation.Duration>
+    <link href="http://www.channel4.com/programmes/three-in-a-bed/4od#3204996" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/three-in-a-bed/episode-guide/series-2/episode-9.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml"/>
+    <media:group>
+      <media:player url="http://www.channel4.com/programmes/three-in-a-bed/4od#3204996"/>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/three-in-a-bed/series-2/e8bca123-87a3-4c27-9a8f-aaafd4fb3e61_200x113.jpg" height="113" width="200" imageSource="fallback"/>
+      <media:rating>nonadult</media:rating>
+      <media:copyright url="http://www.channel4.com/terms_and_conditions.html">Terms and Conditions</media:copyright>
+      <media:restriction relationship="allow" type="country">GB,GG,IE,IM,JE</media:restriction>
+      <media:rights status="official"/>
+    </media:group>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/coach-trip/4od%233079879</id>
+    <title type="text">Coach Trip</title>
+    <updated>2010-11-03T05:57:50.175Z</updated>
+    <summary type="html">After arriving in Venice, the group enjoy some gondola lessons before chilling out at the beach. But tensions rise at the vote when they can't decide who should get the yellow card.</summary>
+    <dc:relation.BrandTitle>Coach Trip</dc:relation.BrandTitle>
+    <dcterms:available>start=2010-06-13T22:00:00.000Z; end=3000-01-01T00:00:00.000Z; scheme=W3C-DTF</dcterms:available>
+    <dc:relation.SeriesNumber>4</dc:relation.SeriesNumber>
+    <dc:relation.EpisodeNumber>13</dc:relation.EpisodeNumber>
+    <dc:relation.AgeRating>0</dc:relation.AgeRating>
+    <dc:relation.Guidance/>
+    <dc:date.TXDate>2011-09-01T14:05:00.000Z</dc:date.TXDate>
+    <dc:relation.TXChannel>M4</dc:relation.TXChannel>
+    <dc:relation.Subtitles>true</dc:relation.Subtitles>
+    <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+    <dc:relation.Duration>23:48</dc:relation.Duration>
+    <link href="http://www.channel4.com/programmes/coach-trip/4od#3079879" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/coach-trip/episode-guide/series-4/episode-13.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml"/>
+    <media:group>
+      <media:player url="http://www.channel4.com/programmes/coach-trip/4od#3079879"/>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/coach-trip/series-4/8159832c-40f3-4c4b-b054-fa07b17fa746_200x113.jpg" height="113" width="200" imageSource="fallback"/>
+      <media:rating>nonadult</media:rating>
+      <media:copyright url="http://www.channel4.com/terms_and_conditions.html">Terms and Conditions</media:copyright>
+      <media:restriction relationship="allow" type="country">GB,GG,IE,IM,JE</media:restriction>
+      <media:rights status="official"/>
+    </media:group>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/countdown/4od%233224189</id>
+    <title type="text">Countdown</title>
+    <updated>2011-08-30T14:11:58.833Z</updated>
+    <summary type="html">Jeff Stelling and Rachel Riley host as contestants race against the clock to pit their wits against vowels, consonants and numbers. With Dictionary Corner guest John Inverdale.</summary>
+    <dc:relation.BrandTitle>Countdown</dc:relation.BrandTitle>
+    <dcterms:available>start=2011-09-01T14:00:00.000Z; end=2011-10-01T14:00:00.000Z; scheme=W3C-DTF</dcterms:available>
+    <dc:relation.SeriesNumber>2011</dc:relation.SeriesNumber>
+    <dc:relation.EpisodeNumber/>
+    <dc:relation.AgeRating>0</dc:relation.AgeRating>
+    <dc:relation.Guidance/>
+    <dc:date.TXDate>2011-09-01T14:10:00.000Z</dc:date.TXDate>
+    <dc:relation.TXChannel>C4</dc:relation.TXChannel>
+    <dc:relation.Subtitles>true</dc:relation.Subtitles>
+    <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+    <dc:relation.Duration>36:09</dc:relation.Duration>
+    <link href="http://www.channel4.com/programmes/countdown/4od#3224189" rel="alternate" type="text/html"/>
+    <media:group>
+      <media:player url="http://www.channel4.com/programmes/countdown/4od#3224189"/>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/countdown/series-2/2f141d4d-faf1-4419-ab3e-8705c46a5edc_200x113.jpg" height="113" width="200" imageSource="fallback"/>
+      <media:rating>nonadult</media:rating>
+      <media:copyright url="http://www.channel4.com/terms_and_conditions.html">Terms and Conditions</media:copyright>
+      <media:restriction relationship="allow" type="country">GB,GG,IE,IM,JE</media:restriction>
+      <media:rights status="official"/>
+    </media:group>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/location-location-location/4od%233220483</id>
+    <title type="text">Location, Location, Location</title>
+    <updated>2011-08-18T12:48:32.384Z</updated>
+    <summary type="html">Kirstie Allsopp and Phil Spencer help three long-term friends to get a house in the right area of Belfast, with three bedrooms and generous living space.</summary>
+    <dc:relation.BrandTitle>Location, Location, Location</dc:relation.BrandTitle>
+    <dcterms:available>start=2011-08-29T22:00:00.000Z; end=3000-01-01T00:00:00.000Z; scheme=W3C-DTF</dcterms:available>
+    <dc:relation.SeriesNumber>6</dc:relation.SeriesNumber>
+    <dc:relation.EpisodeNumber>1</dc:relation.EpisodeNumber>
+    <dc:relation.AgeRating>0</dc:relation.AgeRating>
+    <dc:relation.Guidance/>
+    <dc:date.TXDate>2011-09-01T14:35:00.000Z</dc:date.TXDate>
+    <dc:relation.TXChannel>M4</dc:relation.TXChannel>
+    <dc:relation.Subtitles>true</dc:relation.Subtitles>
+    <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+    <dc:relation.Duration>23:48</dc:relation.Duration>
+    <link href="http://www.channel4.com/programmes/location-location-location/4od#3220483" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/location-location-location/episode-guide/series-6/episode-1.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml"/>
+    <media:group>
+      <media:player url="http://www.channel4.com/programmes/location-location-location/4od#3220483"/>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/location-location-location/series-5/location-location-location-s5-20090617172753_200x113.jpg" height="113" width="200" imageSource="fallback"/>
+      <media:rating>nonadult</media:rating>
+      <media:copyright url="http://www.channel4.com/terms_and_conditions.html">Terms and Conditions</media:copyright>
+      <media:restriction relationship="allow" type="country">GB,GG,IE,IM,JE</media:restriction>
+      <media:rights status="official"/>
+    </media:group>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/deal-or-no-deal/4od%233224202</id>
+    <title type="text">Deal or No Deal</title>
+    <updated>2011-08-30T14:27:12.656Z</updated>
+    <summary type="html">Noel Edmonds asks the all-important question as contestants do battle with the Banker in their quest to leave the Dream Factory with £250,000.</summary>
+    <dc:relation.BrandTitle>Deal or No Deal</dc:relation.BrandTitle>
+    <dcterms:available>start=2011-09-01T15:00:00.000Z; end=2011-10-01T15:00:00.000Z; scheme=W3C-DTF</dcterms:available>
+    <dc:relation.SeriesNumber/>
+    <dc:relation.EpisodeNumber/>
+    <dc:relation.AgeRating>0</dc:relation.AgeRating>
+    <dc:relation.Guidance/>
+    <dc:date.TXDate>2011-09-01T15:00:00.000Z</dc:date.TXDate>
+    <dc:relation.TXChannel>C4</dc:relation.TXChannel>
+    <dc:relation.Subtitles>true</dc:relation.Subtitles>
+    <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+    <dc:relation.Duration>44:41</dc:relation.Duration>
+    <link href="http://www.channel4.com/programmes/deal-or-no-deal/4od#3224202" rel="alternate" type="text/html"/>
+    <media:group>
+      <media:player url="http://www.channel4.com/programmes/deal-or-no-deal/4od#3224202"/>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/deal-or-no-deal/f9e73d1c-3d7a-4803-a868-22c8ef6b7c68_200x113.jpg" height="113" width="200" imageSource="fallback"/>
+      <media:rating>nonadult</media:rating>
+      <media:copyright url="http://www.channel4.com/terms_and_conditions.html">Terms and Conditions</media:copyright>
+      <media:restriction relationship="allow" type="country">GB,GG,IE,IM,JE</media:restriction>
+      <media:rights status="official"/>
+    </media:group>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/location-location-location/4od%233220485</id>
+    <title type="text">Location, Location, Location</title>
+    <updated>2011-08-18T12:51:37.223Z</updated>
+    <summary type="html">Kirstie Allsopp and Phil Spencer help Claire and Alistair, who have chosen to put down roots in Norwich but they are on a tight budget for such an up-and-coming area.</summary>
+    <dc:relation.BrandTitle>Location, Location, Location</dc:relation.BrandTitle>
+    <dcterms:available>start=2011-08-29T22:00:00.000Z; end=3000-01-01T00:00:00.000Z; scheme=W3C-DTF</dcterms:available>
+    <dc:relation.SeriesNumber>6</dc:relation.SeriesNumber>
+    <dc:relation.EpisodeNumber>2</dc:relation.EpisodeNumber>
+    <dc:relation.AgeRating>0</dc:relation.AgeRating>
+    <dc:relation.Guidance/>
+    <dc:date.TXDate>2011-09-01T15:10:00.000Z</dc:date.TXDate>
+    <dc:relation.TXChannel>M4</dc:relation.TXChannel>
+    <dc:relation.Subtitles>true</dc:relation.Subtitles>
+    <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+    <dc:relation.Duration>24:00</dc:relation.Duration>
+    <link href="http://www.channel4.com/programmes/location-location-location/4od#3220485" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/location-location-location/episode-guide/series-6/episode-2.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml"/>
+    <media:group>
+      <media:player url="http://www.channel4.com/programmes/location-location-location/4od#3220485"/>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/location-location-location/series-5/location-location-location-s5-20090617172753_200x113.jpg" height="113" width="200" imageSource="fallback"/>
+      <media:rating>nonadult</media:rating>
+      <media:copyright url="http://www.channel4.com/terms_and_conditions.html">Terms and Conditions</media:copyright>
+      <media:restriction relationship="allow" type="country">GB,GG,IE,IM,JE</media:restriction>
+      <media:rights status="official"/>
+    </media:group>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/relocation-relocation/4od%232930414</id>
+    <title type="text">Relocation, Relocation</title>
+    <updated>2010-12-22T11:32:12.892Z</updated>
+    <summary type="html">Kirstie and Phil catch up with Sandy Acres and Natasha Dillon, two surfers who were fed up with Swindon and wanted to escape to the stunning coastline of North Devon.</summary>
+    <dc:relation.BrandTitle>Relocation, Relocation</dc:relation.BrandTitle>
+    <dcterms:available>start=2009-06-22T22:00:00.000Z; end=2011-12-31T00:00:00.000Z; scheme=W3C-DTF</dcterms:available>
+    <dc:relation.SeriesNumber>4</dc:relation.SeriesNumber>
+    <dc:relation.EpisodeNumber>9</dc:relation.EpisodeNumber>
+    <dc:relation.AgeRating>0</dc:relation.AgeRating>
+    <dc:relation.Guidance/>
+    <dc:date.TXDate>2011-09-01T15:40:00.000Z</dc:date.TXDate>
+    <dc:relation.TXChannel>M4</dc:relation.TXChannel>
+    <dc:relation.Subtitles>true</dc:relation.Subtitles>
+    <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+    <dc:relation.Duration>47:57</dc:relation.Duration>
+    <link href="http://www.channel4.com/programmes/relocation-relocation/4od#2930414" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/relocation-relocation/episode-guide/series-4/episode-9.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml"/>
+    <media:group>
+      <media:player url="http://www.channel4.com/programmes/relocation-relocation/4od#2930414"/>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/relocation-relocation/series-3/relocation-relocation-s3-20090616144103_200x113.jpg" height="113" width="200" imageSource="fallback"/>
+      <media:rating>nonadult</media:rating>
+      <media:copyright url="http://www.channel4.com/terms_and_conditions.html">Terms and Conditions</media:copyright>
+      <media:restriction relationship="allow" type="country">GB,GG,IE,IM,JE</media:restriction>
+      <media:rights status="official"/>
+    </media:group>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/coach-trip/4od%233224205</id>
+    <title type="text">Coach Trip</title>
+    <updated>2011-08-30T14:42:54.302Z</updated>
+    <summary type="html">On Day 4, the coach trundles into the Champagne region of France, where a visit to a grand vineyard is music to the ears of one hard-partying couple.
+
+After sampling the Champagne highlife, it all goes downhill fast as the tourists ride a quarter-mile zip wire. Later, one couple come down to earth with a bump at the vote.</summary>
+    <dc:relation.BrandTitle>Coach Trip</dc:relation.BrandTitle>
+    <dcterms:available>start=2011-09-01T15:30:00.000Z; end=2011-10-01T15:30:00.000Z; scheme=W3C-DTF</dcterms:available>
+    <dc:relation.SeriesNumber>7</dc:relation.SeriesNumber>
+    <dc:relation.EpisodeNumber>4</dc:relation.EpisodeNumber>
+    <dc:relation.AgeRating>0</dc:relation.AgeRating>
+    <dc:relation.Guidance/>
+    <dc:date.TXDate>2011-09-01T16:00:00.000Z</dc:date.TXDate>
+    <dc:relation.TXChannel>C4</dc:relation.TXChannel>
+    <dc:relation.Subtitles>true</dc:relation.Subtitles>
+    <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+    <dc:relation.Duration>23:42</dc:relation.Duration>
+    <link href="http://www.channel4.com/programmes/coach-trip/4od#3224205" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/coach-trip/episode-guide/series-7/episode-4.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml"/>
+    <media:group>
+      <media:player url="http://www.channel4.com/programmes/coach-trip/4od#3224205"/>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/coach-trip/series-7/d49a1373-c364-49f9-9640-1c5601064d88_200x113.jpg" height="113" width="200" imageSource="fallback"/>
+      <media:rating>nonadult</media:rating>
+      <media:copyright url="http://www.channel4.com/terms_and_conditions.html">Terms and Conditions</media:copyright>
+      <media:restriction relationship="allow" type="country">GB,GG,IE,IM,JE</media:restriction>
+      <media:rights status="official"/>
+    </media:group>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/come-dine-with-me/4od%233228649</id>
+    <title type="text">Leeds - Louise</title>
+    <updated>2011-09-01T16:40:50.392Z</updated>
+    <summary type="html">Day 4 in Leeds sees company administrator Louise Emmerson as host. She opts for a Mediterranean menu inspired by her former mother-in-law, featuring Madrid chicken and aubergine bake.</summary>
+    <dc:relation.BrandTitle>Come Dine with Me</dc:relation.BrandTitle>
+    <dcterms:available>start=2011-09-01T16:00:00.000Z; end=2011-10-01T16:00:00.000Z; scheme=W3C-DTF</dcterms:available>
+    <dc:relation.SeriesNumber>22</dc:relation.SeriesNumber>
+    <dc:relation.EpisodeNumber>94</dc:relation.EpisodeNumber>
+    <dc:relation.AgeRating>0</dc:relation.AgeRating>
+    <dc:relation.Guidance/>
+    <dc:date.TXDate>2011-09-01T16:30:00.000Z</dc:date.TXDate>
+    <dc:relation.TXChannel>C4</dc:relation.TXChannel>
+    <dc:relation.Subtitles>true</dc:relation.Subtitles>
+    <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+    <dc:relation.Duration>23:44</dc:relation.Duration>
+    <link href="http://www.channel4.com/programmes/come-dine-with-me/4od#3228649" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/come-dine-with-me/episode-guide/series-22/episode-94.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml"/>
+    <media:group>
+      <media:player url="http://www.channel4.com/programmes/come-dine-with-me/4od#3228649"/>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/come-dine-with-me/series-22/59df6a42-5172-4cae-8510-0df8b17b4222_200x113.jpg" height="113" width="200" imageSource="fallback"/>
+      <media:rating>nonadult</media:rating>
+      <media:copyright url="http://www.channel4.com/terms_and_conditions.html">Terms and Conditions</media:copyright>
+      <media:restriction relationship="allow" type="country">GB,GG,IE,IM,JE</media:restriction>
+      <media:rights status="official"/>
+    </media:group>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/a-place-by-the-sea/4od%233205034</id>
+    <title type="text">A Place by the Sea</title>
+    <updated>2011-07-01T15:02:02.155Z</updated>
+    <summary type="html">Seetha Hallet tries to please not one, but three generations of a family in their quest to relocate to the English Riviera.  Single mum Lisa Amato wants to bring up her young daughter by the sea and she's brought along her mum for guidance.</summary>
+    <dc:relation.BrandTitle>A Place by the Sea</dc:relation.BrandTitle>
+    <dcterms:available>start=2011-07-10T22:00:00.000Z; end=2013-04-12T22:00:00.000Z; scheme=W3C-DTF</dcterms:available>
+    <dc:relation.SeriesNumber>4</dc:relation.SeriesNumber>
+    <dc:relation.EpisodeNumber>4</dc:relation.EpisodeNumber>
+    <dc:relation.AgeRating>0</dc:relation.AgeRating>
+    <dc:relation.Guidance/>
+    <dc:date.TXDate>2011-09-01T16:45:00.000Z</dc:date.TXDate>
+    <dc:relation.TXChannel>M4</dc:relation.TXChannel>
+    <dc:relation.Subtitles>true</dc:relation.Subtitles>
+    <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+    <dc:relation.Duration>48:15</dc:relation.Duration>
+    <link href="http://www.channel4.com/programmes/a-place-by-the-sea/4od#3205034" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/a-place-by-the-sea/episode-guide/series-4/episode-4.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml"/>
+    <media:group>
+      <media:player url="http://www.channel4.com/programmes/a-place-by-the-sea/4od#3205034"/>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/a-place-by-the-sea/series-4/4c970a9c-6201-403e-861e-c859bad88322_200x113.jpg" height="113" width="200" imageSource="fallback"/>
+      <media:rating>nonadult</media:rating>
+      <media:copyright url="http://www.channel4.com/terms_and_conditions.html">Terms and Conditions</media:copyright>
+      <media:restriction relationship="allow" type="country">GB,GG,IE,IM,JE</media:restriction>
+      <media:rights status="official"/>
+    </media:group>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/hollyoaks/4od%233224235</id>
+    <title type="text">Hollyoaks</title>
+    <updated>2011-08-30T15:32:49.347Z</updated>
+    <summary type="html">Carmel is gutted when she learns Francis is going back to Uganda. Will she admit her true feelings and convince him to stay? And Jason is crushed when Bart tries to win Sinead back.</summary>
+    <dc:relation.BrandTitle>Hollyoaks</dc:relation.BrandTitle>
+    <dcterms:available>start=2011-09-01T17:00:00.000Z; end=2011-10-01T17:00:00.000Z; scheme=W3C-DTF</dcterms:available>
+    <dc:relation.SeriesNumber>20</dc:relation.SeriesNumber>
+    <dc:relation.EpisodeNumber/>
+    <dc:relation.AgeRating>0</dc:relation.AgeRating>
+    <dc:relation.Guidance/>
+    <dc:date.TXDate>2011-09-01T17:30:00.000Z</dc:date.TXDate>
+    <dc:relation.TXChannel>C4</dc:relation.TXChannel>
+    <dc:relation.Subtitles>true</dc:relation.Subtitles>
+    <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+    <dc:relation.Duration>23:20</dc:relation.Duration>
+    <link href="http://www.channel4.com/programmes/hollyoaks/4od#3224235" rel="alternate" type="text/html"/>
+    <media:group>
+      <media:player url="http://www.channel4.com/programmes/hollyoaks/4od#3224235"/>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/hollyoaks/series-20/2b2ea400-a8b1-41e5-8298-25c6ae8cf06c_200x113.jpg" height="113" width="200" imageSource="fallback"/>
+      <media:rating>nonadult</media:rating>
+      <media:copyright url="http://www.channel4.com/terms_and_conditions.html">Terms and Conditions</media:copyright>
+      <media:restriction relationship="allow" type="country">GB,GG,IE,IM,JE</media:restriction>
+      <media:rights status="official"/>
+    </media:group>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/come-dine-with-me/4od%233216983</id>
+    <title type="text">North East London - All in One</title>
+    <updated>2011-08-30T11:16:52.628Z</updated>
+    <summary type="html">Italian gym instructor Salvo Riggi takes on fashion-mad PA Brenda Gobine, lady of leisure Zed Kiazim, and fancy-dress loving Amanda Hull.
+
+Dog-lover Zed is first to host in a night that takes a nosedive when Salvo tells Amanda she looks like an escort. The week continues with an aphrodisiac menu, a seven-foot butler, and an explosive falling out that results in someone's dinner ending up in the bin.</summary>
+    <dc:relation.BrandTitle>Come Dine with Me</dc:relation.BrandTitle>
+    <dcterms:available>start=2011-09-01T22:00:00.000Z; end=3000-01-01T00:00:00.000Z; scheme=W3C-DTF</dcterms:available>
+    <dc:relation.SeriesNumber>20</dc:relation.SeriesNumber>
+    <dc:relation.EpisodeNumber>27</dc:relation.EpisodeNumber>
+    <dc:relation.AgeRating>0</dc:relation.AgeRating>
+    <dc:relation.Guidance/>
+    <dc:date.TXDate>2011-09-01T17:50:00.000Z</dc:date.TXDate>
+    <dc:relation.TXChannel>M4</dc:relation.TXChannel>
+    <dc:relation.Subtitles>true</dc:relation.Subtitles>
+    <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+    <dc:relation.Duration>47:21</dc:relation.Duration>
+    <link href="http://www.channel4.com/programmes/come-dine-with-me/4od#3216983" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/come-dine-with-me/episode-guide/series-20/episode-27.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml"/>
+    <media:group>
+      <media:player url="http://www.channel4.com/programmes/come-dine-with-me/4od#3216983"/>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/come-dine-with-me/series-20/episode-27/163250dd-9efe-464b-ad67-26ae3022ddd4_200x113.jpg" height="113" width="200" imageSource="own"/>
+      <media:rating>nonadult</media:rating>
+      <media:copyright url="http://www.channel4.com/terms_and_conditions.html">Terms and Conditions</media:copyright>
+      <media:restriction relationship="allow" type="country">GB,GG,IE,IM,JE</media:restriction>
+      <media:rights status="official"/>
+    </media:group>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/hollyoaks/4od%233224336</id>
+    <title type="text">Hollyoaks</title>
+    <updated>2011-09-01T15:22:15.610Z</updated>
+    <summary type="html">Bart is devastated when Jason insists they're no longer friends. As Father Francis prepares to leave, Cindy persuades Carmel to follow her heart, but will she reach him in time?</summary>
+    <dc:relation.BrandTitle>Hollyoaks</dc:relation.BrandTitle>
+    <dcterms:available>start=2011-09-02T17:00:00.000Z; end=2011-10-02T17:00:00.000Z; scheme=W3C-DTF</dcterms:available>
+    <dc:relation.SeriesNumber>20</dc:relation.SeriesNumber>
+    <dc:relation.EpisodeNumber/>
+    <dc:relation.AgeRating>0</dc:relation.AgeRating>
+    <dc:relation.Guidance/>
+    <dc:date.TXDate>2011-09-01T18:00:00.000Z</dc:date.TXDate>
+    <dc:relation.TXChannel>E4</dc:relation.TXChannel>
+    <dc:relation.Subtitles>true</dc:relation.Subtitles>
+    <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+    <dc:relation.Duration>23:40</dc:relation.Duration>
+    <dc:relation.complianceText>Further information for issues around sexuality and gender identity can be found online at e4.com/hollyoaks</dc:relation.complianceText>
+    <link href="http://www.channel4.com/programmes/hollyoaks/4od#3224336" rel="alternate" type="text/html"/>
+    <media:group>
+      <media:player url="http://www.channel4.com/programmes/hollyoaks/4od#3224336"/>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/hollyoaks/series-20/2b2ea400-a8b1-41e5-8298-25c6ae8cf06c_200x113.jpg" height="113" width="200" imageSource="fallback"/>
+      <media:rating>nonadult</media:rating>
+      <media:copyright url="http://www.channel4.com/terms_and_conditions.html">Terms and Conditions</media:copyright>
+      <media:restriction relationship="allow" type="country">GB,GG,IE,IM,JE</media:restriction>
+      <media:rights status="official"/>
+    </media:group>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/streetdance/4od%233221261</id>
+    <title type="text">StreetDance</title>
+    <updated>2011-08-14T12:40:21.209Z</updated>
+    <summary type="html">The second show follows the surviving street dance crews who have made it through the heats, as they prepare for the 2011 Street Dance XXL Finals.
+
+They're fighting for the right to represent their nation in a UK versus USA dance-off, and along the way they meet living legend and founding member of New York's Rock Steady Crew Crazy Legs.
+
+But when it comes to the crunch, will any of the British crews have what it takes to beat the Americans on at their own game?</summary>
+    <dc:relation.BrandTitle>StreetDance</dc:relation.BrandTitle>
+    <dcterms:available>start=2011-08-14T20:30:00.000Z; end=2011-09-13T20:30:00.000Z; scheme=W3C-DTF</dcterms:available>
+    <dc:relation.SeriesNumber>1</dc:relation.SeriesNumber>
+    <dc:relation.EpisodeNumber>2</dc:relation.EpisodeNumber>
+    <dc:relation.AgeRating>16</dc:relation.AgeRating>
+    <dc:relation.Guidance>Some strong language</dc:relation.Guidance>
+    <dc:date.TXDate>2011-09-01T18:25:00.000Z</dc:date.TXDate>
+    <dc:relation.TXChannel>4M</dc:relation.TXChannel>
+    <dc:relation.Subtitles>true</dc:relation.Subtitles>
+    <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+    <dc:relation.Duration>72:28</dc:relation.Duration>
+    <link href="http://www.channel4.com/programmes/streetdance/4od#3221261" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/streetdance/episode-guide/series-1/episode-2.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml"/>
+    <media:group>
+      <media:player url="http://www.channel4.com/programmes/streetdance/4od#3221261"/>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/streetdance/series-1/db270e26-4bf0-43d8-a491-750950617501_200x113.jpg" height="113" width="200" imageSource="fallback"/>
+      <media:rating>adult</media:rating>
+      <media:copyright url="http://www.channel4.com/terms_and_conditions.html">Terms and Conditions</media:copyright>
+      <media:restriction relationship="allow" type="country">GB,GG,IE,IM,JE</media:restriction>
+      <media:rights status="official"/>
+    </media:group>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/4thoughttv/4od%233224239</id>
+    <title type="text">Karen Newman</title>
+    <updated>2011-08-31T12:34:12.612Z</updated>
+    <summary type="html">4thought.tv asks: should you only marry for love? Karen Newman's parents hoped she would marry a nice Jewish boy. Instead Karen has been with her partner Susan for the past 26 years, and they now live in a civil partnership based on love.</summary>
+    <dc:relation.BrandTitle>4thought.tv</dc:relation.BrandTitle>
+    <dcterms:available>start=2011-09-01T17:30:00.000Z; end=2011-10-01T17:30:00.000Z; scheme=W3C-DTF</dcterms:available>
+    <dc:relation.SeriesNumber>2</dc:relation.SeriesNumber>
+    <dc:relation.EpisodeNumber>46</dc:relation.EpisodeNumber>
+    <dc:relation.AgeRating>0</dc:relation.AgeRating>
+    <dc:relation.Guidance/>
+    <dc:date.TXDate>2011-09-01T18:25:00.000Z</dc:date.TXDate>
+    <dc:relation.TXChannel>C4</dc:relation.TXChannel>
+    <dc:relation.Subtitles>true</dc:relation.Subtitles>
+    <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+    <dc:relation.Duration>01:43</dc:relation.Duration>
+    <link href="http://www.channel4.com/programmes/4thoughttv/4od#3224239" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/4thoughttv/episode-guide/series-2/episode-46.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml"/>
+    <media:group>
+      <media:player url="http://www.channel4.com/programmes/4thoughttv/4od#3224239"/>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/4thoughttv/series-2/episode-46/97fe862e-badb-412d-9a29-5d418e72fab3_200x113.jpg" height="113" width="200" imageSource="own"/>
+      <media:rating>nonadult</media:rating>
+      <media:copyright url="http://www.channel4.com/terms_and_conditions.html">Terms and Conditions</media:copyright>
+      <media:restriction relationship="allow" type="country">GB,GG,IE,IM,JE</media:restriction>
+      <media:rights status="official"/>
+    </media:group>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/athletics-iaaf-world-championships-2011/4od%233224867</id>
+    <title type="text">Athletics: IAAF World Championships 2011</title>
+    <updated>2011-09-01T19:48:53.985Z</updated>
+    <summary type="html">Rick Edwards sprints through the moments that mattered on Day 6 in Daegu.
+
+Six gold medals were for the taking in the evening session: the men's high jump, 3000m steeplechase and 400m hurdles; and the women's triple jump, 1500m and 400m hurdles.
+
+There are also semi finals highlights from the women's 200m and the men's 1500m.</summary>
+    <dc:relation.BrandTitle>Athletics: IAAF World Championships 2011</dc:relation.BrandTitle>
+    <dcterms:available>start=2011-09-01T18:00:00.000Z; end=2011-10-01T18:00:00.000Z; scheme=W3C-DTF</dcterms:available>
+    <dc:relation.SeriesNumber>1</dc:relation.SeriesNumber>
+    <dc:relation.EpisodeNumber>18</dc:relation.EpisodeNumber>
+    <dc:relation.AgeRating>0</dc:relation.AgeRating>
+    <dc:relation.Guidance/>
+    <dc:date.TXDate>2011-09-01T18:30:00.000Z</dc:date.TXDate>
+    <dc:relation.TXChannel>C4</dc:relation.TXChannel>
+    <dc:relation.Subtitles>false</dc:relation.Subtitles>
+    <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+    <dc:relation.Duration>27:46</dc:relation.Duration>
+    <link href="http://www.channel4.com/programmes/athletics-iaaf-world-championships-2011/4od#3224867" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/athletics-iaaf-world-championships-2011/episode-guide/series-1/episode-18.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml"/>
+    <media:group>
+      <media:player url="http://www.channel4.com/programmes/athletics-iaaf-world-championships-2011/4od#3224867"/>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/athletics-iaaf-world-championships-2011/series-1/0355c2a2-73d9-4551-86dc-42d56d03b19b_200x113.jpg" height="113" width="200" imageSource="fallback"/>
+      <media:rating>nonadult</media:rating>
+      <media:copyright url="http://www.channel4.com/terms_and_conditions.html">Terms and Conditions</media:copyright>
+      <media:restriction relationship="allow" type="country">GB,GG,IE,IM,JE</media:restriction>
+      <media:rights status="official"/>
+    </media:group>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/grand-designs/4od%233218773</id>
+    <title type="text">Grand Designs</title>
+    <updated>2011-08-04T14:39:52.453Z</updated>
+    <summary type="html">Alex and Cheryl moved to the New Forest to restore a medieval thatched cottage. Kevin McCloud returns to see if, after years of heartache, they are now able to enjoy the good life.</summary>
+    <dc:relation.BrandTitle>Grand Designs</dc:relation.BrandTitle>
+    <dcterms:available>start=2011-08-14T22:00:00.000Z; end=2012-01-01T00:00:00.000Z; scheme=W3C-DTF</dcterms:available>
+    <dc:relation.SeriesNumber>6</dc:relation.SeriesNumber>
+    <dc:relation.EpisodeNumber>18</dc:relation.EpisodeNumber>
+    <dc:relation.AgeRating>0</dc:relation.AgeRating>
+    <dc:relation.Guidance/>
+    <dc:date.TXDate>2011-09-01T18:55:00.000Z</dc:date.TXDate>
+    <dc:relation.TXChannel>M4</dc:relation.TXChannel>
+    <dc:relation.Subtitles>true</dc:relation.Subtitles>
+    <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+    <dc:relation.Duration>48:41</dc:relation.Duration>
+    <link href="http://www.channel4.com/programmes/grand-designs/4od#3218773" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/grand-designs/episode-guide/series-6/episode-18.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml"/>
+    <media:group>
+      <media:player url="http://www.channel4.com/programmes/grand-designs/4od#3218773"/>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/grand-designs/series-6/grand-designs-s6-20090617153804_200x113.jpg" height="113" width="200" imageSource="fallback"/>
+      <media:rating>nonadult</media:rating>
+      <media:copyright url="http://www.channel4.com/terms_and_conditions.html">Terms and Conditions</media:copyright>
+      <media:restriction relationship="allow" type="country">GB,GG,IE,IM,JE</media:restriction>
+      <media:rights status="official"/>
+    </media:group>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/country-house-rescue/4od%233224243</id>
+    <title type="text">Country House Rescue</title>
+    <updated>2011-08-30T16:06:18.711Z</updated>
+    <summary type="html">Ruth Watson revisits Ted and Sarah Coryton, who inherited Pentillie Castle in 2007. She encouraged them to renovate the interior for B&amp;B and exclusive hire, but has the idea been a success?</summary>
+    <dc:relation.BrandTitle>Country House Rescue</dc:relation.BrandTitle>
+    <dcterms:available>start=2011-09-01T19:00:00.000Z; end=2011-10-01T19:00:00.000Z; scheme=W3C-DTF</dcterms:available>
+    <dc:relation.SeriesNumber>2</dc:relation.SeriesNumber>
+    <dc:relation.EpisodeNumber>13</dc:relation.EpisodeNumber>
+    <dc:relation.AgeRating>0</dc:relation.AgeRating>
+    <dc:relation.Guidance/>
+    <dc:date.TXDate>2011-09-01T19:00:00.000Z</dc:date.TXDate>
+    <dc:relation.TXChannel>C4</dc:relation.TXChannel>
+    <dc:relation.Subtitles>true</dc:relation.Subtitles>
+    <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+    <dc:relation.Duration>48:07</dc:relation.Duration>
+    <link href="http://www.channel4.com/programmes/country-house-rescue/4od#3224243" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/country-house-rescue/episode-guide/series-2/episode-13.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml"/>
+    <media:group>
+      <media:player url="http://www.channel4.com/programmes/country-house-rescue/4od#3224243"/>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/country-house-rescue/series-2/ec790d0d-5ed2-45dc-9b9b-ae72267a903f_200x113.jpg" height="113" width="200" imageSource="fallback"/>
+      <media:rating>nonadult</media:rating>
+      <media:copyright url="http://www.channel4.com/terms_and_conditions.html">Terms and Conditions</media:copyright>
+      <media:restriction relationship="allow" type="country">GB,GG,IE,IM,JE</media:restriction>
+      <media:rights status="official"/>
+    </media:group>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/the-killing/4od%233225625</id>
+    <title type="text">I'll Let You Know When I Get There</title>
+    <updated>2011-09-01T12:48:36.153Z</updated>
+    <summary type="html">Bennet clings to life in the hospital after receiving a vicious beating from a misguided Stan and Belko.
+
+Richmond is vindicated because of his refusal to condemn Bennet as a guilty man.
+
+Back at square one, Sarah and Holder look into Stan's former ties with the local mob boss, Kovarsky.</summary>
+    <dc:relation.BrandTitle>The Killing</dc:relation.BrandTitle>
+    <dcterms:available>start=2011-09-01T20:00:00.000Z; end=2011-10-01T20:00:00.000Z; scheme=W3C-DTF</dcterms:available>
+    <dc:relation.SeriesNumber>1</dc:relation.SeriesNumber>
+    <dc:relation.EpisodeNumber>10</dc:relation.EpisodeNumber>
+    <dc:relation.AgeRating>16</dc:relation.AgeRating>
+    <dc:relation.Guidance/>
+    <dc:date.TXDate>2011-09-01T20:00:00.000Z</dc:date.TXDate>
+    <dc:relation.TXChannel>C4</dc:relation.TXChannel>
+    <dc:relation.Subtitles>true</dc:relation.Subtitles>
+    <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+    <dc:relation.Duration>43:25</dc:relation.Duration>
+    <link href="http://www.channel4.com/programmes/the-killing/4od#3225625" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/the-killing/episode-guide/series-1/episode-10.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml"/>
+    <media:group>
+      <media:player url="http://www.channel4.com/programmes/the-killing/4od#3225625"/>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/the-killing/series-1/episode-10/38911d8c-3aaf-43ae-a91b-118f98882110_200x113.jpg" height="113" width="200" imageSource="own"/>
+      <media:rating>adult</media:rating>
+      <media:copyright url="http://www.channel4.com/terms_and_conditions.html">Terms and Conditions</media:copyright>
+      <media:restriction relationship="allow" type="country">GB,GG,IE,IM,JE</media:restriction>
+      <media:rights status="official"/>
+    </media:group>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/the-big-bang-theory/4od%233224254</id>
+    <title type="text">The Wildebeest Implementation</title>
+    <updated>2011-09-01T12:55:44.579Z</updated>
+    <summary type="html">Raj attempts to cure his social anxiety disorder around talking to women, while Penny uses Bernadette to spy on Leonard and his girlfriend.</summary>
+    <dc:relation.BrandTitle>The Big Bang Theory</dc:relation.BrandTitle>
+    <dcterms:available>start=2011-09-01T19:30:00.000Z; end=2011-10-01T18:59:00.000Z; scheme=W3C-DTF</dcterms:available>
+    <dc:relation.SeriesNumber>4</dc:relation.SeriesNumber>
+    <dc:relation.EpisodeNumber>22</dc:relation.EpisodeNumber>
+    <dc:relation.AgeRating>0</dc:relation.AgeRating>
+    <dc:relation.Guidance/>
+    <dc:date.TXDate>2011-09-01T20:00:00.000Z</dc:date.TXDate>
+    <dc:relation.TXChannel>E4</dc:relation.TXChannel>
+    <dc:relation.Subtitles>true</dc:relation.Subtitles>
+    <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+    <dc:relation.Duration>20:21</dc:relation.Duration>
+    <link href="http://www.channel4.com/programmes/the-big-bang-theory/4od#3224254" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/the-big-bang-theory/episode-guide/series-4/episode-22.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml"/>
+    <media:group>
+      <media:player url="http://www.channel4.com/programmes/the-big-bang-theory/4od#3224254"/>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/the-big-bang-theory/series-4/episode-22/79d2baf3-0414-49cb-b9f1-c78c4557a44f_200x113.jpg" height="113" width="200" imageSource="own"/>
+      <media:rating>nonadult</media:rating>
+      <media:copyright url="http://www.channel4.com/terms_and_conditions.html">Terms and Conditions</media:copyright>
+      <media:restriction relationship="allow" type="country">GB,GG,IM,JE</media:restriction>
+      <media:rights status="official"/>
+    </media:group>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/little-box-of-horrors/4od%233224260</id>
+    <title type="text">Little Box of Horrors</title>
+    <updated>2011-09-01T17:00:50.217Z</updated>
+    <summary type="html">James Buckley presents the final show in the clip series that includes some of the strangest, most outrageous clips ever broadcast.
+
+The horrors in this show include the Wunder Boner, the world's darkest public information film and an erotically-charged primal scream therapy session.</summary>
+    <dc:relation.BrandTitle>Little Box of Horrors</dc:relation.BrandTitle>
+    <dcterms:available>start=2011-09-01T20:30:00.000Z; end=2011-10-01T20:30:00.000Z; scheme=W3C-DTF</dcterms:available>
+    <dc:relation.SeriesNumber>1</dc:relation.SeriesNumber>
+    <dc:relation.EpisodeNumber>5</dc:relation.EpisodeNumber>
+    <dc:relation.AgeRating>18</dc:relation.AgeRating>
+    <dc:relation.Guidance>Strong language and adult humour</dc:relation.Guidance>
+    <dc:date.TXDate>2011-09-01T21:00:00.000Z</dc:date.TXDate>
+    <dc:relation.TXChannel>E4</dc:relation.TXChannel>
+    <dc:relation.Subtitles>true</dc:relation.Subtitles>
+    <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+    <dc:relation.Duration>22:47</dc:relation.Duration>
+    <link href="http://www.channel4.com/programmes/little-box-of-horrors/4od#3224260" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/little-box-of-horrors/episode-guide/series-1/episode-5.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml"/>
+    <media:group>
+      <media:player url="http://www.channel4.com/programmes/little-box-of-horrors/4od#3224260"/>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/little-box-of-horrors/series-1/b11d01cc-dc39-42bf-a09f-be1baf7b047e_200x113.jpg" height="113" width="200" imageSource="fallback"/>
+      <media:rating>adult</media:rating>
+      <media:copyright url="http://www.channel4.com/terms_and_conditions.html">Terms and Conditions</media:copyright>
+      <media:restriction relationship="allow" type="country">GB,GG,IE,IM,JE</media:restriction>
+      <media:rights status="official"/>
+    </media:group>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/shameless-usa/4od%233225628</id>
+    <title type="text">Daddyz Girl</title>
+    <updated>2011-09-01T12:52:07.279Z</updated>
+    <summary type="html">Fiona finds a new friend in the alluring Jasmine.
+
+Karen's destructive, downward spiral leads her on a mission to destroy her father in any way she can.</summary>
+    <dc:relation.BrandTitle>Shameless USA</dc:relation.BrandTitle>
+    <dcterms:available>start=2011-09-01T21:00:00.000Z; end=2011-10-01T19:59:00.000Z; scheme=W3C-DTF</dcterms:available>
+    <dc:relation.SeriesNumber>1</dc:relation.SeriesNumber>
+    <dc:relation.EpisodeNumber>11</dc:relation.EpisodeNumber>
+    <dc:relation.AgeRating>18</dc:relation.AgeRating>
+    <dc:relation.Guidance>Strong language from the start, nudity, violence and sexual scenes</dc:relation.Guidance>
+    <dc:date.TXDate>2011-09-01T21:00:00.000Z</dc:date.TXDate>
+    <dc:relation.TXChannel>M4</dc:relation.TXChannel>
+    <dc:relation.Subtitles>true</dc:relation.Subtitles>
+    <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+    <dc:relation.Duration>44:06</dc:relation.Duration>
+    <link href="http://www.channel4.com/programmes/shameless-usa/4od#3225628" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/shameless-usa/episode-guide/series-1/episode-11.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml"/>
+    <media:group>
+      <media:player url="http://www.channel4.com/programmes/shameless-usa/4od#3225628"/>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/shameless-usa/series-1/episode-11/e69f5333-4d67-4dae-bbc9-bab7549cfa15_200x113.jpg" height="113" width="200" imageSource="own"/>
+      <media:rating>adult</media:rating>
+      <media:copyright url="http://www.channel4.com/terms_and_conditions.html">Terms and Conditions</media:copyright>
+      <media:restriction relationship="allow" type="country">GB,GG,IM,JE</media:restriction>
+      <media:rights status="official"/>
+    </media:group>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/undercover-boss-usa/4od%233224799</id>
+    <title type="text">Undercover Boss USA</title>
+    <updated>2011-08-30T16:44:37.536Z</updated>
+    <summary type="html">David Kim is the CEO of Baja Fresh, the leading Mexican fast food chain in the United States. He goes undercover and poses as someone who is competing for a position within the company.
+
+Immigrating from Korea to America was hard on David's family when he was growing up, so his goal was to become someone who could help his parents live a better life.
+
+He hopes to use this undercover experience to find the truth about how his company is functioning, while reflecting on the time that he has left with his dying father.
+
+When David joins the workforce, it's clear that he's been out of the game for a long time. He struggles with the back-breaking work when shadowing a general manager, leaves customers queueing for way too long when trying to learn the ropes as cashier, and gets a telling off from another manager for his poor burrito making skills</summary>
+    <dc:relation.BrandTitle>Undercover Boss USA</dc:relation.BrandTitle>
+    <dcterms:available>start=2011-09-01T21:05:00.000Z; end=2011-10-01T21:05:00.000Z; scheme=W3C-DTF</dcterms:available>
+    <dc:relation.SeriesNumber>2</dc:relation.SeriesNumber>
+    <dc:relation.EpisodeNumber>13</dc:relation.EpisodeNumber>
+    <dc:relation.AgeRating>0</dc:relation.AgeRating>
+    <dc:relation.Guidance/>
+    <dc:date.TXDate>2011-09-01T21:00:00.000Z</dc:date.TXDate>
+    <dc:relation.TXChannel>C4</dc:relation.TXChannel>
+    <dc:relation.Subtitles>true</dc:relation.Subtitles>
+    <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+    <dc:relation.Duration>43:20</dc:relation.Duration>
+    <link href="http://www.channel4.com/programmes/undercover-boss-usa/4od#3224799" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/undercover-boss-usa/episode-guide/series-2/episode-13.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml"/>
+    <media:group>
+      <media:player url="http://www.channel4.com/programmes/undercover-boss-usa/4od#3224799"/>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/undercover-boss-usa/series-2/episode-13/8f2e5dc9-3f26-4c13-83a2-acc982258bf3_200x113.jpg" height="113" width="200" imageSource="own"/>
+      <media:rating>nonadult</media:rating>
+      <media:copyright url="http://www.channel4.com/terms_and_conditions.html">Terms and Conditions</media:copyright>
+      <media:restriction relationship="allow" type="country">GB,GG,IE,IM,JE</media:restriction>
+      <media:rights status="official"/>
+    </media:group>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/phoneshop/4od%233140339</id>
+    <title type="text">Soldier, Swinger, Shelley, Shelley</title>
+    <updated>2010-11-18T12:20:41.647Z</updated>
+    <summary type="html">Lance is off on his second honeymoon. Janine is in charge and teaching Christopher to go the extra mile for his customers, and Ashley has got a date with a soldier - what's the worst that can happen?</summary>
+    <dc:relation.BrandTitle>PhoneShop</dc:relation.BrandTitle>
+    <dcterms:available>start=2010-12-05T00:00:00.000Z; end=2015-10-06T22:00:00.000Z; scheme=W3C-DTF</dcterms:available>
+    <dc:relation.SeriesNumber>1</dc:relation.SeriesNumber>
+    <dc:relation.EpisodeNumber>6</dc:relation.EpisodeNumber>
+    <dc:relation.AgeRating>18</dc:relation.AgeRating>
+    <dc:relation.Guidance>Very strong language and adult humour</dc:relation.Guidance>
+    <dc:date.TXDate>2011-09-01T21:30:00.000Z</dc:date.TXDate>
+    <dc:relation.TXChannel>E4</dc:relation.TXChannel>
+    <dc:relation.Subtitles>true</dc:relation.Subtitles>
+    <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+    <dc:relation.Duration>23:08</dc:relation.Duration>
+    <link href="http://www.channel4.com/programmes/phoneshop/4od#3140339" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/phoneshop/episode-guide/series-1/episode-6.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml"/>
+    <media:group>
+      <media:player url="http://www.channel4.com/programmes/phoneshop/4od#3140339"/>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/phoneshop/series-1/episode-6/1126fd3a-ec9c-419b-a1a2-2029668dfc23_200x113.jpg" height="113" width="200" imageSource="own"/>
+      <media:rating>adult</media:rating>
+      <media:copyright url="http://www.channel4.com/terms_and_conditions.html">Terms and Conditions</media:copyright>
+      <media:restriction relationship="allow" type="country">GB,GG,IE,IM,JE</media:restriction>
+      <media:rights status="official"/>
+    </media:group>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/beaver-falls/4od%233224159</id>
+    <title type="text">Beaver Falls</title>
+    <updated>2011-08-31T16:35:26.496Z</updated>
+    <summary type="html">It's the last day of camp and everyone is thinking about the summer they've had, the home that awaits them and any unfinished business that needs attention.
+
+Most of all, they're excited about the last night prom - even the dateless Chunk Bunk.
+
+And with the secrets that have been lurking between the boys all summer threatening to spill out at any moment, it certainly promises to be a night to remember.</summary>
+    <dc:relation.BrandTitle>Beaver Falls</dc:relation.BrandTitle>
+    <dcterms:available>start=2011-08-31T20:00:00.000Z; end=2011-09-30T20:00:00.000Z; scheme=W3C-DTF</dcterms:available>
+    <dc:relation.SeriesNumber>1</dc:relation.SeriesNumber>
+    <dc:relation.EpisodeNumber>6</dc:relation.EpisodeNumber>
+    <dc:relation.AgeRating>16</dc:relation.AgeRating>
+    <dc:relation.Guidance>Strong language from the start, adult themes and scenes of a sexual nature</dc:relation.Guidance>
+    <dc:date.TXDate>2011-09-01T22:00:00.000Z</dc:date.TXDate>
+    <dc:relation.TXChannel>E4</dc:relation.TXChannel>
+    <dc:relation.Subtitles>true</dc:relation.Subtitles>
+    <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+    <dc:relation.Duration>46:58</dc:relation.Duration>
+    <dc:relation.complianceText>Go online for more information on support available, e4.com/beaverfalls</dc:relation.complianceText>
+    <link href="http://www.channel4.com/programmes/beaver-falls/4od#3224159" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/beaver-falls/episode-guide/series-1/episode-6.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml"/>
+    <media:group>
+      <media:player url="http://www.channel4.com/programmes/beaver-falls/4od#3224159"/>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/beaver-falls/series-1/episode-6/e8e892b7-8795-4a4f-9257-b1cc9d9dc581_200x113.jpg" height="113" width="200" imageSource="own"/>
+      <media:rating>adult</media:rating>
+      <media:copyright url="http://www.channel4.com/terms_and_conditions.html">Terms and Conditions</media:copyright>
+      <media:restriction relationship="allow" type="country">GB,GG,IE,IM,JE</media:restriction>
+      <media:rights status="official"/>
+    </media:group>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/seven-dwarves/4od%233223975</id>
+    <title type="text">Seven Dwarves</title>
+    <updated>2011-08-26T16:51:08.714Z</updated>
+    <summary type="html">Twenty-two-year-old Jamie is Britain's only dwarf drag queen. He yearns for the day when his alter ego, Miss DQ, will be famous.
+
+Jamie has come from a leisure resort where he works as an entertainer. By day he hosts bingo, bowls and quizzes for guests, and by night he dons a wig, a sequinned dress and a pair of high heels as Miss DQ.
+
+Christmas is a difficult time of year for Jamie as he misses his father, who died five years ago during panto rehearsals with him. But he puts up decorations with gusto and tucks into Christmas dinner with Craig and Laura.
+
+Glowing reviews of the panto come out and the group are delighted to find out the production is the UK's biggest selling panto. They are determined to keep the momentum going to hold on to that title.</summary>
+    <dc:relation.BrandTitle>Seven Dwarves</dc:relation.BrandTitle>
+    <dcterms:available>start=2011-08-30T20:00:00.000Z; end=2011-09-29T20:00:00.000Z; scheme=W3C-DTF</dcterms:available>
+    <dc:relation.SeriesNumber>1</dc:relation.SeriesNumber>
+    <dc:relation.EpisodeNumber>3</dc:relation.EpisodeNumber>
+    <dc:relation.AgeRating>16</dc:relation.AgeRating>
+    <dc:relation.Guidance>Strong language</dc:relation.Guidance>
+    <dc:date.TXDate>2011-09-01T22:05:00.000Z</dc:date.TXDate>
+    <dc:relation.TXChannel>C4</dc:relation.TXChannel>
+    <dc:relation.Subtitles>true</dc:relation.Subtitles>
+    <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+    <dc:relation.Duration>46:28</dc:relation.Duration>
+    <link href="http://www.channel4.com/programmes/seven-dwarves/4od#3223975" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/seven-dwarves/episode-guide/series-1/episode-3.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml"/>
+    <media:group>
+      <media:player url="http://www.channel4.com/programmes/seven-dwarves/4od#3223975"/>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/seven-dwarves/series-1/episode-3/8b91abee-b804-4dcf-a068-6261505095f7_200x113.jpg" height="113" width="200" imageSource="own"/>
+      <media:rating>adult</media:rating>
+      <media:copyright url="http://www.channel4.com/terms_and_conditions.html">Terms and Conditions</media:copyright>
+      <media:restriction relationship="allow" type="country">GB,GG,IE,IM,JE</media:restriction>
+      <media:rights status="official"/>
+    </media:group>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/sony-ericsson-world-bboy-series/4od%233148654</id>
+    <title type="text">World Series Final - London UK</title>
+    <updated>2010-12-23T11:17:59.162Z</updated>
+    <summary type="html">It's finals time in London, as eight of the best bboy crews descend on the capital with the hope of being crowned world champions.</summary>
+    <dc:relation.BrandTitle>Sony Ericsson World Bboy Series</dc:relation.BrandTitle>
+    <dcterms:available>start=2011-01-12T00:00:00.000Z; end=2013-08-03T06:24:00.000Z; scheme=W3C-DTF</dcterms:available>
+    <dc:relation.SeriesNumber>1</dc:relation.SeriesNumber>
+    <dc:relation.EpisodeNumber>6</dc:relation.EpisodeNumber>
+    <dc:relation.AgeRating>0</dc:relation.AgeRating>
+    <dc:relation.Guidance/>
+    <dc:date.TXDate>2011-09-01T22:55:00.000Z</dc:date.TXDate>
+    <dc:relation.TXChannel>4M</dc:relation.TXChannel>
+    <dc:relation.Subtitles>true</dc:relation.Subtitles>
+    <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+    <dc:relation.Duration>48:39</dc:relation.Duration>
+    <link href="http://www.channel4.com/programmes/sony-ericsson-world-bboy-series/4od#3148654" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/sony-ericsson-world-bboy-series/episode-guide/series-1/episode-6.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml"/>
+    <media:group>
+      <media:player url="http://www.channel4.com/programmes/sony-ericsson-world-bboy-series/4od#3148654"/>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/sony-ericsson-world-bboy-series/series-1/episode-6/3e3f9fe1-e4c3-453c-9477-129eab654988_200x113.jpg" height="113" width="200" imageSource="own"/>
+      <media:rating>nonadult</media:rating>
+      <media:copyright url="http://www.channel4.com/terms_and_conditions.html">Terms and Conditions</media:copyright>
+      <media:restriction relationship="allow" type="country">GB,GG,IE,IM,JE</media:restriction>
+      <media:rights status="official"/>
+    </media:group>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/360-sessions/4od%233217030</id>
+    <title type="text">360 Sessions: David Guetta</title>
+    <updated>2011-08-03T14:33:01.169Z</updated>
+    <summary type="html">Performance and chat from DJ and producer David Guetta.</summary>
+    <dc:relation.BrandTitle>360 Sessions</dc:relation.BrandTitle>
+    <dcterms:available>start=2011-08-15T22:00:00.000Z; end=2012-07-16T22:00:00.000Z; scheme=W3C-DTF</dcterms:available>
+    <dc:relation.SeriesNumber>4</dc:relation.SeriesNumber>
+    <dc:relation.EpisodeNumber>1</dc:relation.EpisodeNumber>
+    <dc:relation.AgeRating>16</dc:relation.AgeRating>
+    <dc:relation.Guidance>Strong language</dc:relation.Guidance>
+    <dc:date.TXDate>2011-09-01T23:05:00.000Z</dc:date.TXDate>
+    <dc:relation.TXChannel>C4</dc:relation.TXChannel>
+    <dc:relation.Subtitles>true</dc:relation.Subtitles>
+    <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+    <dc:relation.Duration>23:27</dc:relation.Duration>
+    <link href="http://www.channel4.com/programmes/360-sessions/4od#3217030" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/360-sessions/episode-guide/series-4/episode-1.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml"/>
+    <media:group>
+      <media:player url="http://www.channel4.com/programmes/360-sessions/4od#3217030"/>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/360-sessions/series-4/0271ae49-dc6d-490c-9d32-13bf79584e49_200x113.jpg" height="113" width="200" imageSource="fallback"/>
+      <media:rating>adult</media:rating>
+      <media:copyright url="http://www.channel4.com/terms_and_conditions.html">Terms and Conditions</media:copyright>
+      <media:restriction relationship="allow" type="country">GB,GG,IE,IM,JE</media:restriction>
+      <media:rights status="official"/>
+    </media:group>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/skins/4od%233181387</id>
+    <title type="text">Skins</title>
+    <updated>2011-04-20T17:16:50.072Z</updated>
+    <summary type="html">It's the day of Rich and Grace's wedding, and the gang are pulling together for the happy couple. But with shambolic Alo as best man, it's no surprise that they run into trouble and become separated in the wilds of Somerset.
+
+Will they make it to the church on time? And will they still be friends by the end?</summary>
+    <dc:relation.BrandTitle>Skins</dc:relation.BrandTitle>
+    <dcterms:available>start=2011-05-02T22:00:00.000Z; end=2012-03-23T00:00:00.000Z; scheme=W3C-DTF</dcterms:available>
+    <dc:relation.SeriesNumber>5</dc:relation.SeriesNumber>
+    <dc:relation.EpisodeNumber>8</dc:relation.EpisodeNumber>
+    <dc:relation.AgeRating>18</dc:relation.AgeRating>
+    <dc:relation.Guidance>Strong language throughout and drug use</dc:relation.Guidance>
+    <dc:date.TXDate>2011-09-02T01:25:00.000Z</dc:date.TXDate>
+    <dc:relation.TXChannel>E4</dc:relation.TXChannel>
+    <dc:relation.Subtitles>true</dc:relation.Subtitles>
+    <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+    <dc:relation.Duration>47:10</dc:relation.Duration>
+    <link href="http://www.channel4.com/programmes/skins/4od#3181387" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/skins/episode-guide/series-5/episode-8.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml"/>
+    <media:group>
+      <media:player url="http://www.channel4.com/programmes/skins/4od#3181387"/>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/skins/series-5/episode-8/a32bf4a3-0c3f-4641-a2f5-cfdb0171ec54_200x113.jpg" height="113" width="200" imageSource="own"/>
+      <media:rating>adult</media:rating>
+      <media:copyright url="http://www.channel4.com/terms_and_conditions.html">Terms and Conditions</media:copyright>
+      <media:restriction relationship="allow" type="country">GB,GG,IE,IM,JE</media:restriction>
+      <media:rights status="official"/>
+    </media:group>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/streetmate/4od%232921752</id>
+    <title type="text">Streetmate</title>
+    <updated>2010-11-03T05:57:50.175Z</updated>
+    <summary type="html">Davina visits Durham and Tenby. But will she find anyone to take part?</summary>
+    <dc:relation.BrandTitle>Streetmate</dc:relation.BrandTitle>
+    <dcterms:available>start=2009-07-01T22:00:00.000Z; end=2012-10-19T22:00:00.000Z; scheme=W3C-DTF</dcterms:available>
+    <dc:relation.SeriesNumber>2</dc:relation.SeriesNumber>
+    <dc:relation.EpisodeNumber>9</dc:relation.EpisodeNumber>
+    <dc:relation.AgeRating>0</dc:relation.AgeRating>
+    <dc:relation.Guidance/>
+    <dc:date.TXDate>2011-09-02T02:10:00.000Z</dc:date.TXDate>
+    <dc:relation.TXChannel>4M</dc:relation.TXChannel>
+    <dc:relation.Subtitles>false</dc:relation.Subtitles>
+    <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+    <dc:relation.Duration>23:59</dc:relation.Duration>
+    <link href="http://www.channel4.com/programmes/streetmate/4od#2921752" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/streetmate/episode-guide/series-2/episode-9.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml"/>
+    <media:group>
+      <media:player url="http://www.channel4.com/programmes/streetmate/4od#2921752"/>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/streetmate/series-2/51ac90ef-e31f-4d8f-af3f-0d467bb30856_200x113.jpg" height="113" width="200" imageSource="fallback"/>
+      <media:rating>nonadult</media:rating>
+      <media:copyright url="http://www.channel4.com/terms_and_conditions.html">Terms and Conditions</media:copyright>
+      <media:restriction relationship="allow" type="country">gb,im,je,gg,ie</media:restriction>
+      <media:rights status="official"/>
+    </media:group>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/streetmate/4od%232921753</id>
+    <title type="text">Streetmate</title>
+    <updated>2010-11-03T05:57:50.175Z</updated>
+    <summary type="html">Davina's romantic mission leads her to Swansea and Birmingham, but who will she get to take part? And how will the two couples get on?</summary>
+    <dc:relation.BrandTitle>Streetmate</dc:relation.BrandTitle>
+    <dcterms:available>start=2009-07-01T22:00:00.000Z; end=2012-10-19T22:00:00.000Z; scheme=W3C-DTF</dcterms:available>
+    <dc:relation.SeriesNumber>2</dc:relation.SeriesNumber>
+    <dc:relation.EpisodeNumber>10</dc:relation.EpisodeNumber>
+    <dc:relation.AgeRating>0</dc:relation.AgeRating>
+    <dc:relation.Guidance/>
+    <dc:date.TXDate>2011-09-02T02:35:00.000Z</dc:date.TXDate>
+    <dc:relation.TXChannel>4M</dc:relation.TXChannel>
+    <dc:relation.Subtitles>false</dc:relation.Subtitles>
+    <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+    <dc:relation.Duration>24:06</dc:relation.Duration>
+    <link href="http://www.channel4.com/programmes/streetmate/4od#2921753" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/streetmate/episode-guide/series-2/episode-10.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml"/>
+    <media:group>
+      <media:player url="http://www.channel4.com/programmes/streetmate/4od#2921753"/>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/streetmate/series-2/51ac90ef-e31f-4d8f-af3f-0d467bb30856_200x113.jpg" height="113" width="200" imageSource="fallback"/>
+      <media:rating>nonadult</media:rating>
+      <media:copyright url="http://www.channel4.com/terms_and_conditions.html">Terms and Conditions</media:copyright>
+      <media:restriction relationship="allow" type="country">GB,GG,IE,IM,JE</media:restriction>
+      <media:rights status="official"/>
+    </media:group>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/triathlon/4od%233223844</id>
+    <title type="text">IAU Trail World Championships</title>
+    <updated>2011-08-27T16:52:38.819Z</updated>
+    <summary type="html">The world trail running championships take place amid the natural beauty of Ireland's Connemara region, which provides the world's leading endurance athletes with one of the toughest courses the event has seen, featuring 70km of mountains, rocky trails and slippery bogs.</summary>
+    <dc:relation.BrandTitle>Triathlon</dc:relation.BrandTitle>
+    <dcterms:available>start=2011-08-29T00:00:00.000Z; end=2011-09-28T00:00:00.000Z; scheme=W3C-DTF</dcterms:available>
+    <dc:relation.SeriesNumber>2</dc:relation.SeriesNumber>
+    <dc:relation.EpisodeNumber>23</dc:relation.EpisodeNumber>
+    <dc:relation.AgeRating>0</dc:relation.AgeRating>
+    <dc:relation.Guidance/>
+    <dc:date.TXDate>2011-09-02T03:45:00.000Z</dc:date.TXDate>
+    <dc:relation.TXChannel>C4</dc:relation.TXChannel>
+    <dc:relation.Subtitles>true</dc:relation.Subtitles>
+    <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+    <dc:relation.Duration>24:01</dc:relation.Duration>
+    <link href="http://www.channel4.com/programmes/triathlon/4od#3223844" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/triathlon/episode-guide/series-2/episode-23.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml"/>
+    <media:group>
+      <media:player url="http://www.channel4.com/programmes/triathlon/4od#3223844"/>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/triathlon-2011/series-2/d6ccc7ac-c076-490a-8ab3-eceb8ce5c62d_200x113.jpg" height="113" width="200" imageSource="fallback"/>
+      <media:rating>nonadult</media:rating>
+      <media:copyright url="http://www.channel4.com/terms_and_conditions.html">Terms and Conditions</media:copyright>
+      <media:restriction relationship="allow" type="country">GB,GG,IE,IM,JE</media:restriction>
+      <media:rights status="official"/>
+    </media:group>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/countdown/4od%233223932</id>
+    <title type="text">Countdown</title>
+    <updated>2011-08-25T13:54:31.632Z</updated>
+    <summary type="html">Jeff Stelling and Rachel Riley host as contestants race against the clock to pit their wits against vowels, consonants and numbers.  With Dictionary Corner guest John Inverdale.</summary>
+    <dc:relation.BrandTitle>Countdown</dc:relation.BrandTitle>
+    <dcterms:available>start=2011-08-30T14:00:00.000Z; end=2011-09-29T14:00:00.000Z; scheme=W3C-DTF</dcterms:available>
+    <dc:relation.SeriesNumber>2011</dc:relation.SeriesNumber>
+    <dc:relation.EpisodeNumber/>
+    <dc:relation.AgeRating>0</dc:relation.AgeRating>
+    <dc:relation.Guidance/>
+    <dc:date.TXDate>2011-09-02T04:10:00.000Z</dc:date.TXDate>
+    <dc:relation.TXChannel>C4</dc:relation.TXChannel>
+    <dc:relation.Subtitles>true</dc:relation.Subtitles>
+    <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+    <dc:relation.Duration>36:02</dc:relation.Duration>
+    <link href="http://www.channel4.com/programmes/countdown/4od#3223932" rel="alternate" type="text/html"/>
+    <media:group>
+      <media:player url="http://www.channel4.com/programmes/countdown/4od#3223932"/>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/countdown/series-2/2f141d4d-faf1-4419-ab3e-8705c46a5edc_200x113.jpg" height="113" width="200" imageSource="fallback"/>
+      <media:rating>nonadult</media:rating>
+      <media:copyright url="http://www.channel4.com/terms_and_conditions.html">Terms and Conditions</media:copyright>
+      <media:restriction relationship="allow" type="country">GB,GG,IE,IM,JE</media:restriction>
+      <media:rights status="official"/>
+    </media:group>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/the-hoobs/4od%232930222</id>
+    <title type="text">Soft Round Flat Things</title>
+    <updated>2010-11-03T05:57:50.175Z</updated>
+    <summary type="html">If a Hoob can't find their Hoobarama then a Hoob can't play Hoobarama! Is there anything soft, round and flat on the Peep planet that they can use instead?</summary>
+    <dc:relation.BrandTitle>The Hoobs</dc:relation.BrandTitle>
+    <dcterms:available>start=2009-06-07T22:00:00.000Z; end=2018-12-07T00:00:00.000Z; scheme=W3C-DTF</dcterms:available>
+    <dc:relation.SeriesNumber>1</dc:relation.SeriesNumber>
+    <dc:relation.EpisodeNumber>30</dc:relation.EpisodeNumber>
+    <dc:relation.AgeRating>0</dc:relation.AgeRating>
+    <dc:relation.Guidance/>
+    <dc:date.TXDate>2011-09-02T05:10:00.000Z</dc:date.TXDate>
+    <dc:relation.TXChannel>C4</dc:relation.TXChannel>
+    <dc:relation.Subtitles>true</dc:relation.Subtitles>
+    <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+    <dc:relation.Duration>24:13</dc:relation.Duration>
+    <link href="http://www.channel4.com/programmes/the-hoobs/4od#2930222" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/the-hoobs/episode-guide/series-1/episode-30.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml"/>
+    <media:group>
+      <media:player url="http://www.channel4.com/programmes/the-hoobs/4od#2930222"/>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/the-hoobs/series-1/the-hoobs-s1-20090623112301_200x113.jpg" height="113" width="200" imageSource="fallback"/>
+      <media:rating>nonadult</media:rating>
+      <media:copyright url="http://www.channel4.com/terms_and_conditions.html">Terms and Conditions</media:copyright>
+      <media:restriction relationship="allow" type="country">gb,im,je,gg,ie</media:restriction>
+      <media:rights status="official"/>
+    </media:group>
+  </entry>
+
+</feed>

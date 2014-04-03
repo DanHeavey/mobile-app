@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="http://www.channel4.com">
+  <id>tag:www.channel4.com,2009:/programmes/tags</id>
+  <title type="text">Programmes Categories</title>
+  <updated>2011-09-02T15:58:44.462Z</updated>
+  <author>
+    <name>Channel 4 Television</name>
+  </author>
+  <logo imageSource="default">http://www.channel4.com/static/programmes/images/c4-atom-logo.gif</logo>
+  <link href="http://www.channel4.com/programmes" rel="alternate" type="text/html" title="What's Hot"/>
+  <link href="http://api.channel4.com/pmlsd/tags.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml"/>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/tags/animals</id>
+    <title type="text">Animals</title>
+    <summary type="html">Channel 4 Animals Programmes</summary>
+    <updated>2011-09-02T15:58:44.463Z</updated>
+    <link href="http://www.channel4.com/programmes/tags/animals" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/tags/animals.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml" title="All Programmes by TX Date"/>
+    <link href="http://api.channel4.com/pmlsd/tags/animals/title.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="All Programmes by Title"/>
+    <link href="http://api.channel4.com/pmlsd/tags/animals/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD Programmes by TX Date"/>
+    <link href="http://api.channel4.com/pmlsd/tags/animals/4od/title.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD Programmes by Title"/>
+    <dc:relation.CategoryType>None</dc:relation.CategoryType>
+    <dc:relation.AllProgrammeCount>24</dc:relation.AllProgrammeCount>
+    <dc:relation.4oDProgrammeCount>14</dc:relation.4oDProgrammeCount>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/tags/animation</id>
+    <title type="text">Animation</title>
+    <summary type="html">Channel 4 Animation Programmes</summary>
+    <updated>2011-09-02T15:58:44.463Z</updated>
+    <link href="http://www.channel4.com/programmes/tags/animation" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/tags/animation.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml" title="All Programmes by TX Date"/>
+    <link href="http://api.channel4.com/pmlsd/tags/animation/title.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="All Programmes by Title"/>
+    <link href="http://api.channel4.com/pmlsd/tags/animation/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD Programmes by TX Date"/>
+    <link href="http://api.channel4.com/pmlsd/tags/animation/4od/title.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD Programmes by Title"/>
+    <dc:relation.CategoryType>None</dc:relation.CategoryType>
+    <dc:relation.AllProgrammeCount>20</dc:relation.AllProgrammeCount>
+    <dc:relation.4oDProgrammeCount>11</dc:relation.4oDProgrammeCount>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/tags/art-design-and-literature</id>
+    <title type="text">Art, Design and Literature</title>
+    <summary type="html">Channel 4 Art, Design and Literature Programmes</summary>
+    <updated>2011-09-02T15:58:44.464Z</updated>
+    <link href="http://www.channel4.com/programmes/tags/art-design-and-literature" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/tags/art-design-and-literature.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml" title="All Programmes by TX Date"/>
+    <link href="http://api.channel4.com/pmlsd/tags/art-design-and-literature/title.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="All Programmes by Title"/>
+    <link href="http://api.channel4.com/pmlsd/tags/art-design-and-literature/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD Programmes by TX Date"/>
+    <link href="http://api.channel4.com/pmlsd/tags/art-design-and-literature/4od/title.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD Programmes by Title"/>
+    <dc:relation.CategoryType>None</dc:relation.CategoryType>
+    <dc:relation.AllProgrammeCount>70</dc:relation.AllProgrammeCount>
+    <dc:relation.4oDProgrammeCount>27</dc:relation.4oDProgrammeCount>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/tags/business-and-money</id>
+    <title type="text">Business and Money</title>
+    <summary type="html">Channel 4 Business and Money Programmes</summary>
+    <updated>2011-09-02T15:58:44.465Z</updated>
+    <link href="http://www.channel4.com/programmes/tags/business-and-money" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/tags/business-and-money.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml" title="All Programmes by TX Date"/>
+    <link href="http://api.channel4.com/pmlsd/tags/business-and-money/title.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="All Programmes by Title"/>
+    <link href="http://api.channel4.com/pmlsd/tags/business-and-money/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD Programmes by TX Date"/>
+    <link href="http://api.channel4.com/pmlsd/tags/business-and-money/4od/title.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD Programmes by Title"/>
+    <dc:relation.CategoryType>None</dc:relation.CategoryType>
+    <dc:relation.AllProgrammeCount>32</dc:relation.AllProgrammeCount>
+    <dc:relation.4oDProgrammeCount>24</dc:relation.4oDProgrammeCount>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/tags/chat-shows</id>
+    <title type="text">Chat Shows</title>
+    <summary type="html">Channel 4 Chat Shows Programmes</summary>
+    <updated>2011-09-02T15:58:44.465Z</updated>
+    <link href="http://www.channel4.com/programmes/tags/chat-shows" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/tags/chat-shows.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml" title="All Programmes by TX Date"/>
+    <link href="http://api.channel4.com/pmlsd/tags/chat-shows/title.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="All Programmes by Title"/>
+    <link href="http://api.channel4.com/pmlsd/tags/chat-shows/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD Programmes by TX Date"/>
+    <link href="http://api.channel4.com/pmlsd/tags/chat-shows/4od/title.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD Programmes by Title"/>
+    <dc:relation.CategoryType>None</dc:relation.CategoryType>
+    <dc:relation.AllProgrammeCount>18</dc:relation.AllProgrammeCount>
+    <dc:relation.4oDProgrammeCount>8</dc:relation.4oDProgrammeCount>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/tags/comedy</id>
+    <title type="text">Comedy</title>
+    <summary type="html">Channel 4 Comedy Programmes</summary>
+    <updated>2011-09-02T15:58:44.466Z</updated>
+    <link href="http://www.channel4.com/programmes/tags/comedy" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/tags/comedy.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml" title="All Programmes by TX Date"/>
+    <link href="http://api.channel4.com/pmlsd/tags/comedy/title.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="All Programmes by Title"/>
+    <link href="http://api.channel4.com/pmlsd/tags/comedy/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD Programmes by TX Date"/>
+    <link href="http://api.channel4.com/pmlsd/tags/comedy/4od/title.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD Programmes by Title"/>
+    <dc:relation.CategoryType>Display</dc:relation.CategoryType>
+    <dc:relation.CategoryOrder>1</dc:relation.CategoryOrder>
+    <dc:relation.AllProgrammeCount>222</dc:relation.AllProgrammeCount>
+    <dc:relation.4oDProgrammeCount>111</dc:relation.4oDProgrammeCount>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/tags/documentaries</id>
+    <title type="text">Documentaries</title>
+    <summary type="html">Channel 4 Documentaries Programmes</summary>
+    <updated>2011-09-02T15:58:44.467Z</updated>
+    <link href="http://www.channel4.com/programmes/tags/documentaries" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/tags/documentaries.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml" title="All Programmes by TX Date"/>
+    <link href="http://api.channel4.com/pmlsd/tags/documentaries/title.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="All Programmes by Title"/>
+    <link href="http://api.channel4.com/pmlsd/tags/documentaries/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD Programmes by TX Date"/>
+    <link href="http://api.channel4.com/pmlsd/tags/documentaries/4od/title.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD Programmes by Title"/>
+    <dc:relation.CategoryType>Display</dc:relation.CategoryType>
+    <dc:relation.CategoryOrder>2</dc:relation.CategoryOrder>
+    <dc:relation.AllProgrammeCount>710</dc:relation.AllProgrammeCount>
+    <dc:relation.4oDProgrammeCount>324</dc:relation.4oDProgrammeCount>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/tags/drama</id>
+    <title type="text">Drama</title>
+    <summary type="html">Channel 4 Drama Programmes</summary>
+    <updated>2011-09-02T15:58:44.467Z</updated>
+    <link href="http://www.channel4.com/programmes/tags/drama" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/tags/drama.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml" title="All Programmes by TX Date"/>
+    <link href="http://api.channel4.com/pmlsd/tags/drama/title.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="All Programmes by Title"/>
+    <link href="http://api.channel4.com/pmlsd/tags/drama/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD Programmes by TX Date"/>
+    <link href="http://api.channel4.com/pmlsd/tags/drama/4od/title.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD Programmes by Title"/>
+    <dc:relation.CategoryType>Display</dc:relation.CategoryType>
+    <dc:relation.CategoryOrder>3</dc:relation.CategoryOrder>
+    <dc:relation.AllProgrammeCount>189</dc:relation.AllProgrammeCount>
+    <dc:relation.4oDProgrammeCount>114</dc:relation.4oDProgrammeCount>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/tags/e4</id>
+    <title type="text">E4</title>
+    <summary type="html">Channel 4 E4 Programmes</summary>
+    <updated>2011-09-02T15:58:44.468Z</updated>
+    <link href="http://www.channel4.com/programmes/tags/e4" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/tags/e4.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml" title="All Programmes by TX Date"/>
+    <link href="http://api.channel4.com/pmlsd/tags/e4/title.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="All Programmes by Title"/>
+    <link href="http://api.channel4.com/pmlsd/tags/e4/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD Programmes by TX Date"/>
+    <link href="http://api.channel4.com/pmlsd/tags/e4/4od/title.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD Programmes by Title"/>
+    <dc:relation.CategoryType>None</dc:relation.CategoryType>
+    <dc:relation.AllProgrammeCount>53</dc:relation.AllProgrammeCount>
+    <dc:relation.4oDProgrammeCount>17</dc:relation.4oDProgrammeCount>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/tags/education-and-learning</id>
+    <title type="text">Education and Learning</title>
+    <summary type="html">Channel 4 Education and Learning Programmes</summary>
+    <updated>2011-09-02T15:58:44.468Z</updated>
+    <link href="http://www.channel4.com/programmes/tags/education-and-learning" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/tags/education-and-learning.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml" title="All Programmes by TX Date"/>
+    <link href="http://api.channel4.com/pmlsd/tags/education-and-learning/title.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="All Programmes by Title"/>
+    <link href="http://api.channel4.com/pmlsd/tags/education-and-learning/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD Programmes by TX Date"/>
+    <link href="http://api.channel4.com/pmlsd/tags/education-and-learning/4od/title.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD Programmes by Title"/>
+    <dc:relation.CategoryType>None</dc:relation.CategoryType>
+    <dc:relation.AllProgrammeCount>38</dc:relation.AllProgrammeCount>
+    <dc:relation.4oDProgrammeCount>24</dc:relation.4oDProgrammeCount>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/tags/entertainment</id>
+    <title type="text">Entertainment</title>
+    <summary type="html">Channel 4 Entertainment Programmes</summary>
+    <updated>2011-09-02T15:58:44.469Z</updated>
+    <link href="http://www.channel4.com/programmes/tags/entertainment" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/tags/entertainment.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml" title="All Programmes by TX Date"/>
+    <link href="http://api.channel4.com/pmlsd/tags/entertainment/title.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="All Programmes by Title"/>
+    <link href="http://api.channel4.com/pmlsd/tags/entertainment/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD Programmes by TX Date"/>
+    <link href="http://api.channel4.com/pmlsd/tags/entertainment/4od/title.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD Programmes by Title"/>
+    <dc:relation.CategoryType>Display</dc:relation.CategoryType>
+    <dc:relation.CategoryOrder>4</dc:relation.CategoryOrder>
+    <dc:relation.AllProgrammeCount>206</dc:relation.AllProgrammeCount>
+    <dc:relation.4oDProgrammeCount>81</dc:relation.4oDProgrammeCount>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/tags/family-and-parenting</id>
+    <title type="text">Family and Parenting</title>
+    <summary type="html">Channel 4 Family and Parenting Programmes</summary>
+    <updated>2011-09-02T15:58:44.470Z</updated>
+    <link href="http://www.channel4.com/programmes/tags/family-and-parenting" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/tags/family-and-parenting.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml" title="All Programmes by TX Date"/>
+    <link href="http://api.channel4.com/pmlsd/tags/family-and-parenting/title.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="All Programmes by Title"/>
+    <link href="http://api.channel4.com/pmlsd/tags/family-and-parenting/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD Programmes by TX Date"/>
+    <link href="http://api.channel4.com/pmlsd/tags/family-and-parenting/4od/title.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD Programmes by Title"/>
+    <dc:relation.CategoryType>None</dc:relation.CategoryType>
+    <dc:relation.AllProgrammeCount>51</dc:relation.AllProgrammeCount>
+    <dc:relation.4oDProgrammeCount>28</dc:relation.4oDProgrammeCount>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/tags/fashion-and-beauty</id>
+    <title type="text">Fashion and Beauty</title>
+    <summary type="html">Channel 4 Fashion and Beauty Programmes</summary>
+    <updated>2011-09-02T15:58:44.470Z</updated>
+    <link href="http://www.channel4.com/programmes/tags/fashion-and-beauty" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/tags/fashion-and-beauty.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml" title="All Programmes by TX Date"/>
+    <link href="http://api.channel4.com/pmlsd/tags/fashion-and-beauty/title.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="All Programmes by Title"/>
+    <link href="http://api.channel4.com/pmlsd/tags/fashion-and-beauty/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD Programmes by TX Date"/>
+    <link href="http://api.channel4.com/pmlsd/tags/fashion-and-beauty/4od/title.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD Programmes by Title"/>
+    <dc:relation.CategoryType>None</dc:relation.CategoryType>
+    <dc:relation.AllProgrammeCount>28</dc:relation.AllProgrammeCount>
+    <dc:relation.4oDProgrammeCount>19</dc:relation.4oDProgrammeCount>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/tags/film</id>
+    <title type="text">Film</title>
+    <summary type="html">Channel 4 Film Programmes</summary>
+    <updated>2011-09-02T15:58:44.471Z</updated>
+    <link href="http://www.channel4.com/programmes/tags/film" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/tags/film.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml" title="All Programmes by TX Date"/>
+    <link href="http://api.channel4.com/pmlsd/tags/film/title.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="All Programmes by Title"/>
+    <dc:relation.CategoryType>None</dc:relation.CategoryType>
+    <dc:relation.AllProgrammeCount>424</dc:relation.AllProgrammeCount>
+    <dc:relation.4oDProgrammeCount>0</dc:relation.4oDProgrammeCount>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/tags/food</id>
+    <title type="text">Food</title>
+    <summary type="html">Channel 4 Food Programmes</summary>
+    <updated>2011-09-02T15:58:44.472Z</updated>
+    <link href="http://www.channel4.com/programmes/tags/food" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/tags/food.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml" title="All Programmes by TX Date"/>
+    <link href="http://api.channel4.com/pmlsd/tags/food/title.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="All Programmes by Title"/>
+    <link href="http://api.channel4.com/pmlsd/tags/food/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD Programmes by TX Date"/>
+    <link href="http://api.channel4.com/pmlsd/tags/food/4od/title.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD Programmes by Title"/>
+    <dc:relation.CategoryType>Display</dc:relation.CategoryType>
+    <dc:relation.CategoryOrder>5</dc:relation.CategoryOrder>
+    <dc:relation.AllProgrammeCount>81</dc:relation.AllProgrammeCount>
+    <dc:relation.4oDProgrammeCount>55</dc:relation.4oDProgrammeCount>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/tags/health-and-wellbeing</id>
+    <title type="text">Health and Wellbeing</title>
+    <summary type="html">Channel 4 Health and Wellbeing Programmes</summary>
+    <updated>2011-09-02T15:58:44.472Z</updated>
+    <link href="http://www.channel4.com/programmes/tags/health-and-wellbeing" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/tags/health-and-wellbeing.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml" title="All Programmes by TX Date"/>
+    <link href="http://api.channel4.com/pmlsd/tags/health-and-wellbeing/title.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="All Programmes by Title"/>
+    <link href="http://api.channel4.com/pmlsd/tags/health-and-wellbeing/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD Programmes by TX Date"/>
+    <link href="http://api.channel4.com/pmlsd/tags/health-and-wellbeing/4od/title.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD Programmes by Title"/>
+    <dc:relation.CategoryType>None</dc:relation.CategoryType>
+    <dc:relation.AllProgrammeCount>66</dc:relation.AllProgrammeCount>
+    <dc:relation.4oDProgrammeCount>27</dc:relation.4oDProgrammeCount>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/tags/history</id>
+    <title type="text">History</title>
+    <summary type="html">Channel 4 History Programmes</summary>
+    <updated>2011-09-02T15:58:44.473Z</updated>
+    <link href="http://www.channel4.com/programmes/tags/history" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/tags/history.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml" title="All Programmes by TX Date"/>
+    <link href="http://api.channel4.com/pmlsd/tags/history/title.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="All Programmes by Title"/>
+    <link href="http://api.channel4.com/pmlsd/tags/history/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD Programmes by TX Date"/>
+    <link href="http://api.channel4.com/pmlsd/tags/history/4od/title.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD Programmes by Title"/>
+    <dc:relation.CategoryType>None</dc:relation.CategoryType>
+    <dc:relation.AllProgrammeCount>138</dc:relation.AllProgrammeCount>
+    <dc:relation.4oDProgrammeCount>69</dc:relation.4oDProgrammeCount>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/tags/homes-and-gardens</id>
+    <title type="text">Homes and Gardens</title>
+    <summary type="html">Channel 4 Homes and Gardens Programmes</summary>
+    <updated>2011-09-02T15:58:44.474Z</updated>
+    <link href="http://www.channel4.com/programmes/tags/homes-and-gardens" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/tags/homes-and-gardens.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml" title="All Programmes by TX Date"/>
+    <link href="http://api.channel4.com/pmlsd/tags/homes-and-gardens/title.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="All Programmes by Title"/>
+    <link href="http://api.channel4.com/pmlsd/tags/homes-and-gardens/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD Programmes by TX Date"/>
+    <link href="http://api.channel4.com/pmlsd/tags/homes-and-gardens/4od/title.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD Programmes by Title"/>
+    <dc:relation.CategoryType>None</dc:relation.CategoryType>
+    <dc:relation.AllProgrammeCount>62</dc:relation.AllProgrammeCount>
+    <dc:relation.4oDProgrammeCount>47</dc:relation.4oDProgrammeCount>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/tags/more4</id>
+    <title type="text">More4</title>
+    <summary type="html">Channel 4 More4 Programmes</summary>
+    <updated>2011-09-02T15:58:44.474Z</updated>
+    <link href="http://www.channel4.com/programmes/tags/more4" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/tags/more4.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml" title="All Programmes by TX Date"/>
+    <link href="http://api.channel4.com/pmlsd/tags/more4/title.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="All Programmes by Title"/>
+    <link href="http://api.channel4.com/pmlsd/tags/more4/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD Programmes by TX Date"/>
+    <link href="http://api.channel4.com/pmlsd/tags/more4/4od/title.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD Programmes by Title"/>
+    <dc:relation.CategoryType>None</dc:relation.CategoryType>
+    <dc:relation.AllProgrammeCount>217</dc:relation.AllProgrammeCount>
+    <dc:relation.4oDProgrammeCount>47</dc:relation.4oDProgrammeCount>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/tags/music</id>
+    <title type="text">Music</title>
+    <summary type="html">Channel 4 Music Programmes</summary>
+    <updated>2011-09-02T15:58:44.475Z</updated>
+    <link href="http://www.channel4.com/programmes/tags/music" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/tags/music.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml" title="All Programmes by TX Date"/>
+    <link href="http://api.channel4.com/pmlsd/tags/music/title.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="All Programmes by Title"/>
+    <link href="http://api.channel4.com/pmlsd/tags/music/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD Programmes by TX Date"/>
+    <link href="http://api.channel4.com/pmlsd/tags/music/4od/title.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD Programmes by Title"/>
+    <dc:relation.CategoryType>None</dc:relation.CategoryType>
+    <dc:relation.AllProgrammeCount>168</dc:relation.AllProgrammeCount>
+    <dc:relation.4oDProgrammeCount>32</dc:relation.4oDProgrammeCount>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/tags/news-current-affairs-and-politics</id>
+    <title type="text">News, Current Affairs and Politics</title>
+    <summary type="html">Channel 4 News, Current Affairs and Politics Programmes</summary>
+    <updated>2011-09-02T15:58:44.475Z</updated>
+    <link href="http://www.channel4.com/programmes/tags/news-current-affairs-and-politics" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/tags/news-current-affairs-and-politics.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml" title="All Programmes by TX Date"/>
+    <link href="http://api.channel4.com/pmlsd/tags/news-current-affairs-and-politics/title.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="All Programmes by Title"/>
+    <link href="http://api.channel4.com/pmlsd/tags/news-current-affairs-and-politics/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD Programmes by TX Date"/>
+    <link href="http://api.channel4.com/pmlsd/tags/news-current-affairs-and-politics/4od/title.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD Programmes by Title"/>
+    <dc:relation.CategoryType>Display</dc:relation.CategoryType>
+    <dc:relation.CategoryOrder>6</dc:relation.CategoryOrder>
+    <dc:relation.AllProgrammeCount>59</dc:relation.AllProgrammeCount>
+    <dc:relation.4oDProgrammeCount>26</dc:relation.4oDProgrammeCount>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/tags/quizzes-and-gameshows</id>
+    <title type="text">Quizzes and Gameshows</title>
+    <summary type="html">Channel 4 Quizzes and Gameshows Programmes</summary>
+    <updated>2011-09-02T15:58:44.476Z</updated>
+    <link href="http://www.channel4.com/programmes/tags/quizzes-and-gameshows" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/tags/quizzes-and-gameshows.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml" title="All Programmes by TX Date"/>
+    <link href="http://api.channel4.com/pmlsd/tags/quizzes-and-gameshows/title.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="All Programmes by Title"/>
+    <link href="http://api.channel4.com/pmlsd/tags/quizzes-and-gameshows/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD Programmes by TX Date"/>
+    <link href="http://api.channel4.com/pmlsd/tags/quizzes-and-gameshows/4od/title.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD Programmes by Title"/>
+    <dc:relation.CategoryType>None</dc:relation.CategoryType>
+    <dc:relation.AllProgrammeCount>26</dc:relation.AllProgrammeCount>
+    <dc:relation.4oDProgrammeCount>16</dc:relation.4oDProgrammeCount>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/tags/reality-shows</id>
+    <title type="text">Reality Shows</title>
+    <summary type="html">Channel 4 Reality Shows Programmes</summary>
+    <updated>2011-09-02T15:58:44.477Z</updated>
+    <link href="http://www.channel4.com/programmes/tags/reality-shows" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/tags/reality-shows.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml" title="All Programmes by TX Date"/>
+    <link href="http://api.channel4.com/pmlsd/tags/reality-shows/title.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="All Programmes by Title"/>
+    <link href="http://api.channel4.com/pmlsd/tags/reality-shows/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD Programmes by TX Date"/>
+    <link href="http://api.channel4.com/pmlsd/tags/reality-shows/4od/title.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD Programmes by Title"/>
+    <dc:relation.CategoryType>None</dc:relation.CategoryType>
+    <dc:relation.AllProgrammeCount>52</dc:relation.AllProgrammeCount>
+    <dc:relation.4oDProgrammeCount>28</dc:relation.4oDProgrammeCount>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/tags/religion-and-belief</id>
+    <title type="text">Religion and Belief</title>
+    <summary type="html">Channel 4 Religion and Belief Programmes</summary>
+    <updated>2011-09-02T15:58:44.477Z</updated>
+    <link href="http://www.channel4.com/programmes/tags/religion-and-belief" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/tags/religion-and-belief.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml" title="All Programmes by TX Date"/>
+    <link href="http://api.channel4.com/pmlsd/tags/religion-and-belief/title.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="All Programmes by Title"/>
+    <link href="http://api.channel4.com/pmlsd/tags/religion-and-belief/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD Programmes by TX Date"/>
+    <link href="http://api.channel4.com/pmlsd/tags/religion-and-belief/4od/title.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD Programmes by Title"/>
+    <dc:relation.CategoryType>None</dc:relation.CategoryType>
+    <dc:relation.AllProgrammeCount>42</dc:relation.AllProgrammeCount>
+    <dc:relation.4oDProgrammeCount>19</dc:relation.4oDProgrammeCount>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/tags/science-nature-and-the-environment</id>
+    <title type="text">Science, Nature and the Environment</title>
+    <summary type="html">Channel 4 Science, Nature and the Environment Programmes</summary>
+    <updated>2011-09-02T15:58:44.478Z</updated>
+    <link href="http://www.channel4.com/programmes/tags/science-nature-and-the-environment" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/tags/science-nature-and-the-environment.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml" title="All Programmes by TX Date"/>
+    <link href="http://api.channel4.com/pmlsd/tags/science-nature-and-the-environment/title.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="All Programmes by Title"/>
+    <link href="http://api.channel4.com/pmlsd/tags/science-nature-and-the-environment/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD Programmes by TX Date"/>
+    <link href="http://api.channel4.com/pmlsd/tags/science-nature-and-the-environment/4od/title.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD Programmes by Title"/>
+    <dc:relation.CategoryType>None</dc:relation.CategoryType>
+    <dc:relation.AllProgrammeCount>67</dc:relation.AllProgrammeCount>
+    <dc:relation.4oDProgrammeCount>36</dc:relation.4oDProgrammeCount>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/tags/sex-and-relationships</id>
+    <title type="text">Sex and Relationships</title>
+    <summary type="html">Channel 4 Sex and Relationships Programmes</summary>
+    <updated>2011-09-02T15:58:44.479Z</updated>
+    <link href="http://www.channel4.com/programmes/tags/sex-and-relationships" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/tags/sex-and-relationships.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml" title="All Programmes by TX Date"/>
+    <link href="http://api.channel4.com/pmlsd/tags/sex-and-relationships/title.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="All Programmes by Title"/>
+    <link href="http://api.channel4.com/pmlsd/tags/sex-and-relationships/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD Programmes by TX Date"/>
+    <link href="http://api.channel4.com/pmlsd/tags/sex-and-relationships/4od/title.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD Programmes by Title"/>
+    <dc:relation.CategoryType>None</dc:relation.CategoryType>
+    <dc:relation.AllProgrammeCount>35</dc:relation.AllProgrammeCount>
+    <dc:relation.4oDProgrammeCount>21</dc:relation.4oDProgrammeCount>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/tags/society-and-culture</id>
+    <title type="text">Society and Culture</title>
+    <summary type="html">Channel 4 Society and Culture Programmes</summary>
+    <updated>2011-09-02T15:58:44.479Z</updated>
+    <link href="http://www.channel4.com/programmes/tags/society-and-culture" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/tags/society-and-culture.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml" title="All Programmes by TX Date"/>
+    <link href="http://api.channel4.com/pmlsd/tags/society-and-culture/title.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="All Programmes by Title"/>
+    <link href="http://api.channel4.com/pmlsd/tags/society-and-culture/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD Programmes by TX Date"/>
+    <link href="http://api.channel4.com/pmlsd/tags/society-and-culture/4od/title.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD Programmes by Title"/>
+    <dc:relation.CategoryType>None</dc:relation.CategoryType>
+    <dc:relation.AllProgrammeCount>41</dc:relation.AllProgrammeCount>
+    <dc:relation.4oDProgrammeCount>22</dc:relation.4oDProgrammeCount>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/tags/sports-and-games</id>
+    <title type="text">Sports and Games</title>
+    <summary type="html">Channel 4 Sports and Games Programmes</summary>
+    <updated>2011-09-02T15:58:44.480Z</updated>
+    <link href="http://www.channel4.com/programmes/tags/sports-and-games" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/tags/sports-and-games.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml" title="All Programmes by TX Date"/>
+    <link href="http://api.channel4.com/pmlsd/tags/sports-and-games/title.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="All Programmes by Title"/>
+    <link href="http://api.channel4.com/pmlsd/tags/sports-and-games/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD Programmes by TX Date"/>
+    <link href="http://api.channel4.com/pmlsd/tags/sports-and-games/4od/title.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD Programmes by Title"/>
+    <dc:relation.CategoryType>None</dc:relation.CategoryType>
+    <dc:relation.AllProgrammeCount>75</dc:relation.AllProgrammeCount>
+    <dc:relation.4oDProgrammeCount>34</dc:relation.4oDProgrammeCount>
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/programmes/tags/us-shows</id>
+    <title type="text">US Shows</title>
+    <summary type="html">Channel 4 US Shows Programmes</summary>
+    <updated>2011-09-02T15:58:44.481Z</updated>
+    <link href="http://www.channel4.com/programmes/tags/us-shows" rel="alternate" type="text/html"/>
+    <link href="http://api.channel4.com/pmlsd/tags/us-shows.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="self" type="application/atom+xml" title="All Programmes by TX Date"/>
+    <link href="http://api.channel4.com/pmlsd/tags/us-shows/title.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="All Programmes by Title"/>
+    <link href="http://api.channel4.com/pmlsd/tags/us-shows/4od.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD Programmes by TX Date"/>
+    <link href="http://api.channel4.com/pmlsd/tags/us-shows/4od/title.atom?apikey=56teq7vj2y94tx953n2d4epd" rel="related" type="application/atom+xml" title="4oD Programmes by Title"/>
+    <dc:relation.CategoryType>None</dc:relation.CategoryType>
+    <dc:relation.AllProgrammeCount>49</dc:relation.AllProgrammeCount>
+    <dc:relation.4oDProgrammeCount>8</dc:relation.4oDProgrammeCount>
+  </entry>
+
+</feed>

@@ -1,0 +1,394 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:fh="http://purl.org/syndication/history/1.0" xml:base="http://www.channel4.com">
+  <id>tag:www.channel4.com,2009:/programmes/search/at</id>
+  <title type="text">Brand Search with "AT"</title>
+  <updated>2011-09-05T14:42:15.475Z</updated>
+  <author>
+    <name>Channel 4 Television</name>
+  </author>
+  <logo imageSource="default">http://www.channel4.com/static/programmes/images/c4-atom-logo.gif</logo>
+  <link href="http://www.channel4.com/pmlsd/search/at.atom" rel="self" type="application/atom+xml" />
+  <fh:complete />
+  <link href="http://www.channel4.com/pmlsd/search/4od/at.atom" rel="related" type="application/atom+xml" title="4oD" />
+  <dc:relation.TotalResults>33</dc:relation.TotalResults>
+  <dc:relation.StartOffset>1</dc:relation.StartOffset>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/2011-ipc-athletics-world-championships</id>
+    <title type="text">2011 IPC Athletics World Championships</title>
+    <summary type="html">Great Britain's paralympic athletes head to Christchurch, New Zealand, for the last major international athletics gathering before London 2012</summary>
+    <updated>2011-02-02T17:29:48.630Z</updated>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/2011-ipc-athletics-world-championships/b6d45204-30c1-4e88-b0b2-c52f4382f5f3_200x113.jpg" height="113" width="200" imageSource="own" />
+    </media:content>
+    <link href="http://www.channel4.com/programmes/2011-ipc-athletics-world-championships" rel="alternate" type="text/html" />
+    <link href="http://www.channel4.com/pmlsd/2011-ipc-athletics-world-championships.atom" rel="self" type="application/atom+xml" />
+    <link href="http://www.channel4.com/pmlsd/2011-ipc-athletics-world-championships/4od.atom" rel="related" type="application/atom+xml" title="4oD" />
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/4music-editors-live-at-fabric</id>
+    <title type="text">4Music: Editors Live at Fabric</title>
+    <summary type="html">Indie rockers Editors play numbers from their London-inspired third album In This Light and on This Evening at legendary nightclub Fabric and give insights into their creative processes between songs</summary>
+    <updated>2010-11-03T04:53:53.399Z</updated>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/4music-editors-live-at-fabric/836673f2-47d7-4cf6-aa69-ea7fdd026828_200x113.jpg" height="113" width="200" imageSource="own" />
+    </media:content>
+    <link href="http://www.channel4.com/programmes/4music-editors-live-at-fabric" rel="alternate" type="text/html" />
+    <link href="http://www.channel4.com/pmlsd/4music-editors-live-at-fabric.atom" rel="self" type="application/atom+xml" />
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/arctic-monkeys-at-the-apollo</id>
+    <title type="text">Arctic Monkeys at the Apollo</title>
+    <summary type="html">An exclusive play of the Arctic Monkeys' now legendary gig at the Manchester Apollo</summary>
+    <updated>2010-11-03T04:53:53.399Z</updated>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/arctic-monkeys-at-the-apollo/arctic-monkeys-at-the-apollo_200x113.jpg" height="113" width="200" imageSource="own" />
+    </media:content>
+    <link href="http://www.channel4.com/programmes/arctic-monkeys-at-the-apollo" rel="alternate" type="text/html" />
+    <link href="http://www.channel4.com/pmlsd/arctic-monkeys-at-the-apollo.atom" rel="self" type="application/atom+xml" />
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/athletics-iaaf-world-championships-2011</id>
+    <title type="text">Athletics: IAAF World Championships 2011</title>
+    <summary type="html">All the action from the world's top athletics championship</summary>
+    <updated>2011-08-24T14:52:45.893Z</updated>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/athletics-iaaf-world-championships/299efb8b-d086-491e-8f1e-1b27106387f0_200x113.jpg" height="113" width="200" imageSource="own" />
+    </media:content>
+    <link href="http://www.channel4.com/programmes/athletics-iaaf-world-championships-2011" rel="alternate" type="text/html" />
+    <link href="http://www.channel4.com/pmlsd/athletics-iaaf-world-championships-2011.atom" rel="self" type="application/atom+xml" />
+    <link href="http://www.channel4.com/pmlsd/athletics-iaaf-world-championships-2011/4od.atom" rel="related" type="application/atom+xml" title="4oD" />
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/athletics-the-iaaf-world-youth-championships</id>
+    <title type="text">Athletics: The IAAF World Youth Championships</title>
+    <summary type="html">Highlights from the 2011 meeting in Lille, northern France</summary>
+    <updated>2011-07-13T09:34:42.630Z</updated>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/athletics-the-iaaf-world-youth-championships/10104d7e-3b35-4f5f-92af-602254e93b58_200x113.jpg" height="113" width="200" imageSource="own" />
+    </media:content>
+    <link href="http://www.channel4.com/programmes/athletics-the-iaaf-world-youth-championships" rel="alternate" type="text/html" />
+    <link href="http://www.channel4.com/pmlsd/athletics-the-iaaf-world-youth-championships.atom" rel="self" type="application/atom+xml" />
+    <link href="http://www.channel4.com/pmlsd/athletics-the-iaaf-world-youth-championships/4od.atom" rel="related" type="application/atom+xml" title="4oD" />
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/atlantic-convoys</id>
+    <title type="text">Atlantic Convoys</title>
+    <summary type="html">In WWII, merchant ships bringing vital goods across the Atlantic were Britain's crucial lifeline, one which German U-boats were determined to destroy in the longest and bloodiest campaign of the war</summary>
+    <updated>2010-11-03T04:53:53.399Z</updated>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/atlantic-convoys/fb3a8529-a4fb-4dea-a521-9ab05152ec35_200x113.jpg" height="113" width="200" imageSource="own" />
+    </media:content>
+    <link href="http://www.channel4.com/programmes/atlantic-convoys" rel="alternate" type="text/html" />
+    <link href="http://www.channel4.com/pmlsd/atlantic-convoys.atom" rel="self" type="application/atom+xml" />
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/attila-and-the-empire-of-the-huns</id>
+    <title type="text">Attila and the Empire of the Huns</title>
+    <summary type="html">The story of how Attila the Hun almost conquered Western Europe, and how the tide of history eventually turned against him</summary>
+    <updated>2011-04-08T14:22:02.596Z</updated>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/attila-and-the-empire-of-the-huns/6d774041-ac00-42d3-89be-81641594148a_200x113.jpg" height="113" width="200" imageSource="own" />
+    </media:content>
+    <link href="http://www.channel4.com/programmes/attila-and-the-empire-of-the-huns" rel="alternate" type="text/html" />
+    <link href="http://www.channel4.com/pmlsd/attila-and-the-empire-of-the-huns.atom" rel="self" type="application/atom+xml" />
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/biffy-clyro-live-at-wembley</id>
+    <title type="text">Biffy Clyro: Live at Wembley</title>
+    <summary type="html">In this music programme, Biffy Clyro perform some of their biggest hits at  Wembley Arena including Bubbles, Mountains and Many of Horror</summary>
+    <updated>2011-06-22T16:47:27.079Z</updated>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/biffy-clyro-live-at-wembley/433b70e9-2369-4225-a386-262cae1a680d_200x113.jpg" height="113" width="200" imageSource="own" />
+    </media:content>
+    <link href="http://www.channel4.com/programmes/biffy-clyro-live-at-wembley" rel="alternate" type="text/html" />
+    <link href="http://www.channel4.com/pmlsd/biffy-clyro-live-at-wembley.atom" rel="self" type="application/atom+xml" />
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/bury-my-heart-at-wounded-knee</id>
+    <title type="text">Bury My Heart at Wounded Knee</title>
+    <summary type="html">This epic film follows the subjugation of the American Indian nations through the second part of the 19th century, ending with the infamous massacre at Wounded Knee Creek</summary>
+    <updated>2010-11-03T04:53:53.399Z</updated>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/bury-my-heart-at-wounded-knee/588b832e-29c9-428f-bce4-7fdaa548e71e_200x113.jpg" height="113" width="200" imageSource="own" />
+    </media:content>
+    <link href="http://www.channel4.com/programmes/bury-my-heart-at-wounded-knee" rel="alternate" type="text/html" />
+    <link href="http://www.channel4.com/pmlsd/bury-my-heart-at-wounded-knee.atom" rel="self" type="application/atom+xml" />
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/encounters-at-the-end-of-the-world</id>
+    <title type="text">Encounters at the End of the World</title>
+    <summary type="html">Werner Herzog's Oscar-nominated film finds the legendary director in Antarctica, at the McMurdo Research station where he meets the scientists who inhabit a remote, magical world</summary>
+    <updated>2010-11-03T04:53:53.399Z</updated>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/encounters-at-the-end-of-the-world/21b14f14-edc6-4fa6-be44-6a971c8fb767_200x113.jpg" height="113" width="200" imageSource="own" />
+    </media:content>
+    <link href="http://www.channel4.com/programmes/encounters-at-the-end-of-the-world" rel="alternate" type="text/html" />
+    <link href="http://www.channel4.com/pmlsd/encounters-at-the-end-of-the-world.atom" rel="self" type="application/atom+xml" />
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/gas-attack</id>
+    <title type="text">Gas Attack</title>
+    <summary type="html">In this futuristic feature-length drama, an extremist group releases anthrax into a community of Kurdish asylum seekers in Glasgow, with devastating effects</summary>
+    <updated>2010-11-03T04:53:53.399Z</updated>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/gas-attack/0e2cdcb1-d014-44a7-b660-09b20bf4d90f_200x113.jpg" height="113" width="200" imageSource="own" />
+    </media:content>
+    <link href="http://www.channel4.com/programmes/gas-attack" rel="alternate" type="text/html" />
+    <link href="http://www.channel4.com/pmlsd/gas-attack.atom" rel="self" type="application/atom+xml" />
+    <link href="http://www.channel4.com/pmlsd/gas-attack/4od.atom" rel="related" type="application/atom+xml" title="4oD" />
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/inside-incredible-athletes</id>
+    <title type="text">Inside Incredible Athletes</title>
+    <summary type="html">State-of-the-art scientific testing and stunning cinematography reveal the inside story of how the Paralympic elite achieve sporting excellence</summary>
+    <updated>2011-08-19T09:29:57.008Z</updated>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/inside-incredible-athletes/a430c093-e41c-4b52-825f-80019552082b_200x113.jpg" height="113" width="200" imageSource="own" />
+    </media:content>
+    <link href="http://www.channel4.com/programmes/inside-incredible-athletes" rel="alternate" type="text/html" />
+    <link href="http://www.channel4.com/pmlsd/inside-incredible-athletes.atom" rel="self" type="application/atom+xml" />
+    <link href="http://www.channel4.com/pmlsd/inside-incredible-athletes/4od.atom" rel="related" type="application/atom+xml" title="4oD" />
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/jamie-at-home</id>
+    <title type="text">Jamie at Home</title>
+    <summary type="html">The chef goes back to his roots, literally. From his Essex kitchen and garden, Jamie Oliver shows how easy it is to grow fantastic fruit and veg, and turn them into simple, delicious food.</summary>
+    <updated>2010-11-17T17:11:03.178Z</updated>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/jamie-at-home/jamie-at-home_200x113.jpg" height="113" width="200" imageSource="own" />
+    </media:content>
+    <link href="http://www.channel4.com/programmes/jamie-at-home" rel="alternate" type="text/html" />
+    <link href="http://www.channel4.com/pmlsd/jamie-at-home.atom" rel="self" type="application/atom+xml" />
+    <link href="http://www.channel4.com/pmlsd/jamie-at-home/4od.atom" rel="related" type="application/atom+xml" title="4oD" />
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/jamie-at-home-christmas-special</id>
+    <title type="text">Jamie at Home Christmas Special</title>
+    <summary type="html">In an hour-long special, Jamie Oliver prepares a festive feast with help from his friend and mentor Gennaro Contaldo, and Brian the gardener. Jamie is also joined by free range turkey farmer Paul Kelly, and free range goose doyenne Judy Goodman.</summary>
+    <updated>2010-11-17T17:55:48.747Z</updated>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/jamie-at-home-christmas-special/e4f48596-7977-4543-a291-b220bbfb5356_200x113.jpg" height="113" width="200" imageSource="own" />
+    </media:content>
+    <link href="http://www.channel4.com/programmes/jamie-at-home-christmas-special" rel="alternate" type="text/html" />
+    <link href="http://www.channel4.com/pmlsd/jamie-at-home-christmas-special.atom" rel="self" type="application/atom+xml" />
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/jennifer-saunders-laughing-at-the-90s</id>
+    <title type="text">Jennifer Saunders: Laughing at the 90s</title>
+    <summary type="html">A romp through the story of 10 years that saw comedy finally arrive centre stage.  The Absolutely Fabulous star recounts the story of a decade during which she became an international star.</summary>
+    <updated>2011-07-28T16:42:08.222Z</updated>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/jennifer-saunders-laughing-at-the-90s/81eae4ef-3488-4964-af66-65a39129d49c_200x113.jpg" height="113" width="200" imageSource="own" />
+    </media:content>
+    <link href="http://www.channel4.com/programmes/jennifer-saunders-laughing-at-the-90s" rel="alternate" type="text/html" />
+    <link href="http://www.channel4.com/pmlsd/jennifer-saunders-laughing-at-the-90s.atom" rel="self" type="application/atom+xml" />
+    <link href="http://www.channel4.com/pmlsd/jennifer-saunders-laughing-at-the-90s/4od.atom" rel="related" type="application/atom+xml" title="4oD" />
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/last-party-at-the-palace</id>
+    <title type="text">Last Party at the Palace</title>
+    <summary type="html">In May 1958, a longstanding aristocratic ritual came to an end as the last debutantes took their curtsies before the Queen. This evocative documentary tells the story of that final 'season'.</summary>
+    <updated>2010-11-03T04:53:53.399Z</updated>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/last-party-at-the-palace/last-party-at-the-palace_200x113.jpg" height="113" width="200" imageSource="own" />
+    </media:content>
+    <link href="http://www.channel4.com/programmes/last-party-at-the-palace" rel="alternate" type="text/html" />
+    <link href="http://www.channel4.com/pmlsd/last-party-at-the-palace.atom" rel="self" type="application/atom+xml" />
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/leaving-home-at-8</id>
+    <title type="text">Leaving Home at 8</title>
+    <summary type="html">Cutting Edge examines how children and parents deal with the emotional highs and lows of leaving home to go to boarding school</summary>
+    <updated>2010-11-03T04:53:53.399Z</updated>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/leaving-home-at-eight/5b7bb493-d219-465b-9e6f-30e9f2ffd420_200x113.jpg" height="113" width="200" imageSource="own" />
+    </media:content>
+    <link href="http://www.channel4.com/programmes/leaving-home-at-8" rel="alternate" type="text/html" />
+    <link href="http://www.channel4.com/pmlsd/leaving-home-at-8.atom" rel="self" type="application/atom+xml" />
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/linkin-park-live-at-madison-square-garden</id>
+    <title type="text">Linkin Park: Live at Madison Square Garden</title>
+    <summary type="html">In this music programme American band Linkin Park perform their hits, including Faint, Waiting for the End and In the End. Filmed at Madison Square Garden, New York</summary>
+    <updated>2011-07-05T16:00:53.085Z</updated>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/linkin-park-live-at-madison-square-garden/8d4d929e-6439-494d-ab60-4eb01d167982_200x113.jpg" height="113" width="200" imageSource="own" />
+    </media:content>
+    <link href="http://www.channel4.com/programmes/linkin-park-live-at-madison-square-garden" rel="alternate" type="text/html" />
+    <link href="http://www.channel4.com/pmlsd/linkin-park-live-at-madison-square-garden.atom" rel="self" type="application/atom+xml" />
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/manic-street-preachers-one-last-shot-at</id>
+    <title type="text">Manic Street Preachers: One Last Shot at...</title>
+    <summary type="html">...Mass Communication: This programme features highlights from the Manic Street Preachers' album launch gig at Hammersmith Working Men's Club for their album Postcards from a Young Man.</summary>
+    <updated>2010-11-03T04:53:53.399Z</updated>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/manic-street-preachers-one-last-shot-at/9814e7ab-80c0-4d49-a265-23b136649e10_200x113.jpg" height="113" width="200" imageSource="own" />
+    </media:content>
+    <link href="http://www.channel4.com/programmes/manic-street-preachers-one-last-shot-at" rel="alternate" type="text/html" />
+    <link href="http://www.channel4.com/pmlsd/manic-street-preachers-one-last-shot-at.atom" rel="self" type="application/atom+xml" />
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/n-dubz-live-at-the-02</id>
+    <title type="text">N-Dubz: Live at The 02</title>
+    <summary type="html">Music programme featuring coverage of N-Dubz's concert at London's O2 Arena</summary>
+    <updated>2011-08-10T12:46:25.828Z</updated>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/n-dubz-live-at-the-02/42563858-64cb-485a-ab00-ee671b22590a_200x113.jpg" height="113" width="200" imageSource="own" />
+    </media:content>
+    <link href="http://www.channel4.com/programmes/n-dubz-live-at-the-02" rel="alternate" type="text/html" />
+    <link href="http://www.channel4.com/pmlsd/n-dubz-live-at-the-02.atom" rel="self" type="application/atom+xml" />
+    <link href="http://www.channel4.com/pmlsd/n-dubz-live-at-the-02/4od.atom" rel="related" type="application/atom+xml" title="4oD" />
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/nero-live-at-global-gathering</id>
+    <title type="text">Nero Live at Global Gathering</title>
+    <summary type="html">Music programme featuring the highlights from Dubstep star Nero's performance at the 2011 Global Gathering dance music festival in Stratford-upon-Avon</summary>
+    <updated>2011-07-27T18:05:28.496Z</updated>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/nero-live-at-global-gathering/90a26f70-3cfd-425f-bce9-e3eba77e451f_200x113.jpg" height="113" width="200" imageSource="own" />
+    </media:content>
+    <link href="http://www.channel4.com/programmes/nero-live-at-global-gathering" rel="alternate" type="text/html" />
+    <link href="http://www.channel4.com/pmlsd/nero-live-at-global-gathering.atom" rel="self" type="application/atom+xml" />
+    <link href="http://www.channel4.com/pmlsd/nero-live-at-global-gathering/4od.atom" rel="related" type="application/atom+xml" title="4oD" />
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/news-at-noon</id>
+    <title type="text">News at Noon</title>
+    <summary type="html">Includes business news, sport and weather.</summary>
+    <updated>2011-08-24T13:06:22.277Z</updated>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/news-at-noon/news-at-noon_200x113.jpg" height="113" width="200" imageSource="own" />
+    </media:content>
+    <link href="http://www.channel4.com/programmes/news-at-noon" rel="alternate" type="text/html" />
+    <link href="http://www.channel4.com/pmlsd/news-at-noon.atom" rel="self" type="application/atom+xml" />
+    <link href="http://www.channel4.com/news/" rel="related" type="text/html" title="Official Site" />
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/night-at-the-museum</id>
+    <title type="text">Night at the Museum</title>
+    <summary type="html">Ben Stiller plays the night guard at a museum where the exhibits come to life once darkness falls</summary>
+    <updated>2010-12-22T16:35:20.647Z</updated>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/night-at-the-museum/night-at-the-museum-20090522174229_200x113.jpg" height="113" width="200" imageSource="own" />
+    </media:content>
+    <link href="http://www.channel4.com/programmes/night-at-the-museum" rel="alternate" type="text/html" />
+    <link href="http://www.channel4.com/pmlsd/night-at-the-museum.atom" rel="self" type="application/atom+xml" />
+    <link href="http://www.film4.com/reviews/2006/night-at-the-museum" rel="related" type="text/html" title="Official Site" />
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/night-at-the-museum-2-t4-movie-special</id>
+    <title type="text">Night at the Museum 2: T4 Movie Special</title>
+    <summary type="html">Get access to the red carpet at the UK premiere of Ben Stiller's comedy sequel, including interviews with Ricky Gervais and Steve Coogan</summary>
+    <updated>2010-11-03T04:53:53.399Z</updated>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/night-at-the-museum-2-t4-movie-special/night-at-the-museum-2-t4-movie-special-20090515161341_200x113.jpg" height="113" width="200" imageSource="own" />
+    </media:content>
+    <link href="http://www.channel4.com/programmes/night-at-the-museum-2-t4-movie-special" rel="alternate" type="text/html" />
+    <link href="http://www.channel4.com/pmlsd/night-at-the-museum-2-t4-movie-special.atom" rel="self" type="application/atom+xml" />
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/one-born-at-christmas</id>
+    <title type="text">One Born at Christmas</title>
+    <summary type="html">The Bafta Award-winning documentary series One Born Every Minute presents a festive special</summary>
+    <updated>2010-12-13T16:38:17.612Z</updated>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/one-born-at-christmas/b25759c1-aae6-4e77-beba-e64ee26417a6_200x113.jpg" height="113" width="200" imageSource="own" />
+    </media:content>
+    <link href="http://www.channel4.com/programmes/one-born-at-christmas" rel="alternate" type="text/html" />
+    <link href="http://www.channel4.com/pmlsd/one-born-at-christmas.atom" rel="self" type="application/atom+xml" />
+    <link href="http://www.channel4.com/pmlsd/one-born-at-christmas/4od.atom" rel="related" type="application/atom+xml" title="4oD" />
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/robbie-live-at-knebworth</id>
+    <title type="text">Robbie: Live at Knebworth</title>
+    <summary type="html">Footage of Robbie Williams' concerts at Knebworth House in 2003 featuring performances of his biggest hits including, 'Let Me Entertain You', 'Angels', 'Kids', 'Come Undone' and 'She's the One'</summary>
+    <updated>2010-11-03T04:53:53.399Z</updated>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/robbie-live-at-knebworth/3277ef58-c900-4865-b669-fa79960c3fe0_200x113.jpg" height="113" width="200" imageSource="own" />
+    </media:content>
+    <link href="http://www.channel4.com/programmes/robbie-live-at-knebworth" rel="alternate" type="text/html" />
+    <link href="http://www.channel4.com/pmlsd/robbie-live-at-knebworth.atom" rel="self" type="application/atom+xml" />
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/t4-at-fight-cervical-cancer-in-style</id>
+    <title type="text">T4 at Fight Cervical Cancer in Style</title>
+    <summary type="html">Music programme hosted by Lauren Laverne and Miquita Oliver featuring performances from Sugababes at the Fight Cervical Cancer in Style charity event to raise awareness of cervical cancer</summary>
+    <updated>2010-11-03T04:53:53.399Z</updated>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/t4-at-fight-cervical-cancer-in-style/5df16662-cd84-435e-b18c-29245088d579_200x113.jpg" height="113" width="200" imageSource="own" />
+    </media:content>
+    <link href="http://www.channel4.com/programmes/t4-at-fight-cervical-cancer-in-style" rel="alternate" type="text/html" />
+    <link href="http://www.channel4.com/pmlsd/t4-at-fight-cervical-cancer-in-style.atom" rel="self" type="application/atom+xml" />
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/terror-attack-mumbai</id>
+    <title type="text">Terror Attack: Mumbai</title>
+    <summary type="html">The inside story of the 2008 Mumbai terror attacks, told by the people who were caught up in the siege.</summary>
+    <updated>2010-11-03T04:53:53.399Z</updated>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/terror-attack-mumbai/36c1c58b-2082-4572-9e13-16964ba975fe_200x113.jpg" height="113" width="200" imageSource="own" />
+    </media:content>
+    <link href="http://www.channel4.com/programmes/terror-attack-mumbai" rel="alternate" type="text/html" />
+    <link href="http://www.channel4.com/pmlsd/terror-attack-mumbai.atom" rel="self" type="application/atom+xml" />
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/the-atkins-diet-fat-or-fiction</id>
+    <title type="text">The Atkins Diet: Fat or Fiction</title>
+    <summary type="html">This documentary explores all sides of the popular - and so-called 'miracle' - diet. From the people who are following it, to the science for and against it.</summary>
+    <updated>2010-11-03T04:53:53.399Z</updated>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/the-atkins-diet-fat-or-fiction/5127b109-9b79-44a1-b0c0-0a96e99df8f5_200x113.jpg" height="113" width="200" imageSource="own" />
+    </media:content>
+    <link href="http://www.channel4.com/programmes/the-atkins-diet-fat-or-fiction" rel="alternate" type="text/html" />
+    <link href="http://www.channel4.com/pmlsd/the-atkins-diet-fat-or-fiction.atom" rel="self" type="application/atom+xml" />
+    <link href="http://www.channel4.com/pmlsd/the-atkins-diet-fat-or-fiction/4od.atom" rel="related" type="application/atom+xml" title="4oD" />
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/the-family-at-christmas</id>
+    <title type="text">The Family at Christmas</title>
+    <summary type="html">The critically acclaimed observational documentary series The Family returns for a one-off Christmas special. It's the week before Christmas and things are far from calm in the Hughes household.</summary>
+    <updated>2011-08-22T14:27:24.294Z</updated>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/the-family-at-christmas/the-family-at-christmas-20090623113337_200x113.jpg" height="113" width="200" imageSource="own" />
+    </media:content>
+    <link href="http://www.channel4.com/programmes/the-family-at-christmas" rel="alternate" type="text/html" />
+    <link href="http://www.channel4.com/pmlsd/the-family-at-christmas.atom" rel="self" type="application/atom+xml" />
+    <link href="http://www.channel4.com/pmlsd/the-family-at-christmas/4od.atom" rel="related" type="application/atom+xml" title="4oD" />
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/the-killers-live-at-the-royal-albert-hall</id>
+    <title type="text">The Killers Live at the Royal Albert Hall</title>
+    <summary type="html">The Killers perform their greatest hits, including 'Mr Brightside', 'Somebody Told Me' and 'All These Things That I've Done', at a concert filmed at London's Royal Albert Hall</summary>
+    <updated>2010-11-03T04:53:53.399Z</updated>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/the-killers-live-at-the-royal-albert-hall/646e2dbe-e8e3-4414-b93b-ad53f57b3c80_200x113.jpg" height="113" width="200" imageSource="own" />
+    </media:content>
+    <link href="http://www.channel4.com/programmes/the-killers-live-at-the-royal-albert-hall" rel="alternate" type="text/html" />
+    <link href="http://www.channel4.com/pmlsd/the-killers-live-at-the-royal-albert-hall.atom" rel="self" type="application/atom+xml" />
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/three-kings-at-war</id>
+    <title type="text">Three Kings at War</title>
+    <summary type="html">A look at the incredible story of Queen Victoria's three first cousins who found themselves at the centre of a family feud and a global war when she died</summary>
+    <updated>2010-11-03T04:53:53.399Z</updated>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/three-kings-at-war/three-kings-at-war-20090612122814_200x113.jpg" height="113" width="200" imageSource="own" />
+    </media:content>
+    <link href="http://www.channel4.com/programmes/three-kings-at-war" rel="alternate" type="text/html" />
+    <link href="http://www.channel4.com/pmlsd/three-kings-at-war.atom" rel="self" type="application/atom+xml" />
+    <link href="http://www.channel4.com/pmlsd/three-kings-at-war/4od.atom" rel="related" type="application/atom+xml" title="4oD" />
+  </entry>
+  <entry>
+    <id>tag:www.channel4.com,2009:/brand/urban-fox-attack</id>
+    <title type="text">Urban Fox Attack</title>
+    <summary type="html">Are urban foxes a welcome reminder of the countryside and an asset to every back garden, or are they a dangerous menace?</summary>
+    <updated>2010-11-03T04:53:53.399Z</updated>
+    <media:content>
+      <media:thumbnail url="http://www.channel4.com/assets/programmes/images/meet-the-foxes/meet-the-foxes-20090601174539_200x113.jpg" height="113" width="200" imageSource="own" />
+    </media:content>
+    <link href="http://www.channel4.com/programmes/urban-fox-attack" rel="alternate" type="text/html" />
+    <link href="http://www.channel4.com/pmlsd/urban-fox-attack.atom" rel="self" type="application/atom+xml" />
+  </entry>
+
+</feed>
