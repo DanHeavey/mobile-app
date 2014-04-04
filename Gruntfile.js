@@ -68,7 +68,19 @@ module.exports = function (grunt) {
             hostname: 'localhost',
             livereload: true
           }
-        }//,
+        },
+        test: {
+            options: {
+                port: 9001,
+                base: [
+                '.tmp',
+                'test',
+                '<%= yeoman.app %>'
+                ]
+            }
+        }
+
+        //,
 //      livereload: {
 //        options: {
 //          open: true,
